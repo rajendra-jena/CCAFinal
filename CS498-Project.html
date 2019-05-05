@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+
+
+   
+   
+   <html xmlns="http://www.w3.org/1999/xhtml" class="fp-enabled" style="overflow: hidden; height: 100%;">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>A Big Data Analytics Solution</title>
+      <meta name="author" content="Team 27 of CS498-CCA 2019">
+      <meta name="Resource-type" content="Document">
+      <link rel="stylesheet" type="text/css" href="./CS498-Project_files/fullpage.css">
+      <link rel="stylesheet" type="text/css" href="./CS498-Project_files/examples.css">
+      <style>
+         /* Style for our header texts
+         * --------------------------------------- */
+         h1{
+         font-size: 3em;
+         font-family: arial,helvetica;
+         color: #2c2d2d;
+         margin:0;
+         }
+         .intro {
+         color: #2c2d2d;
+		 font-size: 20px;
+         }
+         /* Centered texts in each section
+         * --------------------------------------- */
+         .section{
+		 text-align:left;
+         border-bottom: 6px solid grey;
+		 /*
+		 border-style: outset;
+		 border-width: 10;
+		 border-bottom: 8px solid grey;
+         */
+		 }
+		 .section1
+		 {
+         text-align:center;
+         }
+		 
+		 .button1 {
+			background-color: #00a2e8; /* ededed 008CBA  017da5 017aa3  029bce 00a2e8*/
+			color: #ededed;
+			Outline: none;
+			border-radius: 12px;
+			 /* border-radius: 12px; */
+			padding: 15px 32px;
+			text-align: center;
+			font-size: 28px;
+			/*font-weight:bold;*/
+			-webkit-transition-duration: 0.4s; /* Safari */
+			transition-duration: 0.4s;
+		}
+
+		.button1:hover {
+			background-color: #017aa3; /* blue */
+			color: white;
+			cursor:pointer;
+			/* border-radius: 12px; */
+			 border: 0;
+			border-width: 0;
+			
+		}
+		
+	/*	.bodyText {
+			font-size: 16px;
+LINE-HEIGHT:30px;
+		}*/
+		.bodyText {
+		  font-size: 13.5px;
+		  font-family: 'Raleway', sans-serif;
+		/*  -webkit-margin-before: 0.2em;
+		  -webkit-margin-after: 0.2em;*/
+		 /* color:#404040; */
+		 color:#262626;
+		  text-align: justify;
+LINE-HEIGHT:16px;
+
+		}
+		
+		/************************* overview ****************/
+		
+		form {
+		  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		  position: absolute;
+		  left: 10px;
+		  top: 10px;
+		}
+		label {
+		  display: block;
+		}
+
+		body{
+		  font-family: sans-serif;  
+		}
+
+		.checkbox {
+			margin: 50px auto;
+			position: relative;
+			display: block;
+			width: 100px;
+		}
+
+		 .yaxis line {
+		  stroke: lightgrey;
+		  stroke-opacity: 0.3;
+		  shape-rendering: crispEdges;
+		}
+
+		.axis line, .axis, .axis path {
+		   shape-rendering: crispEdges;
+		   stroke-opacity: 0.3;
+		   stroke: lightgrey;
+		   
+		 }
+		 
+		 .viz4yaxis{
+		   shape-rendering: crispEdges;
+		   stroke-opacity: 0.1;
+		   stroke: darkgrey;
+		 }
+		 
+		 .viz4xaxis1{
+		   shape-rendering: crispEdges;
+		   stroke-opacity: 0.2;
+		   stroke: lightgrey;
+		 }
+		 .viz4annoto1 {
+		    
+		 }
+		 /*
+		 .lineN, .lineS, .lineE, .lineW, .lineC, .lineU {
+		   shape-rendering: crispEdges;
+		 }*/
+		 
+		 .toolTip {
+		  position: absolute;
+		  display: none;
+		  min-width: 80px;
+		  height: auto;
+		  background: none repeat scroll 0 0 #f4f4f4;
+		  border: 2px solid darkgrey;
+		  padding: 7px;
+		  text-align: left;
+		  border-radius: 5px;
+		  font-size: 11px;
+		  pointer-events: none;
+		}
+		
+		.cirLabels{
+		pointer-events: none;
+		}
+		 .toolTip2 {
+		  position: absolute;
+		  display: none;
+		  min-width: 80px;
+		  height: auto;
+		  background: none repeat scroll 0 0 #f4f4f4;
+		  border: 2px solid darkgrey;
+		  padding: 7px;
+		  text-align: left;
+		  border-radius: 5px;
+		  font-size: 11px;
+		  pointer-events: none;
+		}
+		
+		 .anno6, .anno606, .anno607, .anno608, .viz60annoto5, .viz60annoto6, .viz60annoto7 {
+		  min-width: 20px;
+		  max-width: 20px;
+		  text-align: right;
+		  font-size: 11px;
+		}
+		
+		.cirLabels {
+			font-size: 16px;
+		}
+		
+		 .anno7 {
+		  min-width: 20px;
+		  max-width: 20px;
+		  text-align: right;
+		  font-size: 11px;
+		}
+
+		 .anno8 {
+		  min-width: 20px;
+		  max-width: 20px;
+		  text-align: right;
+		  font-size: 11px;
+		}
+
+		 .annoto5 {
+		  min-width: 20px;
+		  max-width: 20px;
+		  text-align: right;
+		  font-size: 11px;
+		}
+		 .annoto6 {
+		  min-width: 20px;
+		  max-width: 20px;
+		  text-align: right;
+		  font-size: 11px;
+		}
+		
+		 .vizlegendt, .viz4legendt {
+		   font-size: 13px;
+		 }
+		 .bublgnd {
+		   font-size: 13px;
+		 }
+		 .viz2annoto5, .viz2annoto6, .viz2annoto7 {
+		  min-width: 20px;
+		  max-width: 20px;
+		  text-align: right;
+		  font-size: 11px;
+		}	
+
+		 .viz4annoto5, .viz4annoto6, .viz4annoto7 , .viz4annoto55, .viz4annoto66, .viz4annoto77{
+		  min-width: 20px;
+		  max-width: 20px;
+		  text-align: right;
+		  font-size: 11px;
+		}
+		
+		 .viz1title {
+		  font-size: 20px;
+		}
+		
+		 .legendmale3 {
+		  font-size: 15px;
+		}
+
+		 .legendfemale3 {
+		  font-size: 15px;
+		}
+
+		 .legendstk3 {
+		  font-size: 15px;
+		}
+
+		 .legendgrp3 {
+		  font-size: 15px;
+		}
+		
+		 .legendviz2 {
+		  font-size: 12px;
+		  }
+		
+		 .yearButtonviz2{
+
+		 }
+		 
+		 .yearButtonviz2Label, .yearButtonviz6Label {
+			pointer-events: none;
+		 }
+		.noselectzzzzzz {
+		  -webkit-touch-callout: none; /* iOS Safari */
+			-webkit-user-select: none; /* Safari */
+			 -khtml-user-select: none; /* Konqueror HTML */
+			   -moz-user-select: none; /* Firefox */
+				-ms-user-select: none; /* Internet Explorer/Edge */
+					user-select: none; /* Non-prefixed version, currently
+										  supported by Chrome and Opera */
+		}
+
+		/************************* overview ****************/
+		
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 23%;
+  padding: 10px;
+  height: 550px; /* Should be removed. Only for demonstration */
+}
+.column3 {
+  float: left;
+  width: 45%;
+  padding: 10px;
+  height: 550px; /* Should be removed. Only for demonstration */
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}		
+		
+      </style>
+      <script type="text/javascript" charset="utf-8" async="" src="./CS498-Project_files/button.bf357a6ba1a5f1fa0ddb61377ae3add5.js.download"></script>
+	  
+    <script type="text/javascript" src="http://code.jquery.com/jquery 2.1.4.min.js"></script>  
+
+	
+   </head>
+   <body class="fp-viewing-firstPage" style="overflow: hidden; height: 100%;">
+      <div id="fullpage" class="fullpage-wrapper" style="height: 100%; position: relative; touch-action: none; transform: translate3d(0px, 0px, 0px); transition: all 700ms ease;">
+         <div class="section active fp-section" id="section1" data-fp-styles="null" data-anchor="firstPage" style="height: 100%; background-color: white;background:url('bckImage1.png');background-repeat: no-repeat;background-position: center;background-attachment: fixed; background-size:cover; ">
+               <div class="intro" align="center"style="height: 40%;" onclick="window.location='./CS498-Project.html#secondPage'">
+                  <h1>San Francisco Police Calls and Incidents</h1>
+					<h2>A Big Data Solution to analyze and explore data</h2>
+					<h2>by</h2>
+					<h2>Team 27 of 2019 CS498 CCA</h2>
+				  <br>
+                  <button class="button1" type="button">About this Solution</button>
+               </div>
+         </div>
+         <div class="section fp-section fp-table" id="section2" data-fp-styles="null" data-anchor="secondPage" style="width: 100%; height: 00%; background-color: white; padding-left: 3%; padding-right: 8%;">
+			<div class="fp-tableCell"  style="height:662px;">
+							<div style="float: right; width: 50%;">
+								<div style="padding-left:7%;">
+								<!--p style="font-size: 40px; font-weight: bold; color:#1a1a1a;">&nbsp;</p!-->
+								<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">tbd text44:</p>
+								<p class="bodyText">tbd text44</p><br>
+									<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">tbd text55:</p>
+								<p class="bodyText">tbd text55</p><br>
+									
+									<!--p style="font-size: 16px; font-weight: bold; color:red;">Caution: </p!-->
+									<p class="bodyText"><font color="red"><strong>Caution:</strong></font> This project is best viewed on desktops using Chrome (preferred), Firefox or Safari. It is not suitable for viewing on phones or tables; you might see overlapping contents on them.</p>
+								</div>
+							</div>
+							<div style="float: left; width: 50%;">
+								<p style="font-size: 40px; font-weight: bold; color:#1a1a1a;">Introduction</p><br>
+								<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Objective:</p>
+								<p class="bodyText">
+								North American emergency communication center consists of a team of individuals who are tasked with responding to emergency calls to the number 9-1-1. Initial call-takers and communications supervisor are main roles within the center. The call-takers are responsible for calming the callers, in processing information on the nature of emergency and in dispatching appropriate first-responders like Paramedics or Firefighters. One of the main task of communications supervisor is to regularly track the volume and statistics on the calls and use it to better plan and resource the dispatchers and first-responders so as to effectively deploy assistance and service emergency calls. The volume of calls received within a single city or state is so huge and grows so rapidly that it has been near impossible to draw insights with traditional technologies. 
+As part of this project, we intend to solve this problem by offering a Big Data Analytics solution coupled with machine learning and visualization utilities to draw valuable insights from the calls dataset and help better equip the emergency response teams.
+
+
+
+</p>
+
+
+
+<br>
+								<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">tbd text11:</p>
+								<p class="bodyText">tbd text11.</p><br>
+								<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">tbd text22:</p>
+								<p class="bodyText">tbd text22
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;tbd text<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;tbd text<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;tbd text<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;tbd text</p><br>
+<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">tbd text33: </p>
+								<p class="bodyText">tbd text33 
+								</p>
+								</div>			
+						</div>
+         </div>
+		 
+		 <div class="section fp-section fp-table" id="section3" style="width: 100%; height: 662px; padding-left: 3%; padding-right: 7%; background-color: rgb(242, 242, 242);"  data-anchor="thirdPage">
+		 <div class="fp-tableCell" style="height:662px;">
+
+				<div style="font-size: 40px; font-weight: bold; color:#1a1a1a;">Analytical Insights - Incidents</div><br>
+					
+<div class="row">
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Incidents by Category:</p>
+		<div class="row"> <br><img src="incidents_by_ctgry.PNG">
+		</div>
+		<div class="row"> 
+		In above table, we can see that almost a fifth of the incidents fell under Larceny/Theft, so department can conduct more training sessions for their officials in these areas or hire more contractor detectives who specialize in these areas.
+		</div>		
+  </div>
+
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Incidents by Month:</p>
+		<div class="row"> <br><img src="incidents_by_month.PNG">
+		</div>
+		<div class="row"> The above stats incdicate that 
+		</div>		
+  </div>
+
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Incidents by Day of Week:</p>
+		<div class="row"> <br><img src="incidents_by_day.PNG">
+		</div>
+		<div class="row"> The above stats incdicate that 
+		</div>		
+  </div>
+
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Incidents by PD District:</p>
+		<div class="row"> <br><img src="incidents_by_pd.PNG">
+		</div>
+		<div class="row"> The above stats incdicate that 
+		</div>		
+  </div>
+  
+  
+</div>
+
+		 
+		 
+
+
+
+
+				
+			</div>
+         </div>
+
+		 <div class="section fp-section fp-table" id="section4" style="width: 100%; height: 662px; padding-left: 1%; padding-right: 5%; background-color: rgb(242, 242, 242);"  data-anchor="fourthPage">
+		 <div class="fp-tableCell" style="height:662px;">
+		
+
+				<div style="font-size: 40px; font-weight: bold; color:#1a1a1a;">Analytical Insights - Incidents (cont'd)</div><br>
+					
+<div class="row">
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Incidents by Time of Day:</p>
+		<div class="row"> <br><img src="incidents_by_time.PNG">
+		</div>
+		<div class="row"> The above stats incdicate that 
+		</div>		
+  </div>
+
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Incidents by Resolution:</p>
+		<div class="row"> <br><img src="incidents_by_resolution.PNG">
+		</div>
+		<div class="row"> The above stats incdicate that 
+		</div>		
+  </div>
+
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Incidents % across Category & Day:</p>
+		<div class="row"> 
+		<!--img src="incidents_by_ctgry_and_day_percent.PNG"-->
+		<svg class="stckdbar" id="stckdbar" width="600" height="400"></svg>
+
+		
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+// create the svg
+var svg = d3.select(".stckdbar"),
+    margin = {top: 20, right: 20, bottom: 120, left: 40},
+    width = +svg.attr("width") - margin.left - margin.right,
+    height = +svg.attr("height") - margin.top - margin.bottom,
+    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// set x scale
+var x = d3.scaleBand()
+    .rangeRound([0, width-75])
+    .paddingInner(0.05)
+    //.align(0.1)
+	;
+
+// set y scale
+var y = d3.scaleLinear()
+    .rangeRound([height, 0]);
+
+// set the colors
+var z = d3.scaleOrdinal()
+    .range(["#b07aa1", "#edc948", "#59a14f", "#76b7b2", "#e15759", "#f28e2b", "#4e79a7"]);
+
+// load the csv and create the chart
+//d3.csv("age-groups.csv", function(d, i, columns) {
+d3.csv("incidents_ctgry_day.csv", function(d, i, columns) {
+  for (i = 1, t = 0; i < columns.length; ++i) t += d[columns[i]] = +d[columns[i]];
+  d.total = t;
+  return d;
+}, function(error, data) {
+  if (error) throw error;
+
+  var keys = data.columns.slice(1);
+
+  data.sort(function(a, b) { return b.total - a.total; });
+  x.domain(data.map(function(d) { return d.State; }));
+  y.domain([0, d3.max(data, function(d) { return d.total; })-10]).nice();
+  z.domain(keys);
+
+  g.append("g")
+    .selectAll("g")
+    .data(d3.stack().keys(keys)(data))
+    .enter().append("g")
+      .attr("fill", function(d) { return z(d.key); })
+    .selectAll("rect")
+    .data(function(d) { return d; })
+    .enter().append("rect")
+      .attr("x", function(d) { return x(d.data.State); })
+      .attr("y", function(d) { return y(d[1]); })
+      .attr("height", function(d) { return y(d[0]) - y(d[1]); })
+      .attr("width", x.bandwidth())
+    .on("mouseover", function() { tooltip.style("display", null); })
+    .on("mouseout", function() { tooltip.style("display", "none"); })
+    .on("mousemove", function(d) {
+      //console.log(d);
+      var xPosition = d3.mouse(this)[0] - 5;
+      var yPosition = d3.mouse(this)[1] - 5;
+      tooltip.attr("transform", "translate(" + xPosition + "," + yPosition + ")");
+      tooltip.select("text").text("Percent:"+(d[1]-d[0] )+"%"
+	
+	
+	  );
+    });
+
+  g.append("g")
+      .attr("class", "axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x))
+	  .selectAll("text")
+    	.style("font-size", "10px")
+      	.style("text-anchor", "end")
+      	.attr("dx", "-.8em")
+      	.attr("dy", "-.55em")
+      	.attr("transform", "rotate(-90)" );
+
+	  
+	  
+	  
+	  ;
+
+  g.append("g")
+      .attr("class", "axis")
+      .call(d3.axisLeft(y).ticks(null, "s"))
+    .append("text")
+      .attr("x", 2)
+      .attr("y", y(y.ticks().pop()) + 0.5)
+      .attr("dy", "0.32em")
+      .attr("fill", "#000")
+      .attr("font-weight", "bold")
+      .attr("text-anchor", "start");
+
+  var legend = g.append("g")
+      .attr("font-family", "sans-serif")
+      .attr("font-size", 10)
+      .attr("text-anchor", "end")
+    .selectAll("g")
+    .data(keys.slice().reverse())
+    .enter().append("g")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+  legend.append("rect")
+      .attr("x", width - 19)
+      .attr("width", 19)
+      .attr("height", 19)
+      .attr("fill", z)
+	  
+	  
+;
+
+  legend.append("text")
+      .attr("x", width - 24)
+      .attr("y", 9.5)
+      .attr("dy", "0.32em")
+      .text(function(d) { return d; });
+});
+
+  // Prep the tooltip bits, initial display is hidden
+  var tooltip = svg.append("g")
+    .attr("class", "tooltip")
+    .style("display", "none");
+      
+  tooltip.append("rect")
+    .attr("width", 60)
+    .attr("height", 20)
+    .attr("fill", "white")
+    .style("opacity", 0.5)
+
+	
+	;
+
+  tooltip.append("text")
+    .attr("x", 30)
+    .attr("dy", "1.2em")
+    .style("text-anchor", "middle")
+    .attr("font-size", "12px")
+    .attr("font-weight", "bold")
+
+	
+	;
+
+</script>		
+		
+		
+		
+		
+		
+		
+		
+		</div>
+		<div class="row"> The above stats incdicate that 
+		</div>		
+  </div>
+
+
+  
+  
+</div>
+
+		 		
+		
+		
+		
+		
+			</div>
+         </div>
+		 <div class="section fp-section fp-table" id="section5" style="width: 100%; height: 662px; padding-left: 3%; padding-right: 7%; background-color: rgb(242, 242, 242);"  data-anchor="fifthPage">
+			<div class="fp-tableCell" style="height:662px;">
+
+			
+
+				<div style="font-size: 40px; font-weight: bold; color:#1a1a1a;">Analytical Insights - Police Calls</div><br>
+					
+<div class="row">
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Calls by Category:</p>
+		<div class="row"> <br><img src="call_by_ctgry.PNG">
+		</div>
+		<div class="row"> The above stats incdicate that 
+		</div>		
+  </div>
+
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Calls by City:</p>
+		<div class="row"> <br><img src="calls_by_city.PNG">
+		</div>
+		<div class="row"> The above stats incdicate that 
+		</div>		
+  </div>
+
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Calls by Month:</p>
+		<div class="row"> <br><img src="calls_by_month.PNG">
+		</div>
+		<div class="row"> The above stats incdicate that 
+		</div>		
+  </div>
+
+  <div class="column" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Calls by Time of Day:</p>
+		<div class="row"> <br><img src="calls_by_time.PNG">
+		</div>
+		<div class="row"> The above stats incdicate that 
+		</div>		
+  </div>
+
+
+  </div>	
+			
+			
+			
+			
+		
+			</div>
+         </div>	 
+		 
+		 <div class="section fp-section fp-table" id="section6" style="width: 100%; height: 662px; padding-left: 1%; padding-right: 5%; background-color: rgb(242, 242, 242);"  data-anchor="sixthPage">
+		 <div class="fp-tableCell" style="height:662px;">
+
+				<div style="font-size: 40px; font-weight: bold; color:#1a1a1a;">Search/Predict Stats</div><br>
+					
+<div class="row">
+  <div class="column3" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Predict Stats for Incidents:</p>
+
+		<div class="row"> 
+
+
+<form >
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;Crime Category:<br>
+&nbsp;&nbsp;&nbsp;<input type="text" name="CallsCrimeCategory" id="CallsCrimeCategory" /><br><br>
+&nbsp;&nbsp;&nbsp;Month:<br>
+&nbsp;&nbsp;&nbsp;<input type="text" name="CallsMonth" id="CallsMonth" /><br><br>
+&nbsp;&nbsp;&nbsp;Hour:<br>
+&nbsp;&nbsp;&nbsp;<input type="text" name="CallsTime" id="CallsTime" /><br><br>
+<br>
+&nbsp;&nbsp;&nbsp;<input type="submit" name="EstimateCallsVolume" id="EstimateCallsVolume" value="EstimateCallsVolume" /><br/>
+<br>
+<br>
+<br>
+
+</form >
+
+<div class="row">
+
+ <?php
+	if(isset($_GET['EstimateCallsVolume'])){
+	
+	   //$command = escapeshellcmd("python get_quote.py $plan_type_ml");
+	   //$command = "python get_quote.py $plan_type_ml";
+	   //echo $command;
+	   //$output = shell_exec($command);
+	   //$output = passthru("python get_quote.py $plan_type_ml");
+	   
+	   
+	   $output = shell_exec("/var/www/html/MK/CS498Final/cca_ml.py 'Traffic Stop' 21 12 dummy dummy dummy dummy dummy calls");
+	   echo $output;	
+	   echo "hello";
+	}
+	echo "world";
+	?>
+	</div>
+
+		
+		</div>		
+  </div>
+
+  <div class="column3" style="background-color:#ffffff;">
+	<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Predict Stats for Calls:</p>
+
+		<div class="row"> TBD
+		</div>		
+  </div>
+
+
+
+
+  </div>	
+			
+		
+		 
+
+			</div>
+         </div>		 
+		 
+		 
+         <div class="section fp-section" id="section7" data-fp-styles="null" data-anchor="seventhPage" style="height: 662px; background-color: rgb(126, 143, 124); padding-left: 3%; padding-right: 7%;">
+            <div style="float: right; width: 50%;">
+					<div style="padding-left:10%;">
+						<p style="font-size: 40px; font-weight: bold; color:#1a1a1a;">References</p><br>				
+						<br>
+						<p class="bodyText">- <a href="https://github.com/alvarotrigo/fullPage.js">FullPage.js</a> to create horizontally scrollable pages (slides).<br>- <a href="xxxx">xxxx</a> xxxx <br>
+					</div>
+				</div>
+				<div style="float: left; width: 50%;">
+					<p style="font-size: 40px; font-weight: bold; color:#1a1a1a;">About the author<br></p><br><br>
+					<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Authors:</p><br>
+					<p class="bodyText">This project was created by <strong>xxxx</strong> for the final project of the course  'CS498: Cloud Computing Applications.</p><br><br>
+					<p style="font-size: 16px; font-weight: bold; color:#1a1a1a;">Disclaimer:</p><br>
+					<p class="bodyText">This project was created solely for academic purposes to exhibit the abilities of D3.js as a visualization tool. It is not a conclusive report and no pratical decisions should be made based on this report. References to resources used to develop this report are listed in the next column</p><br>
+				</div>	
+         </div>
+		 
+      </div>
+      <script type="text/javascript" src="./CS498-Project_files/fullpage.js.download"></script>
+      <script type="text/javascript" src="./CS498-Project_files/examples.js.download"></script>
+      <script type="text/javascript">
+         var myFullpage = new fullpage('#fullpage', {   // light - ffffff, dark - f2f2f2
+         	anchors: ['firstPage', 'secondPage', 'thirdPage', 'fourthPage', 'fifthPage', 'sixthPage', 'seventhPage'], //
+         	//sectionsColor: ['#e8f7ff', '#f3fcff', '#f9fbfc', '#f3fcff', '#e8f7ff', '#f3fcff', '#e8f7ff'],
+         	//sectionsColor: ['#ffffff', '#f2f2f2', '#ffffff', '#f2f2f2', '#ffffff', '#f2f2f2', '#ffffff'],
+			sectionsColor: ['white', 'white', 'white', 'white', 'white', 'white', 'white'],
+			
+			//sectionsColor: ['#e8f7ff', '#f3fcff', '#f9fbfc', '#f3fcff', '#e8f7ff', '#f3fcff', '#e8f7ff'],
+         	//sectionsColor: ['#ffffff', '#ffffff', '#f2f2f2', '#ffffff', '#f2f2f2', '#ffffff', '#f2f2f2'],
+					
+			navigation: true,
+         	navigationPosition: 'right',
+         	//navigationTooltips: ['Welcome', 'About', 'Overview', 'States Comparison', 'Age Group', 'Mode of Transportation', 'References']
+			navigationTooltips: ['[1] Welcome', '[2] About', '[3] Overview', '[4] States', '[4] Age Group', '[6] Mode', '[7] References']//'Welcome', 'About this visualization', 'Overview'  # c1efff - dark blue   # e1f7ff - light blue 
+			//  '#fdefe7', '#fefaf8'  f9fbfc
+         });
+      </script>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="./firstChart.js"></script>
+<script src="./secondChart.js"></script>
+<script src="./lineChart.js"></script>
+<script src="./bubbleChart.js"></script>
+
+</body>

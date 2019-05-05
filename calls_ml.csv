@@ -1,0 +1,6118 @@
+"ORIGINAL_CRIME_TYPE_NAME","TIME","MONTH","COUNT(*)"
+"Traffic Stop","21","12",640
+"Auto Boost / Strip","21","12",241
+"Threats / Harassment","08","12",51
+"Stolen Vehicle","08","12",76
+"Well Being Check","20","12",241
+"Audible Alarm","13","12",240
+"Homeless Complaint","07","12",1111
+"Traf Violation Cite","07","12",183
+"Auto Boost / Strip","20","12",239
+"Trespasser","18","12",232
+"Mentally Disturbed","07","12",64
+"Threats / Harassment","19","12",54
+"Vandalism","13","12",69
+"Traffic Stop","06","12",147
+"Fraud","17","12",67
+"Trespasser","17","12",207
+"Fight No Weapon","12","12",203
+"Well Being Check","06","12",92
+"Fight No Weapon","05","12",80
+"Audible Alarm","23","12",258
+"Suspicious Person","17","12",549
+"Suspicious Person","12","12",703
+"Mentally Disturbed","05","12",26
+"Traf Violation Tow","23","12",41
+"Burglary","12","12",80
+"Audible Alarm","03","12",215
+"Traf Violation Tow","02","12",12
+"Suspicious Person","22","12",385
+"Noise Nuisance","16","12",89
+"Suspicious Person","16","12",645
+"Drugs","11","12",79
+"Traf Violation Cite","11","12",276
+"Noise Nuisance","01","12",310
+"Petty Theft","01","12",41
+"Audible Alarm","16","12",212
+"Burglary","10","12",103
+"Traf Violation Cite","00","12",130
+"Auto Boost / Strip","00","12",87
+"Trespasser","10","12",226
+"Mentally Disturbed","23","12",73
+"Audible Alarm","15","12",238
+"Burglary","15","12",57
+"Well Being Check","09","12",231
+"Homeless Complaint","09","12",790
+"Trespasser","22","12",201
+"Auto Boost / Strip","07","12",58
+"Threats / Harassment","21","12",55
+"Burglary","20","12",48
+"Petty Theft","20","12",111
+"Traffic Stop","05","12",140
+"Fight No Weapon","04","12",77
+"Vandalism","19","12",63
+"Vandalism","12","12",73
+"Petty Theft","17","12",172
+"Auto Boost / Strip","01","12",72
+"Suspicious Vehicle","09","12",178
+"Fraud","14","12",75
+"Drugs","07","12",33
+"Assault / Battery","04","12",25
+"Stolen Vehicle","02","12",20
+"Petty Theft","03","12",14
+"Veh Accident","01","12",21
+"Homeless Complaint","17","11",379
+"Petty Theft","17","11",172
+"Traffic Stop","22","11",1303
+"Fight No Weapon","22","11",210
+"Assault / Battery","17","11",141
+"Threats / Harassment","22","11",57
+"Audible Alarm","20","11",233
+"Fight No Weapon","20","11",204
+"Noise Nuisance","20","11",156
+"Petty Theft","20","11",124
+"Traffic Stop","19","11",953
+"Stolen Vehicle","19","11",65
+"Traf Violation Cite","18","11",232
+"Traf Violation Tow","09","11",63
+"Drugs","09","11",66
+"Stolen Vehicle","09","11",105
+"Mentally Disturbed","09","11",126
+"Audible Alarm","17","11",206
+"Suspicious Person","13","11",736
+"Traf Violation Cite","13","11",250
+"Traffic Stop","13","11",854
+"Well Being Check","08","11",194
+"Assault / Battery","13","11",135
+"Petty Theft","08","11",74
+"Traf Violation Tow","08","11",57
+"Stolen Vehicle","12","11",91
+"Homeless Complaint","12","11",508
+"Suspicious Vehicle","12","11",195
+"Traf Violation Cite","07","11",216
+"Auto Boost / Strip","07","11",76
+"Threats / Harassment","16","11",92
+"Stolen Vehicle","16","11",109
+"Assault / Battery","12","11",128
+"Vandalism","12","11",72
+"Mentally Disturbed","06","11",48
+"Auto Boost / Strip","20","11",250
+"Well Being Check","05","11",88
+"Threats / Harassment","15","11",104
+"Suspicious Vehicle","15","11",272
+"Traf Violation Cite","04","11",34
+"Vandalism","03","11",26
+"Veh Accident","19","11",53
+"Traf Violation Tow","11","11",84
+"Drugs","02","11",17
+"Audible Alarm","02","11",206
+"Threats / Harassment","10","11",76
+"Fight No Weapon","01","11",218
+"Traffic Stop","01","11",385
+"Vandalism","01","11",45
+"Petty Theft","18","11",151
+"Auto Boost / Strip","01","11",78
+"Suspicious Vehicle","00","11",269
+"Trespasser","00","11",150
+"Threats / Harassment","14","11",74
+"Mentally Disturbed","04","11",39
+"Veh Accident","15","11",72
+"Veh Accident","14","11",78
+"Vandalism","08","11",58
+"Fight No Weapon","11","11",181
+"Mentally Disturbed","03","11",39
+"Burglary","00","11",31
+"Noise Nuisance","13","11",56
+"Auto Boost / Strip","23","11",169
+"Threats / Harassment","12","11",78
+"Burglary","05","11",27
+"Noise Nuisance","14","11",47
+"Stolen Vehicle","03","11",14
+"Noise Nuisance","11","11",40
+"Noise Nuisance","09","11",45
+"Stolen Vehicle","01","11",21
+"Traffic Stop","20","10",635
+"Mentally Disturbed","19","10",154
+"Suspicious Person","23","10",489
+"Noise Nuisance","23","10",671
+"Trespasser","23","10",177
+"Well Being Check","19","10",267
+"Traf Violation Cite","23","10",114
+"Trespasser","22","10",199
+"Homeless Complaint","22","10",209
+"Fraud","22","10",11
+"Mentally Disturbed","21","10",120
+"Traf Violation Tow","20","10",94
+"Stolen Vehicle","07","10",76
+"Well Being Check","07","10",174
+"Traf Violation Tow","07","10",65
+"Audible Alarm","07","10",336
+"Trespasser","21","10",203
+"Traf Violation Cite","16","10",288
+"Suspicious Person","16","10",810
+"Fight No Weapon","16","10",255
+"Traf Violation Tow","11","10",85
+"Fight No Weapon","07","10",106
+"Trespasser","15","10",220
+"Audible Alarm","11","10",220
+"Auto Boost / Strip","15","10",217
+"Suspicious Person","14","10",770
+"Noise Nuisance","06","10",76
+"Trespasser","06","10",257
+"Well Being Check","18","10",291
+"Well Being Check","14","10",304
+"Traffic Stop","05","10",201
+"Mentally Disturbed","10","10",167
+"Traffic Stop","04","10",193
+"Traf Violation Tow","04","10",17
+"Burglary","04","10",26
+"Noise Nuisance","18","10",134
+"Traf Violation Cite","09","10",317
+"Audible Alarm","03","10",195
+"Suspicious Person","03","10",185
+"Noise Nuisance","02","10",364
+"Fight No Weapon","09","10",193
+"Traffic Stop","09","10",778
+"Trespasser","09","10",265
+"Traffic Stop","02","10",242
+"Well Being Check","13","10",273
+"Traffic Stop","01","10",392
+"Traf Violation Cite","01","10",95
+"Auto Boost / Strip","00","10",145
+"Homeless Complaint","12","10",579
+"Audible Alarm","08","10",345
+"Threats / Harassment","16","10",94
+"Drugs","08","10",75
+"Well Being Check","08","10",197
+"Noise Nuisance","17","10",87
+"Drugs","14","10",110
+"Burglary","23","10",36
+"Drugs","09","10",80
+"Vandalism","09","10",76
+"Stolen Vehicle","08","10",85
+"Homeless Complaint","20","10",223
+"Burglary","12","10",102
+"Fraud","15","10",96
+"Petty Theft","04","10",19
+"Fraud","18","10",60
+"Vandalism","13","10",87
+"Stolen Vehicle","17","10",84
+"Homeless Complaint","23","10",184
+"Threats / Harassment","02","10",27
+"Homeless Complaint","01","10",84
+"Veh Accident","06","10",15
+"Noise Nuisance","01","09",374
+"Fight No Weapon","01","09",185
+"Traffic Stop","22","09",1332
+"Traffic Stop","10","09",1025
+"Trespasser","10","09",215
+"Traffic Stop","00","09",786
+"Homeless Complaint","00","09",130
+"Suspicious Person","23","09",463
+"Traf Violation Cite","21","09",143
+"Auto Boost / Strip","10","09",147
+"Suspicious Vehicle","15","09",235
+"Traffic Stop","09","09",940
+"Suspicious Person","20","09",369
+"Trespasser","09","09",234
+"Fight No Weapon","15","09",220
+"Traf Violation Tow","19","09",98
+"Trespasser","14","09",182
+"Trespasser","08","09",227
+"Fraud","08","09",21
+"Homeless Complaint","18","09",341
+"Fight No Weapon","18","09",227
+"Auto Boost / Strip","18","09",200
+"Veh Accident","14","09",87
+"Traf Violation Tow","13","09",76
+"Fight No Weapon","13","09",215
+"Homeless Complaint","06","09",803
+"Noise Nuisance","06","09",90
+"Suspicious Person","12","09",838
+"Audible Alarm","05","09",232
+"Fraud","12","09",90
+"Audible Alarm","04","09",216
+"Suspicious Person","03","09",211
+"Burglary","23","09",46
+"Audible Alarm","23","09",237
+"Homeless Complaint","23","09",170
+"Suspicious Person","11","09",632
+"Drugs","11","09",116
+"Noise Nuisance","11","09",46
+"Audible Alarm","11","09",257
+"Suspicious Person","02","09",253
+"Veh Accident","17","09",103
+"Petty Theft","02","09",29
+"Drugs","22","09",53
+"Burglary","19","09",63
+"Vandalism","00","09",56
+"Assault / Battery","09","09",90
+"Auto Boost / Strip","08","09",82
+"Vandalism","08","09",65
+"Fraud","22","09",11
+"Petty Theft","07","09",47
+"Traf Violation Tow","07","09",65
+"Vandalism","12","09",58
+"Trespasser","03","09",101
+"Mentally Disturbed","20","09",133
+"Vandalism","19","09",87
+"Traf Violation Tow","01","09",28
+"Vandalism","02","09",37
+"Traf Violation Tow","00","09",55
+"Burglary","12","09",83
+"Threats / Harassment","17","09",93
+"Stolen Vehicle","06","09",30
+"Mentally Disturbed","05","09",26
+"Homeless Complaint","01","09",93
+"Threats / Harassment","04","09",17
+"Audible Alarm","19","08",306
+"Well Being Check","15","08",296
+"Drugs","15","08",114
+"Traf Violation Cite","09","08",267
+"Fraud","15","08",107
+"Audible Alarm","14","08",233
+"Fight No Weapon","08","08",131
+"Homeless Complaint","08","08",906
+"Traf Violation Cite","18","08",274
+"Fraud","18","08",70
+"Petty Theft","14","08",180
+"Noise Nuisance","08","08",41
+"Fight No Weapon","13","08",239
+"Traf Violation Cite","23","08",101
+"Fraud","17","08",88
+"Traf Violation Cite","22","08",148
+"Fraud","22","08",12
+"Traf Violation Tow","12","08",86
+"Fight No Weapon","22","08",220
+"Burglary","16","08",56
+"Suspicious Vehicle","16","08",283
+"Well Being Check","11","08",250
+"Threats / Harassment","11","08",90
+"Threats / Harassment","21","08",75
+"Stolen Vehicle","11","08",104
+"Suspicious Vehicle","21","08",217
+"Mentally Disturbed","16","08",181
+"Suspicious Vehicle","15","08",263
+"Drugs","10","08",86
+"Vandalism","10","08",72
+"Traf Violation Tow","10","08",93
+"Threats / Harassment","20","08",80
+"Well Being Check","13","08",255
+"Noise Nuisance","07","08",47
+"Well Being Check","07","08",149
+"Veh Accident","17","08",96
+"Traf Violation Cite","20","08",223
+"Trespasser","06","08",222
+"Traf Violation Cite","03","08",57
+"Suspicious Vehicle","03","08",126
+"Assault / Battery","02","08",99
+"Suspicious Person","01","08",264
+"Traf Violation Tow","14","08",67
+"Mentally Disturbed","09","08",178
+"Threats / Harassment","09","08",70
+"Drugs","00","08",26
+"Threats / Harassment","08","08",53
+"Auto Boost / Strip","08","08",83
+"Stolen Vehicle","06","08",47
+"Well Being Check","05","08",91
+"Stolen Vehicle","05","08",14
+"Petty Theft","22","08",61
+"Traf Violation Tow","03","08",20
+"Stolen Vehicle","04","08",14
+"Traf Violation Cite","01","08",62
+"Auto Boost / Strip","04","08",37
+"Threats / Harassment","07","08",33
+"Drugs","05","08",13
+"Stolen Vehicle","00","08",34
+"Auto Boost / Strip","22","07",266
+"Traffic Stop","22","07",1094
+"Vandalism","22","07",76
+"Petty Theft","21","07",88
+"Drugs","19","07",122
+"Vandalism","19","07",82
+"Petty Theft","20","07",139
+"Trespasser","23","07",202
+"Vandalism","23","07",64
+"Drugs","23","07",42
+"Trespasser","22","07",215
+"Fight No Weapon","22","07",246
+"Traf Violation Cite","18","07",225
+"Fight No Weapon","18","07",253
+"Mentally Disturbed","18","07",164
+"Fraud","16","07",82
+"Well Being Check","13","07",230
+"Traffic Stop","07","07",698
+"Assault / Battery","16","07",151
+"Petty Theft","17","07",184
+"Trespasser","00","07",176
+"Auto Boost / Strip","15","07",231
+"Suspicious Person","15","07",603
+"Assault / Battery","10","07",120
+"Homeless Complaint","12","07",487
+"Suspicious Vehicle","06","07",70
+"Homeless Complaint","06","07",736
+"Traf Violation Cite","06","07",75
+"Mentally Disturbed","15","07",161
+"Auto Boost / Strip","06","07",65
+"Stolen Vehicle","15","07",81
+"Traf Violation Cite","09","07",256
+"Traffic Stop","09","07",934
+"Vandalism","05","07",27
+"Threats / Harassment","14","07",84
+"Traffic Stop","14","07",1026
+"Audible Alarm","04","07",216
+"Fight No Weapon","14","07",213
+"Assault / Battery","03","07",52
+"Well Being Check","02","07",161
+"Fight No Weapon","02","07",182
+"Traf Violation Cite","01","07",82
+"Suspicious Person","01","07",282
+"Traf Violation Cite","00","07",114
+"Noise Nuisance","13","07",52
+"Petty Theft","14","07",182
+"Fraud","12","07",103
+"Traf Violation Tow","13","07",87
+"Assault / Battery","11","07",134
+"Traf Violation Tow","14","07",63
+"Burglary","08","07",109
+"Mentally Disturbed","07","07",117
+"Petty Theft","18","07",145
+"Veh Accident","09","07",55
+"Well Being Check","04","07",87
+"Stolen Vehicle","03","07",16
+"Noise Nuisance","09","07",59
+"Stolen Vehicle","01","07",36
+"Homeless Complaint","00","07",133
+"Veh Accident","23","07",26
+"Homeless Complaint","20","06",221
+"Trespasser","20","06",191
+"Suspicious Vehicle","13","06",186
+"Well Being Check","23","06",210
+"Suspicious Vehicle","20","06",228
+"Noise Nuisance","20","06",146
+"Noise Nuisance","19","06",103
+"Suspicious Person","19","06",473
+"Fight No Weapon","17","06",224
+"Vandalism","19","06",88
+"Mentally Disturbed","19","06",162
+"Burglary","12","06",77
+"Drugs","18","06",120
+"Traf Violation Cite","18","06",243
+"Traffic Stop","18","06",1211
+"Well Being Check","18","06",278
+"Burglary","18","06",84
+"Fight No Weapon","16","06",206
+"Audible Alarm","11","06",239
+"Auto Boost / Strip","11","06",208
+"Fraud","16","06",83
+"Fraud","17","06",71
+"Traffic Stop","15","06",1129
+"Well Being Check","22","06",248
+"Stolen Vehicle","14","06",74
+"Well Being Check","21","06",265
+"Auto Boost / Strip","21","06",214
+"Stolen Vehicle","21","06",51
+"Traf Violation Tow","08","06",69
+"Traffic Stop","07","06",776
+"Suspicious Person","07","06",319
+"Auto Boost / Strip","09","06",126
+"Mentally Disturbed","21","06",135
+"Burglary","16","06",76
+"Fraud","10","06",64
+"Audible Alarm","07","06",334
+"Vandalism","08","06",59
+"Mentally Disturbed","00","06",49
+"Fight No Weapon","08","06",135
+"Suspicious Person","01","06",239
+"Threats / Harassment","11","06",83
+"Noise Nuisance","11","06",43
+"Trespasser","08","06",224
+"Traf Violation Tow","10","06",68
+"Noise Nuisance","09","06",53
+"Veh Accident","02","06",12
+"Auto Boost / Strip","07","06",57
+"Stolen Vehicle","00","06",39
+"Petty Theft","23","06",51
+"Vandalism","06","06",35
+"Assault / Battery","06","06",36
+"Petty Theft","04","06",17
+"Traf Violation Tow","04","06",13
+"Fight No Weapon","11","05",220
+"Traffic Stop","22","05",1539
+"Trespasser","22","05",188
+"Homeless Complaint","21","05",296
+"Auto Boost / Strip","19","05",189
+"Audible Alarm","18","05",286
+"Suspicious Person","16","05",798
+"Petty Theft","16","05",174
+"Homeless Complaint","16","05",421
+"Suspicious Vehicle","09","05",163
+"Audible Alarm","21","05",262
+"Burglary","18","05",69
+"Stolen Vehicle","16","05",65
+"Traf Violation Tow","15","05",46
+"Veh Accident","20","05",42
+"Trespasser","15","05",202
+"Audible Alarm","20","05",247
+"Noise Nuisance","20","05",166
+"Noise Nuisance","17","05",83
+"Mentally Disturbed","17","05",180
+"Suspicious Person","10","05",519
+"Traffic Stop","14","05",1228
+"Suspicious Person","14","05",718
+"Audible Alarm","14","05",222
+"Homeless Complaint","19","05",396
+"Audible Alarm","16","05",256
+"Noise Nuisance","14","05",54
+"Suspicious Vehicle","10","05",148
+"Audible Alarm","13","05",216
+"Fight No Weapon","13","05",225
+"Threats / Harassment","13","05",86
+"Mentally Disturbed","13","05",140
+"Suspicious Person","12","05",781
+"Traffic Stop","12","05",1219
+"Suspicious Person","23","05",482
+"Vandalism","18","05",99
+"Fraud","14","05",92
+"Fraud","22","05",14
+"Auto Boost / Strip","14","05",199
+"Suspicious Vehicle","02","05",154
+"Fraud","18","05",60
+"Mentally Disturbed","08","05",118
+"Traf Violation Tow","22","05",58
+"Suspicious Person","07","05",373
+"Fight No Weapon","01","05",228
+"Burglary","07","05",87
+"Homeless Complaint","07","05",1097
+"Traffic Stop","00","05",867
+"Suspicious Person","00","05",427
+"Mentally Disturbed","21","05",104
+"Vandalism","06","05",26
+"Homeless Complaint","17","05",471
+"Threats / Harassment","07","05",46
+"Suspicious Vehicle","06","05",67
+"Suspicious Person","05","05",113
+"Auto Boost / Strip","05","05",42
+"Petty Theft","05","05",29
+"Vandalism","10","05",56
+"Auto Boost / Strip","08","05",103
+"Vandalism","00","05",56
+"Vandalism","04","05",29
+"Petty Theft","04","05",27
+"Stolen Vehicle","04","05",12
+"Mentally Disturbed","01","05",53
+"Petty Theft","03","05",37
+"Veh Accident","00","05",23
+"Traf Violation Tow","03","05",13
+"Homeless Complaint","03","05",96
+"Petty Theft","17","04",154
+"Trespasser","17","04",175
+"Fraud","16","04",86
+"Homeless Complaint","15","04",483
+"Drugs","15","04",64
+"Noise Nuisance","20","04",169
+"Traf Violation Cite","20","04",58
+"Traf Violation Tow","16","04",61
+"Audible Alarm","16","04",209
+"Assault / Battery","07","04",41
+"Threats / Harassment","20","04",73
+"Auto Boost / Strip","20","04",165
+"Mentally Disturbed","12","04",185
+"Traffic Stop","19","04",962
+"Mentally Disturbed","19","04",126
+"Burglary","13","04",69
+"Traffic Stop","18","04",1506
+"Vandalism","13","04",70
+"Petty Theft","13","04",195
+"Mentally Disturbed","18","04",155
+"Threats / Harassment","12","04",90
+"Noise Nuisance","10","04",46
+"Homeless Complaint","16","04",471
+"Stolen Vehicle","10","04",108
+"Auto Boost / Strip","16","04",172
+"Fraud","17","04",73
+"Traf Violation Tow","09","04",83
+"Audible Alarm","08","04",342
+"Well Being Check","08","04",211
+"Well Being Check","22","04",236
+"Audible Alarm","15","04",224
+"Homeless Complaint","02","04",118
+"Petty Theft","01","04",40
+"Noise Nuisance","03","04",213
+"Trespasser","02","04",133
+"Traf Violation Cite","15","04",67
+"Traf Violation Tow","01","04",33
+"Auto Boost / Strip","01","04",73
+"Assault / Battery","15","04",143
+"Traf Violation Cite","01","04",62
+"Petty Theft","09","04",116
+"Fight No Weapon","09","04",177
+"Stolen Vehicle","09","04",96
+"Drugs","12","04",87
+"Burglary","00","04",38
+"Petty Theft","07","04",46
+"Petty Theft","00","04",42
+"Stolen Vehicle","06","04",30
+"Suspicious Vehicle","21","04",230
+"Burglary","04","04",33
+"Stolen Vehicle","03","04",16
+"Burglary","02","04",36
+"Stolen Vehicle","21","04",50
+"Stolen Vehicle","07","04",63
+"Burglary","12","04",79
+"Vandalism","11","04",71
+"Veh Accident","12","04",66
+"Drugs","02","04",17
+"Auto Boost / Strip","04","04",40
+"Stolen Vehicle","04","04",11
+"Threats / Harassment","05","04",13
+"Auto Boost / Strip","21","03",134
+"Fight No Weapon","21","03",150
+"Traffic Stop","21","03",448
+"Mentally Disturbed","14","03",101
+"Drugs","21","03",32
+"Audible Alarm","20","03",193
+"Traffic Stop","18","03",1083
+"Petty Theft","17","03",121
+"Suspicious Vehicle","13","03",168
+"Auto Boost / Strip","13","03",147
+"Suspicious Vehicle","19","03",209
+"Petty Theft","19","03",91
+"Threats / Harassment","12","03",67
+"Burglary","19","03",46
+"Petty Theft","18","03",109
+"Threats / Harassment","16","03",67
+"Fraud","16","03",64
+"Homeless Complaint","23","03",139
+"Drugs","23","03",26
+"Well Being Check","15","03",191
+"Mentally Disturbed","23","03",41
+"Assault / Battery","22","03",112
+"Suspicious Person","22","03",262
+"Trespasser","12","03",108
+"Traffic Stop","01","03",285
+"Audible Alarm","00","03",179
+"Noise Nuisance","10","03",38
+"Assault / Battery","01","03",68
+"Suspicious Person","01","03",181
+"Fight No Weapon","11","03",121
+"Traf Violation Tow","10","03",39
+"Auto Boost / Strip","09","03",93
+"Trespasser","08","03",158
+"Traffic Stop","11","03",798
+"Assault / Battery","08","03",53
+"Drugs","17","03",81
+"Well Being Check","11","03",167
+"Well Being Check","07","03",99
+"Suspicious Vehicle","07","03",105
+"Petty Theft","22","03",36
+"Trespasser","06","03",142
+"Stolen Vehicle","05","03",16
+"Stolen Vehicle","11","03",64
+"Traf Violation Cite","03","03",19
+"Suspicious Person","03","03",118
+"Audible Alarm","02","03",145
+"Fraud","15","03",68
+"Veh Accident","02","03",13
+"Fight No Weapon","01","03",132
+"Drugs","10","03",47
+"Threats / Harassment","21","03",49
+"Assault / Battery","07","03",40
+"Petty Theft","05","03",17
+"Assault / Battery","05","03",20
+"Traf Violation Cite","04","03",14
+"Assault / Battery","02","03",45
+"Drugs","02","03",13
+"Veh Accident","23","03",14
+"Traf Violation Tow","19","03",15
+"Vandalism","02","03",16
+"Noise Nuisance","07","03",29
+"Threats / Harassment","02","03",24
+"Burglary","23","02",22
+"Traffic Stop","23","02",732
+"Trespasser","11","02",117
+"Traffic Stop","07","02",412
+"Threats / Harassment","00","02",24
+"Auto Boost / Strip","00","02",70
+"Auto Boost / Strip","23","02",120
+"Traffic Stop","03","02",114
+"Audible Alarm","03","02",136
+"Drugs","20","02",38
+"Audible Alarm","20","02",172
+"Homeless Complaint","19","02",227
+"Homeless Complaint","06","02",422
+"Veh Accident","15","02",43
+"Stolen Vehicle","10","02",56
+"Suspicious Vehicle","10","02",99
+"Assault / Battery","12","02",69
+"Traf Violation Cite","12","02",45
+"Homeless Complaint","12","02",413
+"Suspicious Person","14","02",443
+"Stolen Vehicle","14","02",59
+"Audible Alarm","12","02",185
+"Homeless Complaint","22","02",167
+"Drugs","18","02",30
+"Petty Theft","14","02",111
+"Audible Alarm","18","02",170
+"Stolen Vehicle","18","02",38
+"Fight No Weapon","11","02",100
+"Suspicious Vehicle","22","02",195
+"Threats / Harassment","21","02",44
+"Mentally Disturbed","18","02",96
+"Traffic Stop","21","02",440
+"Homeless Complaint","13","02",327
+"Audible Alarm","13","02",149
+"Audible Alarm","09","02",193
+"Burglary","09","02",68
+"Mentally Disturbed","17","02",109
+"Mentally Disturbed","13","02",96
+"Well Being Check","13","02",166
+"Noise Nuisance","01","02",183
+"Trespasser","17","02",121
+"Burglary","22","02",30
+"Mentally Disturbed","05","02",24
+"Suspicious Vehicle","05","02",40
+"Threats / Harassment","05","02",16
+"Threats / Harassment","12","02",53
+"Noise Nuisance","05","02",38
+"Petty Theft","16","02",122
+"Drugs","22","02",25
+"Drugs","21","02",22
+"Petty Theft","03","02",17
+"Veh Accident","16","02",43
+"Drugs","16","02",52
+"Burglary","05","02",28
+"Petty Theft","20","02",45
+"Veh Accident","20","02",22
+"Mentally Disturbed","04","02",26
+"Auto Boost / Strip","02","02",31
+"Traf Violation Tow","14","02",18
+"Stolen Vehicle","00","02",20
+"Veh Accident","12","02",51
+"Vandalism","23","02",28
+"Auto Boost / Strip","04","02",28
+"Traf Violation Cite","02","02",21
+"Vandalism","02","02",18
+"Auto Boost / Strip","01","02",52
+"Traf Violation Cite","15","02",17
+"Fraud","20","02",16
+"Traf Violation Tow","18","02",19
+"Threats / Harassment","04","02",11
+"Burglary","02","02",16
+"Veh Accident","07","02",14
+"Stolen Vehicle","03","02",11
+"Homeless Complaint","11","01",428
+"Well Being Check","11","01",149
+"Fraud","11","01",44
+"Traffic Stop","19","01",689
+"Threats / Harassment","19","01",53
+"Stolen Vehicle","19","01",48
+"Assault / Battery","19","01",85
+"Suspicious Vehicle","19","01",147
+"Homeless Complaint","18","01",231
+"Assault / Battery","17","01",95
+"Audible Alarm","09","01",250
+"Assault / Battery","09","01",58
+"Auto Boost / Strip","20","01",143
+"Audible Alarm","20","01",167
+"Burglary","19","01",29
+"Noise Nuisance","19","01",75
+"Mentally Disturbed","15","01",90
+"Homeless Complaint","03","01",89
+"Trespasser","18","01",141
+"Fight No Weapon","16","01",152
+"Suspicious Person","16","01",476
+"Traf Violation Cite","09","01",48
+"Vandalism","02","01",33
+"Trespasser","14","01",122
+"Burglary","14","01",56
+"Homeless Complaint","08","01",734
+"Mentally Disturbed","08","01",87
+"Well Being Check","10","01",145
+"Noise Nuisance","09","01",26
+"Stolen Vehicle","13","01",64
+"Fraud","19","01",30
+"Petty Theft","16","01",102
+"Fight No Weapon","13","01",129
+"Suspicious Person","07","01",210
+"Suspicious Vehicle","23","01",230
+"Traffic Stop","12","01",878
+"Well Being Check","12","01",146
+"Mentally Disturbed","12","01",107
+"Assault / Battery","08","01",55
+"Threats / Harassment","23","01",27
+"Drugs","23","01",20
+"Fight No Weapon","17","01",159
+"Homeless Complaint","22","01",162
+"Well Being Check","21","01",173
+"Noise Nuisance","07","01",16
+"Suspicious Person","21","01",234
+"Traf Violation Cite","07","01",32
+"Burglary","06","01",34
+"Burglary","20","01",34
+"Threats / Harassment","10","01",41
+"Auto Boost / Strip","06","01",31
+"Well Being Check","05","01",74
+"Stolen Vehicle","23","01",19
+"Drugs","20","01",35
+"Drugs","09","01",32
+"Drugs","08","01",22
+"Audible Alarm","02","01",165
+"Threats / Harassment","03","01",12
+"Petty Theft","06","01",17
+"Traf Violation Cite","17","01",18
+"Well Being Check","21","12",250
+"Audible Alarm","19","12",274
+"Suspicious Vehicle","19","12",276
+"Assault / Battery","19","12",126
+"Stolen Vehicle","14","12",85
+"Suspicious Vehicle","21","12",202
+"Well Being Check","08","12",198
+"Traf Violation Cite","20","12",212
+"Vandalism","18","12",70
+"Burglary","13","12",85
+"Drugs","13","12",100
+"Veh Accident","13","12",72
+"Suspicious Vehicle","07","12",114
+"Traf Violation Cite","13","12",248
+"Assault / Battery","18","12",123
+"Traf Violation Cite","12","12",277
+"Suspicious Vehicle","06","12",66
+"Homeless Complaint","06","12",595
+"Traf Violation Tow","19","12",99
+"Fight No Weapon","17","12",236
+"Noise Nuisance","04","12",135
+"Noise Nuisance","22","12",384
+"Traffic Stop","11","12",855
+"Threats / Harassment","03","12",25
+"Suspicious Vehicle","03","12",123
+"Suspicious Vehicle","02","12",163
+"Traf Violation Cite","22","12",145
+"Traf Violation Cite","16","12",238
+"Fight No Weapon","02","12",191
+"Trespasser","02","12",117
+"Petty Theft","16","12",166
+"Well Being Check","01","12",166
+"Mentally Disturbed","01","12",51
+"Trespasser","16","12",204
+"Fraud","10","12",66
+"Noise Nuisance","00","12",382
+"Auto Boost / Strip","15","12",221
+"Assault / Battery","15","12",154
+"Well Being Check","15","12",289
+"Auto Boost / Strip","10","12",154
+"Stolen Vehicle","09","12",94
+"Petty Theft","23","12",56
+"Homeless Complaint","15","12",370
+"Stolen Vehicle","16","12",101
+"Assault / Battery","14","12",152
+"Noise Nuisance","07","12",28
+"Mentally Disturbed","13","12",152
+"Well Being Check","18","12",280
+"Drugs","16","12",87
+"Homeless Complaint","17","12",311
+"Traf Violation Cite","01","12",101
+"Burglary","14","12",82
+"Threats / Harassment","14","12",79
+"Vandalism","05","12",31
+"Traf Violation Tow","06","12",26
+"Drugs","00","12",24
+"Auto Boost / Strip","06","12",41
+"Veh Accident","06","12",15
+"Assault / Battery","03","12",49
+"Veh Accident","00","12",24
+"Veh Accident","04","12",12
+"Stolen Vehicle","04","12",17
+"Homeless Complaint","03","12",65
+"Veh Accident","02","12",13
+"Audible Alarm","22","11",217
+"Auto Boost / Strip","17","11",185
+"Mentally Disturbed","20","11",112
+"Threats / Harassment","20","11",66
+"Traf Violation Tow","20","11",66
+"Audible Alarm","19","11",257
+"Well Being Check","19","11",260
+"Fight No Weapon","19","11",226
+"Noise Nuisance","19","11",142
+"Well Being Check","18","11",260
+"Auto Boost / Strip","18","11",161
+"Assault / Battery","18","11",117
+"Mentally Disturbed","18","11",140
+"Traf Violation Cite","23","11",74
+"Stolen Vehicle","23","11",48
+"Auto Boost / Strip","09","11",108
+"Suspicious Person","09","11",482
+"Trespasser","09","11",231
+"Well Being Check","14","11",262
+"Traf Violation Tow","14","11",65
+"Auto Boost / Strip","08","11",92
+"Mentally Disturbed","08","11",125
+"Audible Alarm","08","11",330
+"Burglary","22","11",41
+"Drugs","22","11",54
+"Homeless Complaint","16","11",419
+"Fight No Weapon","12","11",212
+"Suspicious Person","07","11",355
+"Trespasser","21","11",189
+"Assault / Battery","06","11",36
+"Homeless Complaint","11","11",531
+"Suspicious Vehicle","11","11",192
+"Threats / Harassment","11","11",77
+"Suspicious Person","11","11",601
+"Auto Boost / Strip","05","11",45
+"Well Being Check","15","11",245
+"Noise Nuisance","15","11",81
+"Audible Alarm","15","11",206
+"Burglary","15","11",64
+"Petty Theft","10","11",162
+"Audible Alarm","03","11",228
+"Burglary","02","11",37
+"Audible Alarm","10","11",273
+"Audible Alarm","01","11",237
+"Well Being Check","10","11",219
+"Well Being Check","01","11",157
+"Assault / Battery","09","11",90
+"Stolen Vehicle","15","11",65
+"Traf Violation Tow","15","11",59
+"Suspicious Person","05","11",124
+"Fraud","19","11",31
+"Vandalism","10","11",75
+"Homeless Complaint","01","11",94
+"Auto Boost / Strip","00","11",124
+"Petty Theft","22","11",58
+"Fraud","22","11",12
+"Vandalism","07","11",41
+"Burglary","11","11",98
+"Stolen Vehicle","10","11",92
+"Auto Boost / Strip","03","11",51
+"Drugs","14","11",89
+"Suspicious Person","03","11",177
+"Auto Boost / Strip","06","11",36
+"Homeless Complaint","23","11",159
+"Stolen Vehicle","00","11",26
+"Audible Alarm","20","10",274
+"Suspicious Person","19","10",567
+"Fight No Weapon","19","10",229
+"Suspicious Vehicle","23","10",349
+"Audible Alarm","22","10",241
+"Mentally Disturbed","22","10",115
+"Noise Nuisance","22","10",577
+"Assault / Battery","21","10",144
+"Well Being Check","20","10",292
+"Assault / Battery","20","10",137
+"Fight No Weapon","20","10",246
+"Trespasser","07","10",238
+"Stolen Vehicle","21","10",66
+"Well Being Check","16","10",281
+"Homeless Complaint","11","10",604
+"Suspicious Person","15","10",775
+"Auto Boost / Strip","11","10",193
+"Petty Theft","11","10",159
+"Homeless Complaint","06","10",688
+"Petty Theft","15","10",219
+"Fight No Weapon","10","10",209
+"Suspicious Vehicle","18","10",262
+"Veh Accident","14","10",89
+"Suspicious Vehicle","10","10",173
+"Homeless Complaint","05","10",350
+"Mentally Disturbed","18","10",184
+"Stolen Vehicle","14","10",112
+"Fight No Weapon","04","10",78
+"Trespasser","04","10",116
+"Suspicious Person","04","10",151
+"Audible Alarm","04","10",216
+"Traf Violation Tow","18","10",103
+"Trespasser","14","10",220
+"Noise Nuisance","14","10",42
+"Noise Nuisance","04","10",124
+"Drugs","17","10",141
+"Homeless Complaint","13","10",472
+"Traf Violation Cite","13","10",284
+"Traf Violation Tow","09","10",91
+"Mentally Disturbed","17","10",209
+"Petty Theft","17","10",192
+"Noise Nuisance","01","10",373
+"Audible Alarm","00","10",248
+"Mentally Disturbed","16","10",177
+"Audible Alarm","12","10",195
+"Traffic Stop","08","10",753
+"Traf Violation Tow","08","10",79
+"Assault / Battery","12","10",127
+"Drugs","12","10",137
+"Traf Violation Tow","00","10",69
+"Assault / Battery","09","10",95
+"Petty Theft","16","10",179
+"Mentally Disturbed","08","10",138
+"Burglary","07","10",78
+"Traffic Stop","15","10",1134
+"Threats / Harassment","18","10",104
+"Audible Alarm","10","10",257
+"Mentally Disturbed","02","10",48
+"Petty Theft","08","10",99
+"Veh Accident","19","10",57
+"Stolen Vehicle","16","10",94
+"Suspicious Person","05","10",118
+"Traf Violation Cite","00","10",117
+"Vandalism","00","10",46
+"Assault / Battery","05","10",34
+"Vandalism","01","10",41
+"Noise Nuisance","11","10",44
+"Stolen Vehicle","19","10",72
+"Fraud","21","10",23
+"Suspicious Vehicle","01","09",201
+"Traffic Stop","01","09",384
+"Noise Nuisance","00","09",452
+"Stolen Vehicle","22","09",41
+"Auto Boost / Strip","16","09",187
+"Homeless Complaint","16","09",378
+"Suspicious Person","00","09",423
+"Trespasser","00","09",177
+"Suspicious Person","15","09",779
+"Mentally Disturbed","09","09",164
+"Drugs","09","09",96
+"Vandalism","15","09",100
+"Drugs","19","09",121
+"Suspicious Person","19","09",561
+"Assault / Battery","14","09",119
+"Fight No Weapon","08","09",160
+"Suspicious Vehicle","19","09",285
+"Homeless Complaint","08","09",966
+"Noise Nuisance","08","09",34
+"Audible Alarm","19","09",297
+"Suspicious Vehicle","18","09",274
+"Well Being Check","18","09",288
+"Trespasser","07","09",240
+"Audible Alarm","07","09",261
+"Trespasser","17","09",192
+"Fight No Weapon","12","09",199
+"Auto Boost / Strip","04","09",41
+"Well Being Check","04","09",96
+"Vandalism","04","09",20
+"Audible Alarm","03","09",213
+"Fight No Weapon","03","09",93
+"Traffic Stop","23","09",1161
+"Traf Violation Tow","23","09",27
+"Traf Violation Cite","23","09",101
+"Suspicious Vehicle","17","09",340
+"Traf Violation Cite","11","09",240
+"Noise Nuisance","02","09",329
+"Assault / Battery","22","09",117
+"Assault / Battery","02","09",115
+"Traf Violation Tow","15","09",70
+"Veh Accident","19","09",64
+"Noise Nuisance","18","09",104
+"Burglary","09","09",125
+"Drugs","23","09",47
+"Stolen Vehicle","13","09",82
+"Noise Nuisance","07","09",35
+"Stolen Vehicle","07","09",45
+"Audible Alarm","12","09",211
+"Stolen Vehicle","17","09",69
+"Fight No Weapon","11","09",193
+"Stolen Vehicle","02","09",20
+"Noise Nuisance","15","09",62
+"Traf Violation Tow","21","09",49
+"Traf Violation Tow","05","09",28
+"Threats / Harassment","01","09",34
+"Threats / Harassment","06","09",20
+"Drugs","02","09",17
+"Veh Accident","00","09",19
+"Auto Boost / Strip","03","09",44
+"Vandalism","19","08",86
+"Traffic Stop","19","08",1066
+"Assault / Battery","19","08",133
+"Petty Theft","19","08",144
+"Well Being Check","19","08",260
+"Suspicious Vehicle","14","08",244
+"Veh Accident","14","08",82
+"Noise Nuisance","09","08",40
+"Threats / Harassment","18","08",85
+"Stolen Vehicle","08","08",91
+"Well Being Check","18","08",266
+"Threats / Harassment","13","08",95
+"Assault / Battery","23","08",113
+"Vandalism","12","08",76
+"Suspicious Person","22","08",428
+"Well Being Check","17","08",292
+"Homeless Complaint","17","08",334
+"Drugs","12","08",105
+"Audible Alarm","22","08",275
+"Mentally Disturbed","22","08",107
+"Suspicious Person","16","08",814
+"Traffic Stop","11","08",936
+"Fight No Weapon","21","08",211
+"Audible Alarm","21","08",258
+"Well Being Check","21","08",262
+"Traf Violation Tow","16","08",84
+"Traf Violation Tow","20","08",97
+"Veh Accident","20","08",53
+"Well Being Check","20","08",288
+"Petty Theft","15","08",168
+"Mentally Disturbed","10","08",169
+"Suspicious Vehicle","10","08",169
+"Traffic Stop","10","08",1180
+"Audible Alarm","10","08",234
+"Threats / Harassment","10","08",95
+"Burglary","20","08",51
+"Traffic Stop","15","08",1171
+"Suspicious Person","10","08",492
+"Trespasser","13","08",189
+"Suspicious Person","07","08",369
+"Burglary","07","08",66
+"Homeless Complaint","07","08",1009
+"Traf Violation Tow","07","08",60
+"Vandalism","21","08",75
+"Vandalism","17","08",73
+"Stolen Vehicle","16","08",78
+"Homeless Complaint","06","08",721
+"Vandalism","16","08",78
+"Audible Alarm","05","08",212
+"Well Being Check","04","08",119
+"Fight No Weapon","03","08",105
+"Audible Alarm","03","08",192
+"Stolen Vehicle","19","08",63
+"Traf Violation Tow","15","08",77
+"Noise Nuisance","02","08",305
+"Well Being Check","02","08",156
+"Stolen Vehicle","01","08",24
+"Audible Alarm","01","08",232
+"Auto Boost / Strip","14","08",216
+"Suspicious Vehicle","00","08",340
+"Traffic Stop","00","08",807
+"Suspicious Person","00","08",382
+"Well Being Check","00","08",178
+"Suspicious Vehicle","06","08",62
+"Trespasser","04","08",106
+"Veh Accident","19","08",72
+"Assault / Battery","04","08",26
+"Petty Theft","03","08",25
+"Threats / Harassment","02","08",20
+"Auto Boost / Strip","01","08",91
+"Stolen Vehicle","21","08",54
+"Drugs","07","08",41
+"Fight No Weapon","06","08",70
+"Petty Theft","02","08",40
+"Threats / Harassment","00","08",41
+"Burglary","04","08",30
+"Traf Violation Tow","02","08",17
+"Mentally Disturbed","00","08",50
+"Traf Violation Tow","05","08",38
+"Stolen Vehicle","03","08",23
+"Traf Violation Cite","22","07",99
+"Noise Nuisance","22","07",505
+"Traffic Stop","21","07",590
+"Homeless Complaint","21","07",207
+"Auto Boost / Strip","20","07",245
+"Traf Violation Cite","19","07",258
+"Auto Boost / Strip","19","07",242
+"Petty Theft","19","07",184
+"Traffic Stop","23","07",1032
+"Suspicious Vehicle","23","07",336
+"Mentally Disturbed","08","07",130
+"Suspicious Person","11","07",528
+"Fight No Weapon","10","07",170
+"Traf Violation Tow","17","07",74
+"Suspicious Person","13","07",691
+"Fraud","13","07",102
+"Homeless Complaint","17","07",292
+"Burglary","16","07",67
+"Threats / Harassment","16","07",97
+"Mentally Disturbed","10","07",152
+"Burglary","12","07",101
+"Fight No Weapon","07","07",90
+"Suspicious Person","07","07",310
+"Traffic Stop","15","07",884
+"Fight No Weapon","15","07",210
+"Trespasser","15","07",204
+"Drugs","15","07",130
+"Well Being Check","06","07",102
+"Assault / Battery","14","07",122
+"Burglary","06","07",41
+"Noise Nuisance","15","07",71
+"Homeless Complaint","09","07",808
+"Mentally Disturbed","16","07",160
+"Suspicious Person","04","07",119
+"Suspicious Person","05","07",110
+"Burglary","22","07",46
+"Noise Nuisance","11","07",44
+"Noise Nuisance","03","07",225
+"Vandalism","02","07",46
+"Trespasser","02","07",133
+"Fight No Weapon","04","07",62
+"Stolen Vehicle","11","07",97
+"Suspicious Person","03","07",161
+"Auto Boost / Strip","13","07",186
+"Auto Boost / Strip","08","07",100
+"Noise Nuisance","10","07",47
+"Drugs","22","07",52
+"Assault / Battery","08","07",81
+"Veh Accident","01","07",15
+"Veh Accident","12","07",66
+"Petty Theft","03","07",21
+"Homeless Complaint","01","07",74
+"Noise Nuisance","14","07",64
+"Threats / Harassment","03","07",19
+"Burglary","13","07",78
+"Threats / Harassment","06","07",33
+"Veh Accident","21","07",32
+"Drugs","03","07",13
+"Traf Violation Cite","21","06",127
+"Fight No Weapon","21","06",226
+"Suspicious Person","13","06",680
+"Traf Violation Cite","13","06",212
+"Traf Violation Tow","19","06",92
+"Suspicious Person","17","06",707
+"Traf Violation Cite","12","06",205
+"Veh Accident","12","06",73
+"Traf Violation Tow","12","06",90
+"Traffic Stop","12","06",1078
+"Suspicious Vehicle","19","06",254
+"Traf Violation Tow","11","06",79
+"Fight No Weapon","11","06",199
+"Traffic Stop","10","06",1035
+"Well Being Check","10","06",252
+"Trespasser","18","06",152
+"Traf Violation Cite","16","06",191
+"Petty Theft","10","06",148
+"Homeless Complaint","15","06",294
+"Noise Nuisance","22","06",442
+"Suspicious Vehicle","22","06",317
+"Veh Accident","14","06",73
+"Trespasser","14","06",176
+"Fight No Weapon","14","06",231
+"Traf Violation Tow","14","06",62
+"Suspicious Person","21","06",342
+"Trespasser","21","06",203
+"Burglary","21","06",41
+"Veh Accident","10","06",60
+"Well Being Check","09","06",216
+"Fight No Weapon","09","06",147
+"Trespasser","09","06",244
+"Trespasser","00","06",184
+"Assault / Battery","00","06",96
+"Mentally Disturbed","18","06",155
+"Traffic Stop","06","06",176
+"Well Being Check","07","06",147
+"Mentally Disturbed","08","06",142
+"Trespasser","05","06",154
+"Noise Nuisance","17","06",77
+"Fight No Weapon","04","06",67
+"Auto Boost / Strip","20","06",203
+"Threats / Harassment","20","06",64
+"Veh Accident","17","06",73
+"Suspicious Vehicle","03","06",89
+"Traffic Stop","02","06",214
+"Petty Theft","15","06",213
+"Suspicious Person","02","06",193
+"Homeless Complaint","04","06",127
+"Fraud","19","06",42
+"Vandalism","00","06",61
+"Assault / Battery","09","06",100
+"Vandalism","09","06",63
+"Burglary","23","06",47
+"Threats / Harassment","10","06",82
+"Stolen Vehicle","20","06",57
+"Drugs","08","06",58
+"Petty Theft","08","06",65
+"Vandalism","17","06",71
+"Stolen Vehicle","02","06",32
+"Auto Boost / Strip","06","06",43
+"Homeless Complaint","18","06",249
+"Vandalism","22","06",66
+"Threats / Harassment","22","06",54
+"Assault / Battery","04","06",34
+"Threats / Harassment","03","06",17
+"Drugs","02","06",21
+"Veh Accident","00","06",25
+"Threats / Harassment","02","06",21
+"Homeless Complaint","21","06",197
+"Assault / Battery","11","05",100
+"Suspicious Person","11","05",569
+"Traffic Stop","11","05",1064
+"Noise Nuisance","22","05",415
+"Homeless Complaint","11","05",606
+"Veh Accident","11","05",58
+"Well Being Check","16","05",326
+"Trespasser","21","05",183
+"Veh Accident","16","05",81
+"Suspicious Vehicle","16","05",296
+"Traffic Stop","09","05",1118
+"Well Being Check","09","05",230
+"Mentally Disturbed","09","05",170
+"Veh Accident","18","05",63
+"Suspicious Person","15","05",697
+"Suspicious Vehicle","15","05",229
+"Traf Violation Cite","15","05",156
+"Audible Alarm","15","05",226
+"Fight No Weapon","15","05",248
+"Homeless Complaint","15","05",447
+"Audible Alarm","08","05",315
+"Fraud","15","05",107
+"Suspicious Vehicle","20","05",228
+"Traffic Stop","10","05",1080
+"Threats / Harassment","11","05",67
+"Petty Theft","14","05",180
+"Assault / Battery","10","05",124
+"Traf Violation Cite","13","05",182
+"Trespasser","13","05",171
+"Petty Theft","13","05",186
+"Suspicious Vehicle","12","05",223
+"Trespasser","12","05",183
+"Traf Violation Tow","09","05",78
+"Drugs","18","05",121
+"Stolen Vehicle","18","05",79
+"Trespasser","03","05",120
+"Noise Nuisance","16","05",75
+"Stolen Vehicle","08","05",88
+"Audible Alarm","01","05",194
+"Traf Violation Cite","01","05",74
+"Well Being Check","01","05",162
+"Burglary","01","05",20
+"Audible Alarm","07","05",344
+"Fight No Weapon","07","05",113
+"Assault / Battery","07","05",67
+"Traf Violation Tow","07","05",49
+"Noise Nuisance","05","05",68
+"Homeless Complaint","00","05",167
+"Fraud","17","05",62
+"Stolen Vehicle","22","05",36
+"Mentally Disturbed","20","05",135
+"Suspicious Vehicle","11","05",164
+"Burglary","20","05",67
+"Fight No Weapon","04","05",74
+"Noise Nuisance","01","05",275
+"Veh Accident","19","05",46
+"Veh Accident","01","05",18
+"Threats / Harassment","00","05",37
+"Fight No Weapon","08","05",154
+"Traf Violation Tow","04","05",20
+"Veh Accident","02","05",14
+"Burglary","23","05",37
+"Traf Violation Cite","04","05",24
+"Stolen Vehicle","02","05",20
+"Homeless Complaint","20","04",382
+"Well Being Check","17","04",304
+"Mentally Disturbed","17","04",155
+"Trespasser","16","04",162
+"Suspicious Vehicle","15","04",273
+"Petty Theft","16","04",178
+"Mentally Disturbed","07","04",104
+"Traffic Stop","14","04",1189
+"Trespasser","14","04",155
+"Trespasser","12","04",176
+"Petty Theft","12","04",164
+"Well Being Check","12","04",253
+"Petty Theft","06","04",27
+"Auto Boost / Strip","11","04",139
+"Trespasser","11","04",182
+"Stolen Vehicle","11","04",110
+"Suspicious Person","03","04",194
+"Audible Alarm","03","04",173
+"Traf Violation Cite","13","04",89
+"Drugs","13","04",89
+"Suspicious Vehicle","13","04",219
+"Drugs","11","04",87
+"Homeless Complaint","01","04",143
+"Stolen Vehicle","01","04",31
+"Suspicious Vehicle","01","04",188
+"Fight No Weapon","01","04",219
+"Stolen Vehicle","00","04",33
+"Fight No Weapon","02","04",173
+"Well Being Check","01","04",184
+"Trespasser","18","04",171
+"Threats / Harassment","18","04",97
+"Vandalism","10","04",62
+"Auto Boost / Strip","10","04",120
+"Homeless Complaint","10","04",794
+"Burglary","10","04",106
+"Fight No Weapon","06","04",76
+"Traf Violation Tow","06","04",31
+"Homeless Complaint","09","04",904
+"Fight No Weapon","23","04",204
+"Noise Nuisance","17","04",66
+"Suspicious Person","22","04",470
+"Audible Alarm","22","04",243
+"Trespasser","09","04",178
+"Suspicious Person","21","04",352
+"Assault / Battery","16","04",149
+"Stolen Vehicle","15","04",78
+"Fraud","15","04",111
+"Traf Violation Tow","12","04",87
+"Fraud","09","04",52
+"Threats / Harassment","00","04",51
+"Stolen Vehicle","23","04",42
+"Vandalism","08","04",64
+"Assault / Battery","01","04",79
+"Audible Alarm","06","04",223
+"Vandalism","06","04",22
+"Fight No Weapon","07","04",88
+"Veh Accident","21","04",41
+"Auto Boost / Strip","05","04",40
+"Burglary","23","04",38
+"Vandalism","01","04",37
+"Veh Accident","22","04",40
+"Noise Nuisance","19","04",129
+"Fraud","21","04",18
+"Threats / Harassment","07","04",34
+"Traffic Stop","05","04",171
+"Mentally Disturbed","03","04",36
+"Burglary","21","04",48
+"Petty Theft","04","04",22
+"Veh Accident","02","04",13
+"Traffic Stop","22","03",776
+"Petty Theft","21","03",67
+"Suspicious Person","21","03",220
+"Burglary","15","03",42
+"Petty Theft","14","03",96
+"Burglary","21","03",30
+"Audible Alarm","21","03",167
+"Homeless Complaint","20","03",216
+"Threats / Harassment","18","03",71
+"Well Being Check","20","03",176
+"Drugs","13","03",80
+"Traffic Stop","12","03",853
+"Traffic Stop","19","03",670
+"Homeless Complaint","17","03",305
+"Fight No Weapon","12","03",128
+"Suspicious Vehicle","12","03",166
+"Noise Nuisance","18","03",73
+"Well Being Check","18","03",201
+"Noise Nuisance","23","03",313
+"Traffic Stop","15","03",795
+"Auto Boost / Strip","23","03",118
+"Suspicious Vehicle","15","03",195
+"Homeless Complaint","09","03",712
+"Suspicious Person","00","03",243
+"Homeless Complaint","00","03",126
+"Traf Violation Tow","00","03",28
+"Suspicious Vehicle","11","03",132
+"Suspicious Vehicle","00","03",179
+"Fight No Weapon","10","03",100
+"Traf Violation Cite","13","03",41
+"Stolen Vehicle","09","03",72
+"Homeless Complaint","08","03",761
+"Audible Alarm","11","03",165
+"Drugs","08","03",32
+"Fight No Weapon","08","03",75
+"Traf Violation Tow","08","03",20
+"Audible Alarm","07","03",206
+"Trespasser","07","03",134
+"Stolen Vehicle","07","03",36
+"Traf Violation Cite","07","03",27
+"Well Being Check","06","03",80
+"Suspicious Person","06","03",88
+"Auto Boost / Strip","06","03",31
+"Assault / Battery","06","03",21
+"Traf Violation Tow","12","03",26
+"Burglary","14","03",52
+"Mentally Disturbed","11","03",94
+"Suspicious Vehicle","05","03",63
+"Suspicious Vehicle","04","03",75
+"Well Being Check","03","03",88
+"Traffic Stop","03","03",143
+"Stolen Vehicle","10","03",79
+"Petty Theft","10","03",83
+"Suspicious Vehicle","02","03",120
+"Petty Theft","02","03",21
+"Auto Boost / Strip","10","03",88
+"Auto Boost / Strip","14","03",124
+"Burglary","01","03",16
+"Burglary","08","03",68
+"Traf Violation Cite","18","03",25
+"Stolen Vehicle","14","03",59
+"Traf Violation Tow","15","03",18
+"Assault / Battery","00","03",60
+"Noise Nuisance","14","03",33
+"Threats / Harassment","05","03",14
+"Auto Boost / Strip","04","03",20
+"Veh Accident","13","03",53
+"Vandalism","06","03",24
+"Noise Nuisance","08","03",14
+"Fight No Weapon","23","02",133
+"Suspicious Person","23","02",252
+"Threats / Harassment","23","02",48
+"Suspicious Person","11","02",373
+"Traffic Stop","06","02",118
+"Suspicious Vehicle","00","02",193
+"Traffic Stop","04","02",110
+"Homeless Complaint","03","02",69
+"Well Being Check","20","02",154
+"Homeless Complaint","20","02",193
+"Petty Theft","19","02",93
+"Homeless Complaint","16","02",294
+"Traffic Stop","16","02",1307
+"Noise Nuisance","15","02",37
+"Trespasser","02","02",67
+"Threats / Harassment","02","02",12
+"Well Being Check","01","02",88
+"Homeless Complaint","14","02",299
+"Noise Nuisance","10","02",27
+"Drugs","10","02",51
+"Fight No Weapon","22","02",141
+"Stolen Vehicle","22","02",29
+"Auto Boost / Strip","18","02",102
+"Traffic Stop","09","02",832
+"Homeless Complaint","09","02",553
+"Mentally Disturbed","09","02",79
+"Burglary","21","02",34
+"Traf Violation Tow","10","02",18
+"Homeless Complaint","21","02",195
+"Petty Theft","21","02",50
+"Auto Boost / Strip","21","02",154
+"Burglary","18","02",44
+"Veh Accident","18","02",36
+"Traf Violation Cite","09","02",34
+"Vandalism","14","02",45
+"Noise Nuisance","09","02",16
+"Trespasser","08","02",108
+"Petty Theft","08","02",51
+"Petty Theft","23","02",33
+"Noise Nuisance","17","02",46
+"Suspicious Person","00","02",180
+"Audible Alarm","00","02",143
+"Noise Nuisance","00","02",234
+"Traf Violation Cite","13","02",38
+"Trespasser","05","02",64
+"Audible Alarm","07","02",190
+"Petty Theft","07","02",22
+"Suspicious Person","22","02",242
+"Well Being Check","04","02",64
+"Fight No Weapon","16","02",153
+"Assault / Battery","21","02",61
+"Fight No Weapon","12","02",129
+"Vandalism","20","02",36
+"Mentally Disturbed","00","02",36
+"Well Being Check","05","02",60
+"Auto Boost / Strip","05","02",22
+"Petty Theft","00","02",22
+"Traf Violation Cite","08","02",33
+"Traf Violation Tow","11","01",22
+"Petty Theft","11","01",108
+"Trespasser","05","01",93
+"Petty Theft","19","01",84
+"Suspicious Person","09","01",319
+"Traffic Stop","09","01",952
+"Burglary","09","01",90
+"Petty Theft","09","01",70
+"Threats / Harassment","20","01",45
+"Well Being Check","19","01",168
+"Auto Boost / Strip","03","01",42
+"Veh Accident","18","01",49
+"Audible Alarm","18","01",177
+"Drugs","15","01",55
+"Suspicious Person","02","01",140
+"Fraud","14","01",61
+"Mentally Disturbed","09","01",81
+"Homeless Complaint","15","01",271
+"Suspicious Person","01","01",194
+"Vandalism","01","01",22
+"Suspicious Person","13","01",493
+"Audible Alarm","13","01",117
+"Auto Boost / Strip","01","01",73
+"Petty Theft","14","01",119
+"Threats / Harassment","14","01",58
+"Vandalism","07","01",22
+"Petty Theft","12","01",105
+"Veh Accident","07","01",19
+"Audible Alarm","22","01",160
+"Petty Theft","15","01",115
+"Fight No Weapon","08","01",91
+"Fight No Weapon","12","01",131
+"Stolen Vehicle","17","01",66
+"Burglary","18","01",49
+"Auto Boost / Strip","11","01",162
+"Threats / Harassment","18","01",45
+"Vandalism","11","01",39
+"Burglary","21","01",39
+"Mentally Disturbed","10","01",89
+"Noise Nuisance","20","01",113
+"Traf Violation Cite","10","01",40
+"Threats / Harassment","06","01",16
+"Mentally Disturbed","06","01",31
+"Assault / Battery","10","01",57
+"Well Being Check","16","01",181
+"Drugs","11","01",43
+"Petty Theft","07","01",38
+"Trespasser","00","01",112
+"Traf Violation Tow","00","01",23
+"Auto Boost / Strip","02","01",48
+"Burglary","22","01",27
+"Assault / Battery","14","01",74
+"Trespasser","02","01",95
+"Traf Violation Tow","21","01",16
+"Fight No Weapon","05","01",49
+"Petty Theft","03","01",16
+"Assault / Battery","05","01",19
+"Mentally Disturbed","04","01",31
+"Vandalism","06","01",13
+"Traf Violation Tow","08","01",22
+"Threats / Harassment","15","01",61
+"Drugs","22","01",23
+"Traf Violation Tow","20","01",30
+"Drugs","00","01",11
+"Traf Violation Cite","19","01",17
+"Vandalism","21","12",69
+"Assault / Battery","21","12",120
+"Traf Violation Cite","19","12",236
+"Audible Alarm","14","12",215
+"Burglary","21","12",57
+"Fraud","21","12",21
+"Noise Nuisance","08","12",35
+"Fight No Weapon","20","12",216
+"Stolen Vehicle","20","12",51
+"Audible Alarm","20","12",226
+"Homeless Complaint","13","12",455
+"Traffic Stop","13","12",886
+"Petty Theft","19","12",141
+"Traffic Stop","17","12",1536
+"Audible Alarm","12","12",237
+"Mentally Disturbed","12","12",153
+"Threats / Harassment","12","12",78
+"Audible Alarm","05","12",265
+"Suspicious Person","04","12",150
+"Assault / Battery","22","12",122
+"Auto Boost / Strip","22","12",252
+"Assault / Battery","12","12",110
+"Well Being Check","11","12",268
+"Stolen Vehicle","11","12",95
+"Well Being Check","02","12",156
+"Suspicious Person","02","12",225
+"Threats / Harassment","02","12",33
+"Fraud","16","12",86
+"Suspicious Vehicle","01","12",196
+"Traf Violation Cite","10","12",216
+"Homeless Complaint","00","12",115
+"Vandalism","23","12",39
+"Fight No Weapon","09","12",162
+"Vandalism","22","12",60
+"Homeless Complaint","16","12",382
+"Fight No Weapon","08","12",118
+"Drugs","18","12",75
+"Burglary","06","12",39
+"Threats / Harassment","17","12",88
+"Traf Violation Tow","04","12",17
+"Drugs","19","12",62
+"Assault / Battery","02","12",109
+"Suspicious Person","01","12",263
+"Threats / Harassment","16","12",83
+"Fight No Weapon","10","12",173
+"Drugs","15","12",96
+"Fraud","18","12",47
+"Homeless Complaint","01","12",81
+"Mentally Disturbed","00","12",63
+"Veh Accident","23","12",31
+"Fraud","12","12",71
+"Stolen Vehicle","07","12",35
+"Veh Accident","14","12",80
+"Traf Violation Tow","05","12",22
+"Veh Accident","10","12",66
+"Veh Accident","16","12",91
+"Threats / Harassment","01","12",37
+"Assault / Battery","07","12",57
+"Petty Theft","05","12",21
+"Stolen Vehicle","05","12",13
+"Vandalism","06","12",19
+"Homeless Complaint","02","12",73
+"Mentally Disturbed","17","11",173
+"Threats / Harassment","17","11",93
+"Traf Violation Tow","22","11",44
+"Homeless Complaint","22","11",197
+"Veh Accident","22","11",31
+"Suspicious Vehicle","17","11",250
+"Traf Violation Tow","17","11",73
+"Well Being Check","22","11",208
+"Noise Nuisance","21","11",250
+"Threats / Harassment","21","11",60
+"Burglary","21","11",37
+"Suspicious Vehicle","21","11",222
+"Homeless Complaint","20","11",227
+"Well Being Check","20","11",258
+"Suspicious Vehicle","20","11",250
+"Vandalism","19","11",67
+"Mentally Disturbed","19","11",124
+"Fight No Weapon","18","11",232
+"Trespasser","18","11",187
+"Traffic Stop","18","11",1288
+"Drugs","18","11",67
+"Vandalism","23","11",63
+"Homeless Complaint","09","11",754
+"Traffic Stop","14","11",1091
+"Traf Violation Cite","08","11",328
+"Fight No Weapon","08","11",136
+"Assault / Battery","22","11",115
+"Well Being Check","13","11",247
+"Petty Theft","13","11",187
+"Burglary","13","11",100
+"Fight No Weapon","16","11",214
+"Auto Boost / Strip","13","11",201
+"Traffic Stop","12","11",839
+"Well Being Check","07","11",140
+"Traf Violation Tow","06","11",29
+"Well Being Check","11","11",235
+"Traf Violation Cite","11","11",199
+"Audible Alarm","11","11",218
+"Noise Nuisance","06","11",88
+"Petty Theft","16","11",167
+"Mentally Disturbed","15","11",161
+"Well Being Check","03","11",122
+"Auto Boost / Strip","15","11",198
+"Suspicious Person","10","11",486
+"Traf Violation Tow","10","11",83
+"Traffic Stop","02","11",255
+"Assault / Battery","15","11",146
+"Fight No Weapon","10","11",154
+"Burglary","18","11",61
+"Fight No Weapon","14","11",212
+"Threats / Harassment","00","11",42
+"Veh Accident","09","11",45
+"Fraud","09","11",41
+"Noise Nuisance","07","11",40
+"Mentally Disturbed","12","11",155
+"Noise Nuisance","04","11",109
+"Well Being Check","04","11",101
+"Veh Accident","10","11",54
+"Vandalism","18","11",80
+"Drugs","15","11",97
+"Burglary","07","11",93
+"Noise Nuisance","12","11",51
+"Traf Violation Cite","03","11",28
+"Drugs","08","11",69
+"Stolen Vehicle","22","11",31
+"Vandalism","11","11",75
+"Vandalism","14","11",77
+"Threats / Harassment","04","11",14
+"Drugs","00","11",26
+"Traf Violation Tow","03","11",15
+"Assault / Battery","03","11",43
+"Noise Nuisance","05","11",82
+"Assault / Battery","04","11",29
+"Traf Violation Cite","19","10",265
+"Auto Boost / Strip","19","10",203
+"Petty Theft","23","10",52
+"Well Being Check","23","10",221
+"Traf Violation Tow","23","10",39
+"Traffic Stop","22","10",1218
+"Fight No Weapon","22","10",213
+"Traffic Stop","21","10",706
+"Noise Nuisance","21","10",296
+"Auto Boost / Strip","21","10",264
+"Audible Alarm","21","10",248
+"Vandalism","20","10",75
+"Mentally Disturbed","20","10",145
+"Trespasser","11","10",244
+"Suspicious Vehicle","11","10",181
+"Drugs","15","10",98
+"Traffic Stop","18","10",1218
+"Auto Boost / Strip","14","10",230
+"Fight No Weapon","14","10",243
+"Vandalism","14","10",66
+"Traf Violation Tow","14","10",89
+"Mentally Disturbed","05","10",44
+"Suspicious Vehicle","05","10",59
+"Audible Alarm","14","10",207
+"Mentally Disturbed","04","10",33
+"Well Being Check","10","10",242
+"Auto Boost / Strip","02","10",76
+"Assault / Battery","18","10",156
+"Fraud","17","10",88
+"Vandalism","17","10",84
+"Well Being Check","17","10",305
+"Fight No Weapon","13","10",233
+"Well Being Check","09","10",226
+"Fraud","09","10",56
+"Threats / Harassment","09","10",87
+"Audible Alarm","02","10",223
+"Trespasser","02","10",132
+"Suspicious Vehicle","17","10",348
+"Traffic Stop","13","10",733
+"Traf Violation Tow","13","10",107
+"Petty Theft","09","10",141
+"Petty Theft","00","10",52
+"Fight No Weapon","12","10",245
+"Fight No Weapon","11","10",182
+"Traf Violation Tow","05","10",48
+"Auto Boost / Strip","05","10",46
+"Noise Nuisance","05","10",95
+"Burglary","02","10",27
+"Fraud","14","10",78
+"Stolen Vehicle","02","10",24
+"Well Being Check","01","10",176
+"Homeless Complaint","21","10",266
+"Burglary","16","10",72
+"Stolen Vehicle","15","10",85
+"Homeless Complaint","03","10",84
+"Assault / Battery","07","10",45
+"Fraud","19","10",46
+"Vandalism","03","10",23
+"Assault / Battery","01","09",99
+"Suspicious Person","01","09",274
+"Trespasser","01","09",116
+"Well Being Check","16","09",285
+"Mentally Disturbed","16","09",177
+"Mentally Disturbed","11","09",174
+"Suspicious Vehicle","10","09",178
+"Traf Violation Cite","10","09",293
+"Fight No Weapon","10","09",185
+"Suspicious Person","10","09",573
+"Fight No Weapon","00","09",204
+"Suspicious Vehicle","22","09",344
+"Burglary","21","09",46
+"Suspicious Vehicle","21","09",238
+"Trespasser","16","09",234
+"Mentally Disturbed","10","09",179
+"Assault / Battery","16","09",138
+"Noise Nuisance","21","09",230
+"Traf Violation Cite","20","09",185
+"Mentally Disturbed","15","09",161
+"Auto Boost / Strip","15","09",207
+"Drugs","15","09",133
+"Threats / Harassment","15","09",91
+"Well Being Check","09","09",238
+"Fight No Weapon","09","09",188
+"Noise Nuisance","09","09",61
+"Trespasser","19","09",181
+"Traf Violation Cite","19","09",264
+"Assault / Battery","19","09",153
+"Petty Theft","14","09",169
+"Drugs","08","09",90
+"Suspicious Person","08","09",409
+"Suspicious Vehicle","08","09",172
+"Audible Alarm","18","09",250
+"Well Being Check","13","09",271
+"Trespasser","13","09",180
+"Suspicious Vehicle","13","09",236
+"Traf Violation Cite","12","09",262
+"Suspicious Person","17","09",745
+"Traf Violation Tow","12","09",88
+"Auto Boost / Strip","05","09",45
+"Drugs","17","09",134
+"Noise Nuisance","17","09",88
+"Drugs","12","09",105
+"Fight No Weapon","04","09",84
+"Assault / Battery","17","09",139
+"Well Being Check","02","09",161
+"Threats / Harassment","02","09",36
+"Trespasser","15","09",223
+"Traf Violation Tow","18","09",77
+"Vandalism","23","09",52
+"Threats / Harassment","23","09",46
+"Drugs","07","09",57
+"Mentally Disturbed","17","09",187
+"Traf Violation Cite","06","09",93
+"Petty Theft","21","09",78
+"Traffic Stop","06","09",181
+"Threats / Harassment","11","09",82
+"Stolen Vehicle","03","09",13
+"Vandalism","11","09",66
+"Burglary","14","09",65
+"Suspicious Vehicle","06","09",79
+"Auto Boost / Strip","06","09",42
+"Veh Accident","20","09",52
+"Mentally Disturbed","00","09",63
+"Threats / Harassment","00","09",46
+"Drugs","06","09",23
+"Homeless Complaint","15","08",350
+"Burglary","09","08",110
+"Noise Nuisance","19","08",94
+"Mentally Disturbed","19","08",153
+"Traf Violation Tow","08","08",70
+"Petty Theft","13","08",175
+"Audible Alarm","13","08",222
+"Traf Violation Cite","13","08",233
+"Homeless Complaint","23","08",189
+"Mentally Disturbed","13","08",213
+"Suspicious Person","23","08",437
+"Drugs","23","08",38
+"Trespasser","17","08",195
+"Suspicious Person","17","08",797
+"Drugs","17","08",127
+"Traf Violation Tow","22","08",53
+"Trespasser","22","08",188
+"Stolen Vehicle","17","08",83
+"Petty Theft","12","08",173
+"Burglary","12","08",83
+"Traf Violation Cite","11","08",253
+"Traf Violation Cite","21","08",138
+"Assault / Battery","21","08",134
+"Traffic Stop","21","08",720
+"Noise Nuisance","21","08",186
+"Mentally Disturbed","21","08",117
+"Stolen Vehicle","15","08",77
+"Traf Violation Cite","10","08",244
+"Vandalism","20","08",71
+"Burglary","15","08",73
+"Auto Boost / Strip","20","08",186
+"Auto Boost / Strip","23","08",175
+"Burglary","17","08",78
+"Traffic Stop","07","08",839
+"Mentally Disturbed","07","08",118
+"Suspicious Vehicle","07","08",154
+"Burglary","21","08",57
+"Threats / Harassment","16","08",92
+"Traf Violation Cite","06","08",92
+"Noise Nuisance","06","08",80
+"Trespasser","05","08",145
+"Fight No Weapon","04","08",70
+"Auto Boost / Strip","15","08",213
+"Suspicious Person","04","08",145
+"Audible Alarm","04","08",205
+"Homeless Complaint","03","08",63
+"Suspicious Vehicle","02","08",156
+"Burglary","01","08",30
+"Burglary","19","08",58
+"Mentally Disturbed","14","08",176
+"Traf Violation Cite","00","08",102
+"Vandalism","13","08",65
+"Burglary","13","08",75
+"Fraud","11","08",78
+"Vandalism","05","08",24
+"Threats / Harassment","19","08",82
+"Mentally Disturbed","05","08",54
+"Vandalism","04","08",18
+"Threats / Harassment","01","08",31
+"Mentally Disturbed","04","08",34
+"Traf Violation Cite","04","08",31
+"Traf Violation Tow","00","08",47
+"Burglary","05","08",40
+"Petty Theft","07","08",38
+"Petty Theft","04","08",22
+"Vandalism","09","08",53
+"Traf Violation Tow","04","08",12
+"Audible Alarm","20","07",294
+"Suspicious Vehicle","20","07",237
+"Traf Violation Tow","20","07",59
+"Traffic Stop","19","07",859
+"Noise Nuisance","19","07",122
+"Mentally Disturbed","20","07",125
+"Noise Nuisance","23","07",533
+"Traf Violation Tow","23","07",31
+"Petty Theft","22","07",72
+"Suspicious Vehicle","22","07",321
+"Veh Accident","22","07",43
+"Noise Nuisance","18","07",118
+"Noise Nuisance","17","07",76
+"Suspicious Vehicle","16","07",239
+"Trespasser","16","07",200
+"Auto Boost / Strip","10","07",166
+"Suspicious Person","10","07",468
+"Suspicious Vehicle","17","07",284
+"Burglary","17","07",76
+"Well Being Check","17","07",292
+"Vandalism","13","07",83
+"Traf Violation Cite","07","07",181
+"Traf Violation Tow","16","07",47
+"Noise Nuisance","12","07",64
+"Fight No Weapon","12","07",207
+"Suspicious Person","00","07",392
+"Audible Alarm","00","07",237
+"Traf Violation Cite","15","07",230
+"Burglary","15","07",84
+"Audible Alarm","15","07",231
+"Audible Alarm","12","07",241
+"Suspicious Vehicle","15","07",213
+"Threats / Harassment","15","07",97
+"Veh Accident","10","07",53
+"Fight No Weapon","06","07",67
+"Suspicious Person","09","07",413
+"Noise Nuisance","05","07",88
+"Trespasser","05","07",137
+"Noise Nuisance","06","07",78
+"Traf Violation Cite","14","07",202
+"Well Being Check","14","07",247
+"Suspicious Vehicle","11","07",166
+"Homeless Complaint","04","07",108
+"Audible Alarm","03","07",218
+"Fight No Weapon","03","07",117
+"Drugs","09","07",88
+"Well Being Check","11","07",199
+"Audible Alarm","02","07",234
+"Audible Alarm","01","07",232
+"Noise Nuisance","02","07",332
+"Mentally Disturbed","17","07",165
+"Assault / Battery","01","07",104
+"Homeless Complaint","20","07",239
+"Mentally Disturbed","09","07",164
+"Threats / Harassment","11","07",76
+"Homeless Complaint","22","07",204
+"Mentally Disturbed","01","07",55
+"Burglary","18","07",70
+"Burglary","02","07",19
+"Veh Accident","08","07",44
+"Stolen Vehicle","07","07",60
+"Petty Theft","02","07",41
+"Threats / Harassment","04","07",21
+"Assault / Battery","05","07",23
+"Assault / Battery","06","07",48
+"Stolen Vehicle","02","07",24
+"Traf Violation Tow","04","07",11
+"Traf Violation Cite","23","06",103
+"Suspicious Vehicle","21","06",197
+"Well Being Check","20","06",272
+"Fight No Weapon","20","06",221
+"Audible Alarm","13","06",228
+"Well Being Check","13","06",245
+"Mentally Disturbed","23","06",101
+"Assault / Battery","12","06",116
+"Audible Alarm","19","06",316
+"Drugs","17","06",148
+"Veh Accident","19","06",52
+"Traf Violation Cite","11","06",219
+"Trespasser","11","06",196
+"Traffic Stop","11","06",960
+"Threats / Harassment","18","06",87
+"Mentally Disturbed","16","06",174
+"Vandalism","10","06",67
+"Suspicious Vehicle","12","06",200
+"Assault / Battery","15","06",144
+"Trespasser","15","06",236
+"Suspicious Vehicle","23","06",322
+"Fight No Weapon","22","06",221
+"Petty Theft","14","06",133
+"Noise Nuisance","14","06",60
+"Stolen Vehicle","13","06",103
+"Veh Accident","07","06",34
+"Suspicious Person","09","06",426
+"Homeless Complaint","09","06",719
+"Suspicious Person","00","06",300
+"Audible Alarm","00","06",236
+"Drugs","06","06",27
+"Fight No Weapon","10","06",174
+"Audible Alarm","09","06",292
+"Auto Boost / Strip","08","06",89
+"Audible Alarm","23","06",257
+"Well Being Check","04","06",99
+"Auto Boost / Strip","03","06",67
+"Noise Nuisance","15","06",66
+"Threats / Harassment","17","06",86
+"Assault / Battery","03","06",56
+"Fight No Weapon","03","06",113
+"Drugs","15","06",110
+"Threats / Harassment","12","06",92
+"Threats / Harassment","06","06",16
+"Vandalism","02","06",43
+"Fight No Weapon","02","06",213
+"Suspicious Vehicle","02","06",145
+"Petty Theft","01","06",29
+"Traffic Stop","05","06",105
+"Suspicious Person","04","06",119
+"Drugs","00","06",44
+"Vandalism","13","06",75
+"Homeless Complaint","11","06",487
+"Veh Accident","13","06",64
+"Drugs","13","06",94
+"Traffic Stop","09","06",954
+"Mentally Disturbed","06","06",70
+"Suspicious Person","05","06",93
+"Traf Violation Tow","05","06",22
+"Noise Nuisance","10","06",51
+"Mentally Disturbed","04","06",42
+"Stolen Vehicle","03","06",18
+"Auto Boost / Strip","01","06",89
+"Burglary","01","06",42
+"Homeless Complaint","02","06",82
+"Veh Accident","09","06",44
+"Fraud","07","06",15
+"Petty Theft","05","06",24
+"Mentally Disturbed","01","06",44
+"Homeless Complaint","00","06",149
+"Homeless Complaint","01","06",92
+"Petty Theft","11","05",158
+"Well Being Check","21","05",249
+"Noise Nuisance","21","05",222
+"Fraud","19","05",39
+"Traffic Stop","18","05",1470
+"Well Being Check","18","05",243
+"Petty Theft","18","05",146
+"Threats / Harassment","18","05",94
+"Suspicious Person","18","05",645
+"Trespasser","09","05",190
+"Suspicious Person","17","05",715
+"Petty Theft","17","05",164
+"Stolen Vehicle","17","05",86
+"Well Being Check","19","05",276
+"Suspicious Person","19","05",583
+"Mentally Disturbed","14","05",171
+"Assault / Battery","12","05",133
+"Traf Violation Cite","23","05",82
+"Traf Violation Tow","23","05",40
+"Well Being Check","05","05",114
+"Threats / Harassment","05","05",22
+"Traffic Stop","05","05",180
+"Suspicious Person","04","05",166
+"Fraud","09","05",44
+"Traffic Stop","03","05",191
+"Veh Accident","08","05",44
+"Traffic Stop","02","05",294
+"Veh Accident","21","05",37
+"Trespasser","00","05",157
+"Audible Alarm","00","05",257
+"Drugs","00","05",27
+"Homeless Complaint","23","05",244
+"Petty Theft","07","05",58
+"Drugs","07","05",34
+"Threats / Harassment","06","05",31
+"Homeless Complaint","20","05",339
+"Well Being Check","04","05",97
+"Trespasser","10","05",190
+"Traf Violation Tow","00","05",44
+"Assault / Battery","06","05",38
+"Suspicious Person","03","05",208
+"Vandalism","03","05",31
+"Petty Theft","02","05",37
+"Assault / Battery","03","05",47
+"Stolen Vehicle","01","05",27
+"Well Being Check","21","04",276
+"Suspicious Person","16","04",753
+"Fight No Weapon","15","04",229
+"Veh Accident","15","04",77
+"Traf Violation Cite","08","04",83
+"Drugs","07","04",40
+"Traffic Stop","07","04",765
+"Mentally Disturbed","16","04",159
+"Audible Alarm","07","04",303
+"Audible Alarm","20","04",260
+"Threats / Harassment","14","04",100
+"Suspicious Person","14","04",699
+"Petty Theft","14","04",164
+"Well Being Check","05","04",107
+"Audible Alarm","05","04",196
+"Traffic Stop","03","04",193
+"Traffic Stop","02","04",301
+"Veh Accident","19","04",54
+"Homeless Complaint","13","04",578
+"Suspicious Person","00","04",412
+"Petty Theft","19","04",162
+"Burglary","19","04",57
+"Threats / Harassment","11","04",67
+"Well Being Check","18","04",290
+"Trespasser","13","04",183
+"Noise Nuisance","05","04",95
+"Traffic Stop","04","04",206
+"Auto Boost / Strip","18","04",165
+"Traffic Stop","10","04",1159
+"Traf Violation Cite","06","04",22
+"Audible Alarm","10","04",279
+"Auto Boost / Strip","23","04",159
+"Traffic Stop","22","04",1370
+"Burglary","16","04",66
+"Well Being Check","09","04",206
+"Petty Theft","22","04",72
+"Noise Nuisance","22","04",403
+"Assault / Battery","22","04",106
+"Traf Violation Tow","22","04",32
+"Vandalism","09","04",50
+"Assault / Battery","08","04",73
+"Suspicious Person","08","04",409
+"Burglary","17","04",72
+"Auto Boost / Strip","15","04",201
+"Traf Violation Cite","21","04",49
+"Fight No Weapon","11","04",183
+"Homeless Complaint","19","04",420
+"Noise Nuisance","21","04",225
+"Traf Violation Tow","10","04",60
+"Fraud","10","04",70
+"Fraud","18","04",68
+"Mentally Disturbed","23","04",72
+"Noise Nuisance","12","04",50
+"Traf Violation Cite","17","04",72
+"Veh Accident","17","04",64
+"Drugs","00","04",22
+"Mentally Disturbed","05","04",39
+"Traf Violation Cite","04","04",20
+"Stolen Vehicle","14","04",86
+"Noise Nuisance","14","04",46
+"Burglary","22","04",45
+"Veh Accident","09","04",65
+"Assault / Battery","06","04",38
+"Veh Accident","10","04",51
+"Suspicious Vehicle","21","03",146
+"Trespasser","15","03",146
+"Audible Alarm","14","03",125
+"Noise Nuisance","21","03",117
+"Trespasser","14","03",144
+"Traffic Stop","20","03",447
+"Auto Boost / Strip","20","03",142
+"Drugs","20","03",40
+"Trespasser","20","03",126
+"Trespasser","17","03",149
+"Noise Nuisance","13","03",37
+"Audible Alarm","19","03",217
+"Audible Alarm","17","03",138
+"Traf Violation Cite","17","03",29
+"Well Being Check","12","03",171
+"Fraud","12","03",51
+"Audible Alarm","16","03",136
+"Noise Nuisance","16","03",57
+"Suspicious Person","23","03",287
+"Trespasser","16","03",149
+"Burglary","23","03",36
+"Drugs","15","03",65
+"Well Being Check","00","03",128
+"Threats / Harassment","00","03",36
+"Audible Alarm","10","03",191
+"Suspicious Vehicle","10","03",120
+"Suspicious Vehicle","01","03",153
+"Auto Boost / Strip","00","03",88
+"Mentally Disturbed","13","03",100
+"Trespasser","09","03",151
+"Petty Theft","09","03",52
+"Suspicious Vehicle","08","03",105
+"Drugs","22","03",36
+"Threats / Harassment","22","03",48
+"Traf Violation Tow","22","03",17
+"Traf Violation Tow","17","03",22
+"Stolen Vehicle","16","03",64
+"Fight No Weapon","13","03",140
+"Fight No Weapon","06","03",75
+"Well Being Check","05","03",76
+"Fight No Weapon","05","03",40
+"Traffic Stop","04","03",160
+"Petty Theft","04","03",12
+"Well Being Check","04","03",77
+"Suspicious Vehicle","03","03",87
+"Audible Alarm","03","03",165
+"Assault / Battery","03","03",40
+"Burglary","10","03",67
+"Traffic Stop","02","03",185
+"Well Being Check","02","03",114
+"Audible Alarm","01","03",142
+"Burglary","12","03",59
+"Vandalism","04","03",14
+"Noise Nuisance","15","03",51
+"Traf Violation Cite","20","03",21
+"Veh Accident","00","03",13
+"Noise Nuisance","06","03",40
+"Traf Violation Cite","16","03",35
+"Threats / Harassment","01","03",31
+"Traf Violation Cite","21","03",14
+"Assault / Battery","06","02",25
+"Homeless Complaint","04","02",121
+"Noise Nuisance","03","02",94
+"Suspicious Person","03","02",115
+"Suspicious Person","20","02",243
+"Auto Boost / Strip","15","02",157
+"Audible Alarm","15","02",147
+"Suspicious Person","19","02",274
+"Fight No Weapon","19","02",146
+"Stolen Vehicle","23","02",33
+"Well Being Check","15","02",180
+"Traffic Stop","14","02",824
+"Petty Theft","10","02",95
+"Suspicious Person","10","02",317
+"Mentally Disturbed","19","02",64
+"Assault / Battery","10","02",49
+"Vandalism","12","02",40
+"Petty Theft","22","02",43
+"Traffic Stop","22","02",758
+"Suspicious Person","18","02",303
+"Well Being Check","10","02",134
+"Well Being Check","11","02",146
+"Vandalism","13","02",33
+"Threats / Harassment","11","02",41
+"Audible Alarm","08","02",214
+"Traf Violation Tow","13","02",19
+"Suspicious Vehicle","08","02",105
+"Noise Nuisance","08","02",22
+"Suspicious Vehicle","17","02",192
+"Drugs","17","02",49
+"Traf Violation Tow","22","02",17
+"Vandalism","08","02",28
+"Homeless Complaint","05","02",248
+"Suspicious Vehicle","12","02",155
+"Petty Theft","04","02",16
+"Well Being Check","07","02",83
+"Traf Violation Tow","16","02",19
+"Traf Violation Cite","03","02",20
+"Mentally Disturbed","16","02",112
+"Suspicious Vehicle","06","02",44
+"Stolen Vehicle","06","02",16
+"Veh Accident","06","02",16
+"Veh Accident","11","02",34
+"Threats / Harassment","01","02",15
+"Stolen Vehicle","16","02",55
+"Assault / Battery","07","02",33
+"Suspicious Vehicle","07","02",65
+"Assault / Battery","05","02",15
+"Noise Nuisance","20","02",84
+"Assault / Battery","04","02",22
+"Burglary","19","02",38
+"Auto Boost / Strip","03","02",40
+"Stolen Vehicle","01","02",18
+"Traf Violation Cite","01","02",41
+"Traf Violation Cite","00","02",47
+"Mentally Disturbed","10","02",96
+"Traf Violation Cite","10","02",51
+"Assault / Battery","08","02",41
+"Veh Accident","19","02",26
+"Vandalism","22","02",36
+"Drugs","00","02",13
+"Burglary","11","01",57
+"Trespasser","10","01",125
+"Auto Boost / Strip","05","01",23
+"Noise Nuisance","05","01",53
+"Audible Alarm","04","01",151
+"Suspicious Vehicle","04","01",70
+"Well Being Check","17","01",197
+"Fraud","16","01",64
+"Threats / Harassment","16","01",61
+"Assault / Battery","15","01",81
+"Traffic Stop","15","01",1067
+"Homeless Complaint","10","01",539
+"Noise Nuisance","10","01",23
+"Auto Boost / Strip","04","01",33
+"Homeless Complaint","16","01",316
+"Burglary","16","01",61
+"Well Being Check","15","01",174
+"Auto Boost / Strip","15","01",171
+"Suspicious Person","03","01",112
+"Mentally Disturbed","14","01",97
+"Homeless Complaint","14","01",329
+"Traffic Stop","08","01",798
+"Noise Nuisance","01","01",193
+"Traffic Stop","13","01",861
+"Well Being Check","13","01",161
+"Veh Accident","15","01",69
+"Audible Alarm","15","01",115
+"Homeless Complaint","07","01",899
+"Traffic Stop","07","01",442
+"Suspicious Person","00","01",247
+"Homeless Complaint","06","01",481
+"Stolen Vehicle","18","01",50
+"Stolen Vehicle","07","01",44
+"Veh Accident","14","01",52
+"Noise Nuisance","12","01",25
+"Vandalism","08","01",33
+"Mentally Disturbed","22","01",50
+"Audible Alarm","21","01",151
+"Trespasser","21","01",135
+"Homeless Complaint","21","01",196
+"Noise Nuisance","21","01",129
+"Fight No Weapon","22","01",120
+"Petty Theft","21","01",52
+"Suspicious Vehicle","20","01",124
+"Assault / Battery","20","01",83
+"Well Being Check","20","01",159
+"Noise Nuisance","06","01",35
+"Vandalism","20","01",50
+"Suspicious Vehicle","06","01",38
+"Assault / Battery","02","01",72
+"Traf Violation Cite","05","01",37
+"Vandalism","00","01",19
+"Threats / Harassment","17","01",49
+"Petty Theft","02","01",16
+"Traf Violation Tow","16","01",21
+"Fight No Weapon","04","01",63
+"Traf Violation Tow","04","01",12
+"Threats / Harassment","13","01",46
+"Traf Violation Tow","19","01",20
+"Traf Violation Cite","03","01",13
+"Traf Violation Tow","10","01",13
+"Fraud","08","01",16
+"Traf Violation Tow","12","01",26
+"Assault / Battery","06","01",27
+"Vandalism","03","01",11
+"Fight No Weapon","21","12",221
+"Well Being Check","14","12",271
+"Petty Theft","08","12",75
+"Traf Violation Cite","21","12",153
+"Well Being Check","19","12",287
+"Trespasser","19","12",212
+"Burglary","18","12",63
+"Suspicious Vehicle","14","12",225
+"Petty Theft","14","12",186
+"Vandalism","14","12",80
+"Trespasser","08","12",271
+"Suspicious Person","08","12",394
+"Traffic Stop","20","12",566
+"Threats / Harassment","20","12",68
+"Drugs","20","12",55
+"Suspicious Person","13","12",678
+"Traf Violation Tow","18","12",100
+"Traf Violation Tow","13","12",94
+"Homeless Complaint","19","12",264
+"Petty Theft","18","12",143
+"Fight No Weapon","13","12",219
+"Threats / Harassment","13","12",65
+"Homeless Complaint","12","12",579
+"Audible Alarm","06","12",272
+"Petty Theft","12","12",182
+"Petty Theft","06","12",26
+"Veh Accident","12","12",89
+"Trespasser","12","12",209
+"Well Being Check","05","12",77
+"Well Being Check","04","12",94
+"Fight No Weapon","22","12",233
+"Trespasser","04","12",112
+"Vandalism","03","12",27
+"Stolen Vehicle","03","12",11
+"Well Being Check","03","12",123
+"Trespasser","03","12",131
+"Veh Accident","22","12",36
+"Auto Boost / Strip","16","12",202
+"Suspicious Vehicle","11","12",184
+"Fight No Weapon","11","12",205
+"Homeless Complaint","22","12",201
+"Fight No Weapon","16","12",246
+"Trespasser","01","12",106
+"Assault / Battery","01","12",91
+"Veh Accident","21","12",35
+"Stolen Vehicle","10","12",102
+"Threats / Harassment","10","12",60
+"Suspicious Person","00","12",325
+"Well Being Check","00","12",192
+"Suspicious Person","15","12",679
+"Vandalism","10","12",54
+"Threats / Harassment","15","12",91
+"Traf Violation Tow","09","12",73
+"Traf Violation Cite","09","12",253
+"Noise Nuisance","15","12",65
+"Fraud","15","12",100
+"Mentally Disturbed","22","12",106
+"Vandalism","16","12",83
+"Homeless Complaint","21","12",224
+"Traffic Stop","07","12",563
+"Homeless Complaint","18","12",298
+"Suspicious Person","05","12",75
+"Veh Accident","17","12",81
+"Suspicious Vehicle","05","12",46
+"Audible Alarm","01","12",228
+"Traf Violation Tow","00","12",47
+"Stolen Vehicle","00","12",26
+"Burglary","23","12",45
+"Assault / Battery","00","12",92
+"Vandalism","11","12",56
+"Stolen Vehicle","06","12",28
+"Burglary","05","12",34
+"Drugs","05","12",14
+"Mentally Disturbed","20","12",115
+"Petty Theft","04","12",16
+"Burglary","16","12",77
+"Stolen Vehicle","23","12",30
+"Fraud","20","12",22
+"Fraud","17","11",71
+"Trespasser","22","11",203
+"Stolen Vehicle","21","11",34
+"Traffic Stop","20","11",639
+"Burglary","20","11",47
+"Assault / Battery","19","11",126
+"Threats / Harassment","19","11",79
+"Suspicious Vehicle","19","11",255
+"Auto Boost / Strip","19","11",209
+"Suspicious Person","23","11",396
+"Well Being Check","23","11",183
+"Petty Theft","14","11",174
+"Well Being Check","09","11",195
+"Audible Alarm","13","11",216
+"Veh Accident","13","11",67
+"Stolen Vehicle","08","11",81
+"Trespasser","08","11",251
+"Veh Accident","08","11",53
+"Well Being Check","16","11",262
+"Homeless Complaint","07","11",987
+"Assault / Battery","21","11",96
+"Suspicious Vehicle","16","11",296
+"Traffic Stop","07","11",617
+"Auto Boost / Strip","21","11",301
+"Auto Boost / Strip","16","11",192
+"Trespasser","12","11",185
+"Fraud","11","11",84
+"Assault / Battery","11","11",112
+"Audible Alarm","05","11",246
+"Audible Alarm","04","11",212
+"Auto Boost / Strip","04","11",33
+"Traffic Stop","04","11",216
+"Suspicious Person","04","11",128
+"Petty Theft","15","11",200
+"Suspicious Person","02","11",196
+"Suspicious Vehicle","02","11",157
+"Mentally Disturbed","01","11",57
+"Petty Theft","01","11",26
+"Auto Boost / Strip","14","11",191
+"Noise Nuisance","10","11",54
+"Fight No Weapon","00","11",201
+"Threats / Harassment","18","11",79
+"Assault / Battery","16","11",132
+"Fight No Weapon","07","11",95
+"Suspicious Person","06","11",170
+"Petty Theft","00","11",45
+"Traf Violation Cite","00","11",83
+"Threats / Harassment","09","11",66
+"Audible Alarm","14","11",195
+"Mentally Disturbed","22","11",93
+"Assault / Battery","08","11",75
+"Stolen Vehicle","07","11",75
+"Fraud","21","11",20
+"Petty Theft","05","11",15
+"Threats / Harassment","06","11",26
+"Petty Theft","02","11",33
+"Homeless Complaint","00","11",111
+"Suspicious Vehicle","05","11",57
+"Traf Violation Tow","02","11",22
+"Homeless Complaint","02","11",49
+"Noise Nuisance","19","10",163
+"Vandalism","21","10",72
+"Well Being Check","21","10",261
+"Drugs","20","10",84
+"Suspicious Person","12","10",828
+"Burglary","11","10",111
+"Traffic Stop","07","10",542
+"Traffic Stop","16","10",1673
+"Suspicious Vehicle","16","10",276
+"Traf Violation Tow","15","10",76
+"Vandalism","07","10",38
+"Suspicious Vehicle","15","10",278
+"Veh Accident","11","10",71
+"Drugs","07","10",44
+"Traffic Stop","10","10",692
+"Mentally Disturbed","06","10",57
+"Suspicious Vehicle","06","10",63
+"Well Being Check","05","10",97
+"Threats / Harassment","14","10",101
+"Drugs","10","10",81
+"Auto Boost / Strip","18","10",189
+"Auto Boost / Strip","03","10",50
+"Traf Violation Cite","03","10",35
+"Fight No Weapon","03","10",107
+"Assault / Battery","02","10",111
+"Assault / Battery","17","10",162
+"Audible Alarm","09","10",336
+"Suspicious Person","09","10",475
+"Homeless Complaint","09","10",822
+"Trespasser","01","10",110
+"Suspicious Person","08","10",430
+"Trespasser","08","10",268
+"Drugs","23","10",41
+"Threats / Harassment","12","10",93
+"Burglary","17","10",63
+"Noise Nuisance","09","10",59
+"Stolen Vehicle","23","10",52
+"Assault / Battery","19","10",128
+"Drugs","06","10",18
+"Traffic Stop","03","10",183
+"Stolen Vehicle","00","10",27
+"Assault / Battery","03","10",47
+"Burglary","15","10",82
+"Burglary","14","10",76
+"Assault / Battery","08","10",65
+"Veh Accident","07","10",30
+"Traf Violation Tow","06","10",32
+"Petty Theft","22","10",76
+"Trespasser","03","10",95
+"Suspicious Vehicle","03","10",121
+"Mentally Disturbed","03","10",36
+"Stolen Vehicle","18","10",72
+"Veh Accident","08","10",42
+"Petty Theft","02","10",43
+"Petty Theft","03","10",23
+"Threats / Harassment","05","10",12
+"Suspicious Person","22","09",443
+"Well Being Check","21","09",268
+"Trespasser","21","09",208
+"Noise Nuisance","16","09",70
+"Threats / Harassment","16","09",84
+"Trespasser","20","09",207
+"Audible Alarm","15","09",224
+"Audible Alarm","20","09",272
+"Burglary","20","09",48
+"Noise Nuisance","20","09",161
+"Fraud","15","09",88
+"Traf Violation Cite","14","09",255
+"Petty Theft","19","09",162
+"Stolen Vehicle","08","09",81
+"Audible Alarm","08","09",308
+"Traffic Stop","08","09",979
+"Assault / Battery","08","09",69
+"Auto Boost / Strip","19","09",187
+"Vandalism","14","09",58
+"Mentally Disturbed","13","09",161
+"Auto Boost / Strip","07","09",70
+"Suspicious Person","07","09",427
+"Suspicious Vehicle","07","09",157
+"Burglary","18","09",55
+"Drugs","13","09",113
+"Traf Violation Cite","13","09",254
+"Well Being Check","06","09",135
+"Audible Alarm","13","09",226
+"Veh Accident","18","09",91
+"Veh Accident","12","09",68
+"Threats / Harassment","05","09",28
+"Auto Boost / Strip","12","09",211
+"Suspicious Person","04","09",142
+"Well Being Check","23","09",225
+"Mentally Disturbed","23","09",64
+"Veh Accident","11","09",62
+"Veh Accident","22","09",36
+"Traffic Stop","02","09",238
+"Fight No Weapon","22","09",217
+"Petty Theft","11","09",139
+"Petty Theft","10","09",118
+"Veh Accident","10","09",61
+"Petty Theft","23","09",60
+"Vandalism","06","09",28
+"Petty Theft","06","09",30
+"Suspicious Person","05","09",157
+"Petty Theft","16","09",164
+"Fraud","11","09",85
+"Burglary","11","09",93
+"Noise Nuisance","10","09",44
+"Audible Alarm","01","09",238
+"Mentally Disturbed","01","09",57
+"Petty Theft","01","09",24
+"Drugs","18","09",127
+"Vandalism","22","09",58
+"Fraud","09","09",47
+"Petty Theft","03","09",26
+"Burglary","15","09",88
+"Threats / Harassment","21","09",66
+"Vandalism","07","09",47
+"Assault / Battery","12","09",109
+"Stolen Vehicle","16","09",87
+"Traf Violation Cite","19","08",238
+"Fight No Weapon","19","08",202
+"Suspicious Person","15","08",694
+"Petty Theft","09","08",107
+"Fight No Weapon","09","08",184
+"Stolen Vehicle","14","08",74
+"Veh Accident","09","08",49
+"Trespasser","08","08",267
+"Traffic Stop","08","08",1150
+"Suspicious Person","18","08",759
+"Suspicious Vehicle","08","08",161
+"Homeless Complaint","18","08",323
+"Homeless Complaint","13","08",473
+"Assault / Battery","18","08",158
+"Fraud","13","08",80
+"Traf Violation Cite","12","08",240
+"Trespasser","12","08",178
+"Well Being Check","12","08",276
+"Suspicious Vehicle","22","08",381
+"Auto Boost / Strip","22","08",243
+"Stolen Vehicle","12","08",101
+"Threats / Harassment","17","08",97
+"Audible Alarm","16","08",224
+"Assault / Battery","16","08",141
+"Drugs","11","08",129
+"Audible Alarm","20","08",282
+"Stolen Vehicle","10","08",117
+"Burglary","22","08",54
+"Veh Accident","07","08",26
+"Homeless Complaint","12","08",559
+"Audible Alarm","07","08",300
+"Suspicious Vehicle","05","08",79
+"Suspicious Vehicle","04","08",100
+"Assault / Battery","03","08",54
+"Auto Boost / Strip","02","08",67
+"Assault / Battery","14","08",130
+"Drugs","01","08",29
+"Noise Nuisance","00","08",428
+"Drugs","22","08",52
+"Veh Accident","22","08",40
+"Drugs","08","08",70
+"Fight No Weapon","05","08",73
+"Auto Boost / Strip","03","08",53
+"Threats / Harassment","23","08",59
+"Stolen Vehicle","13","08",100
+"Assault / Battery","05","08",38
+"Drugs","03","08",11
+"Fraud","08","08",16
+"Noise Nuisance","12","08",59
+"Petty Theft","06","08",24
+"Mentally Disturbed","01","08",41
+"Mentally Disturbed","02","08",51
+"Petty Theft","05","08",23
+"Fraud","22","07",25
+"Vandalism","21","07",102
+"Stolen Vehicle","21","07",55
+"Burglary","20","07",69
+"Stolen Vehicle","20","07",64
+"Fraud","19","07",47
+"Mentally Disturbed","19","07",150
+"Homeless Complaint","19","07",282
+"Burglary","21","07",46
+"Traffic Stop","08","07",812
+"Traf Violation Tow","08","07",73
+"Traf Violation Cite","08","07",250
+"Audible Alarm","18","07",300
+"Veh Accident","18","07",76
+"Traffic Stop","17","07",1566
+"Veh Accident","11","07",60
+"Stolen Vehicle","17","07",101
+"Petty Theft","13","07",160
+"Traf Violation Cite","13","07",214
+"Stolen Vehicle","08","07",97
+"Fight No Weapon","08","07",123
+"Burglary","07","07",76
+"Noise Nuisance","20","07",211
+"Homeless Complaint","16","07",334
+"Veh Accident","16","07",79
+"Stolen Vehicle","10","07",93
+"Traf Violation Tow","10","07",60
+"Suspicious Vehicle","12","07",222
+"Auto Boost / Strip","00","07",159
+"Fight No Weapon","17","07",236
+"Vandalism","15","07",90
+"Petty Theft","10","07",142
+"Petty Theft","12","07",164
+"Stolen Vehicle","16","07",90
+"Vandalism","10","07",77
+"Threats / Harassment","12","07",86
+"Mentally Disturbed","06","07",85
+"Petty Theft","15","07",183
+"Suspicious Vehicle","09","07",157
+"Auto Boost / Strip","11","07",225
+"Audible Alarm","05","07",253
+"Petty Theft","09","07",114
+"Traf Violation Cite","11","07",231
+"Traffic Stop","04","07",173
+"Traf Violation Cite","05","07",58
+"Assault / Battery","04","07",35
+"Petty Theft","11","07",126
+"Burglary","03","07",35
+"Suspicious Vehicle","02","07",122
+"Traf Violation Tow","02","07",25
+"Suspicious Vehicle","04","07",94
+"Mentally Disturbed","14","07",162
+"Noise Nuisance","01","07",346
+"Threats / Harassment","13","07",93
+"Homeless Complaint","18","07",304
+"Veh Accident","17","07",86
+"Traf Violation Tow","12","07",88
+"Threats / Harassment","23","07",53
+"Traf Violation Cite","02","07",47
+"Fraud","21","07",23
+"Homeless Complaint","23","07",172
+"Petty Theft","06","07",21
+"Stolen Vehicle","05","07",15
+"Drugs","10","07",95
+"Mentally Disturbed","04","07",31
+"Stolen Vehicle","22","07",61
+"Petty Theft","00","07",55
+"Vandalism","03","07",37
+"Threats / Harassment","21","07",69
+"Fight No Weapon","23","06",218
+"Audible Alarm","21","06",270
+"Assault / Battery","13","06",122
+"Auto Boost / Strip","13","06",221
+"Assault / Battery","20","06",147
+"Assault / Battery","19","06",175
+"Traf Violation Cite","19","06",236
+"Drugs","12","06",83
+"Petty Theft","19","06",119
+"Well Being Check","17","06",291
+"Petty Theft","11","06",161
+"Well Being Check","11","06",219
+"Assault / Battery","11","06",126
+"Assault / Battery","18","06",153
+"Auto Boost / Strip","10","06",149
+"Trespasser","10","06",201
+"Suspicious Person","10","06",474
+"Traf Violation Tow","16","06",69
+"Traf Violation Cite","10","06",235
+"Fraud","18","06",60
+"Homeless Complaint","17","06",331
+"Suspicious Person","15","06",589
+"Mentally Disturbed","15","06",164
+"Veh Accident","15","06",81
+"Fight No Weapon","15","06",209
+"Suspicious Person","22","06",401
+"Traf Violation Cite","07","06",159
+"Burglary","09","06",118
+"Traf Violation Tow","09","06",66
+"Traffic Stop","01","06",302
+"Traf Violation Cite","00","06",95
+"Homeless Complaint","06","06",713
+"Drugs","16","06",114
+"Drugs","07","06",37
+"Audible Alarm","08","06",340
+"Well Being Check","08","06",171
+"Noise Nuisance","13","06",42
+"Audible Alarm","04","06",216
+"Noise Nuisance","04","06",102
+"Traf Violation Tow","15","06",62
+"Fraud","13","06",86
+"Auto Boost / Strip","02","06",73
+"Traf Violation Tow","02","06",12
+"Noise Nuisance","02","06",293
+"Burglary","19","06",60
+"Stolen Vehicle","17","06",73
+"Homeless Complaint","19","06",283
+"Well Being Check","00","06",205
+"Vandalism","18","06",94
+"Veh Accident","06","06",17
+"Auto Boost / Strip","17","06",200
+"Stolen Vehicle","09","06",96
+"Noise Nuisance","05","06",68
+"Suspicious Vehicle","05","06",45
+"Vandalism","03","06",31
+"Homeless Complaint","03","06",70
+"Homeless Complaint","16","06",296
+"Threats / Harassment","16","06",86
+"Drugs","01","06",30
+"Petty Theft","06","06",37
+"Fight No Weapon","05","06",66
+"Drugs","04","06",17
+"Mentally Disturbed","03","06",33
+"Fraud","21","06",16
+"Vandalism","04","06",20
+"Fight No Weapon","22","05",205
+"Well Being Check","22","05",231
+"Burglary","11","05",114
+"Fight No Weapon","21","05",233
+"Noise Nuisance","19","05",112
+"Traf Violation Cite","19","05",236
+"Traf Violation Tow","18","05",73
+"Fight No Weapon","16","05",247
+"Well Being Check","15","05",289
+"Traffic Stop","15","05",1410
+"Traf Violation Tow","20","05",76
+"Well Being Check","20","05",246
+"Audible Alarm","17","05",263
+"Traf Violation Tow","08","05",77
+"Auto Boost / Strip","20","05",168
+"Fight No Weapon","09","05",193
+"Traf Violation Cite","10","05",213
+"Veh Accident","10","05",60
+"Traf Violation Tow","10","05",83
+"Veh Accident","17","05",81
+"Burglary","14","05",66
+"Suspicious Vehicle","14","05",209
+"Drugs","13","05",120
+"Traffic Stop","13","05",1195
+"Suspicious Vehicle","13","05",227
+"Assault / Battery","23","05",100
+"Well Being Check","23","05",179
+"Mentally Disturbed","12","05",187
+"Audible Alarm","12","05",208
+"Noise Nuisance","09","05",53
+"Homeless Complaint","05","05",396
+"Trespasser","05","05",143
+"Drugs","09","05",80
+"Homeless Complaint","04","05",134
+"Fight No Weapon","03","05",99
+"Noise Nuisance","03","05",173
+"Drugs","14","05",99
+"Homeless Complaint","02","05",104
+"Burglary","02","05",23
+"Veh Accident","14","05",71
+"Traffic Stop","01","05",427
+"Threats / Harassment","01","05",23
+"Homeless Complaint","01","05",143
+"Drugs","08","05",61
+"Traf Violation Tow","21","05",56
+"Fight No Weapon","00","05",204
+"Traffic Stop","06","05",199
+"Traf Violation Tow","17","05",71
+"Well Being Check","12","05",241
+"Burglary","12","05",94
+"Threats / Harassment","10","05",78
+"Traf Violation Cite","03","05",46
+"Fraud","07","05",11
+"Assault / Battery","02","05",100
+"Petty Theft","06","05",36
+"Mentally Disturbed","05","05",33
+"Suspicious Vehicle","05","05",45
+"Veh Accident","03","05",12
+"Drugs","03","05",13
+"Drugs","06","05",14
+"Veh Accident","23","05",30
+"Petty Theft","21","04",99
+"Traffic Stop","17","04",1930
+"Fight No Weapon","17","04",241
+"Vandalism","17","04",78
+"Well Being Check","15","04",294
+"Threats / Harassment","15","04",98
+"Petty Theft","15","04",186
+"Homeless Complaint","07","04",1252
+"Drugs","20","04",40
+"Petty Theft","20","04",118
+"Fight No Weapon","20","04",222
+"Well Being Check","16","04",258
+"Suspicious Vehicle","14","04",260
+"Suspicious Person","12","04",740
+"Traffic Stop","12","04",1128
+"Suspicious Person","07","04",375
+"Burglary","06","04",45
+"Suspicious Person","05","04",122
+"Traf Violation Cite","19","04",76
+"Trespasser","19","04",217
+"Suspicious Vehicle","19","04",280
+"Well Being Check","11","04",242
+"Traf Violation Cite","03","04",28
+"Auto Boost / Strip","19","04",172
+"Audible Alarm","13","04",232
+"Mentally Disturbed","11","04",146
+"Trespasser","01","04",133
+"Audible Alarm","01","04",194
+"Suspicious Person","01","04",328
+"Noise Nuisance","01","04",326
+"Suspicious Vehicle","00","04",279
+"Audible Alarm","18","04",273
+"Trespasser","04","04",104
+"Suspicious Person","04","04",172
+"Fight No Weapon","13","04",202
+"Assault / Battery","12","04",128
+"Suspicious Vehicle","10","04",172
+"Burglary","09","04",98
+"Trespasser","22","04",193
+"Fight No Weapon","22","04",210
+"Homeless Complaint","08","04",1095
+"Auto Boost / Strip","22","04",209
+"Traf Violation Tow","21","04",34
+"Traf Violation Tow","08","04",48
+"Homeless Complaint","03","04",123
+"Traf Violation Tow","15","04",62
+"Assault / Battery","21","04",124
+"Noise Nuisance","13","04",40
+"Noise Nuisance","00","04",451
+"Veh Accident","23","04",34
+"Drugs","22","04",52
+"Stolen Vehicle","08","04",80
+"Trespasser","00","04",123
+"Mentally Disturbed","13","04",133
+"Noise Nuisance","16","04",69
+"Traf Violation Tow","05","04",23
+"Vandalism","05","04",19
+"Mentally Disturbed","00","04",56
+"Noise Nuisance","15","04",67
+"Stolen Vehicle","05","04",15
+"Traf Violation Cite","02","04",28
+"Veh Accident","13","04",54
+"Auto Boost / Strip","15","03",152
+"Homeless Complaint","14","03",356
+"Noise Nuisance","20","03",99
+"Fight No Weapon","18","03",137
+"Well Being Check","14","03",166
+"Suspicious Person","17","03",484
+"Well Being Check","13","03",164
+"Assault / Battery","17","03",96
+"Well Being Check","17","03",174
+"Veh Accident","12","03",46
+"Traf Violation Cite","19","03",26
+"Assault / Battery","19","03",99
+"Well Being Check","19","03",174
+"Drugs","12","03",57
+"Suspicious Person","19","03",318
+"Suspicious Vehicle","16","03",217
+"Suspicious Vehicle","18","03",205
+"Trespasser","18","03",151
+"Homeless Complaint","16","03",340
+"Well Being Check","16","03",211
+"Suspicious Vehicle","23","03",200
+"Traffic Stop","23","03",724
+"Audible Alarm","22","03",180
+"Drugs","14","03",74
+"Burglary","09","03",87
+"Homeless Complaint","10","03",508
+"Trespasser","01","03",94
+"Petty Theft","11","03",95
+"Trespasser","13","03",108
+"Vandalism","00","03",38
+"Fraud","18","03",38
+"Drugs","18","03",63
+"Vandalism","18","03",49
+"Traffic Stop","08","03",834
+"Vandalism","19","03",66
+"Traf Violation Tow","11","03",29
+"Drugs","11","03",62
+"Burglary","17","03",59
+"Vandalism","22","03",40
+"Homeless Complaint","07","03",870
+"Traffic Stop","07","03",494
+"Mentally Disturbed","07","03",70
+"Suspicious Person","07","03",205
+"Auto Boost / Strip","07","03",56
+"Fight No Weapon","07","03",73
+"Homeless Complaint","06","03",531
+"Noise Nuisance","05","03",52
+"Traf Violation Cite","14","03",42
+"Noise Nuisance","04","03",70
+"Assault / Battery","11","03",72
+"Assault / Battery","04","03",23
+"Burglary","04","03",15
+"Mentally Disturbed","02","03",23
+"Auto Boost / Strip","02","03",32
+"Traf Violation Tow","01","03",22
+"Vandalism","12","03",42
+"Vandalism","10","03",45
+"Homeless Complaint","01","03",72
+"Veh Accident","11","03",51
+"Traf Violation Tow","14","03",12
+"Stolen Vehicle","03","03",11
+"Traf Violation Tow","09","03",23
+"Veh Accident","22","03",20
+"Fraud","20","03",21
+"Threats / Harassment","04","03",11
+"Vandalism","01","03",26
+"Traf Violation Cite","22","03",18
+"Assault / Battery","23","02",50
+"Suspicious Vehicle","23","02",202
+"Traf Violation Cite","23","02",19
+"Audible Alarm","06","02",214
+"Homeless Complaint","00","02",126
+"Petty Theft","02","02",24
+"Suspicious Vehicle","20","02",122
+"Traffic Stop","20","02",397
+"Mentally Disturbed","20","02",88
+"Petty Theft","15","02",103
+"Fight No Weapon","15","02",126
+"Suspicious Person","06","02",91
+"Noise Nuisance","02","02",165
+"Homeless Complaint","02","02",72
+"Vandalism","10","02",40
+"Homeless Complaint","10","02",446
+"Burglary","10","02",71
+"Fight No Weapon","01","02",118
+"Assault / Battery","01","02",67
+"Trespasser","01","02",67
+"Burglary","01","02",25
+"Veh Accident","14","02",55
+"Fraud","15","02",69
+"Trespasser","10","02",97
+"Noise Nuisance","22","02",227
+"Assault / Battery","18","02",76
+"Threats / Harassment","22","02",38
+"Petty Theft","18","02",98
+"Burglary","14","02",48
+"Fight No Weapon","13","02",139
+"Suspicious Person","13","02",435
+"Drugs","11","02",52
+"Suspicious Person","21","02",233
+"Traf Violation Tow","11","02",25
+"Well Being Check","21","02",157
+"Well Being Check","17","02",209
+"Homeless Complaint","17","02",272
+"Noise Nuisance","14","02",42
+"Traffic Stop","08","02",717
+"Burglary","08","02",58
+"Audible Alarm","17","02",146
+"Petty Theft","17","02",109
+"Noise Nuisance","13","02",33
+"Stolen Vehicle","17","02",49
+"Suspicious Person","05","02",50
+"Stolen Vehicle","07","02",35
+"Mentally Disturbed","08","02",71
+"Audible Alarm","04","02",170
+"Threats / Harassment","03","02",15
+"Audible Alarm","16","02",116
+"Fraud","16","02",59
+"Trespasser","16","02",110
+"Trespasser","12","02",100
+"Fight No Weapon","02","02",110
+"Veh Accident","21","02",28
+"Burglary","07","02",46
+"Assault / Battery","20","02",70
+"Burglary","15","02",38
+"Auto Boost / Strip","06","02",24
+"Vandalism","17","02",45
+"Assault / Battery","03","02",27
+"Vandalism","00","02",32
+"Mentally Disturbed","02","02",30
+"Stolen Vehicle","21","02",33
+"Vandalism","11","02",50
+"Traf Violation Tow","08","02",21
+"Noise Nuisance","07","02",22
+"Suspicious Person","10","01",341
+"Homeless Complaint","05","01",230
+"Traffic Stop","04","01",126
+"Audible Alarm","19","01",199
+"Traffic Stop","17","01",1461
+"Noise Nuisance","17","01",62
+"Fight No Weapon","09","01",82
+"Suspicious Person","20","01",230
+"Petty Theft","20","01",80
+"Auto Boost / Strip","18","01",123
+"Petty Theft","18","01",106
+"Trespasser","16","01",157
+"Mentally Disturbed","19","01",90
+"Fraud","10","01",45
+"Traffic Stop","14","01",964
+"Veh Accident","16","01",44
+"Homeless Complaint","13","01",421
+"Trespasser","13","01",125
+"Petty Theft","13","01",113
+"Well Being Check","01","01",89
+"Burglary","01","01",20
+"Auto Boost / Strip","00","01",71
+"Homeless Complaint","00","01",116
+"Burglary","13","01",53
+"Noise Nuisance","18","01",56
+"Vandalism","09","01",38
+"Vandalism","23","01",33
+"Veh Accident","13","01",49
+"Fraud","13","01",46
+"Burglary","07","01",45
+"Fight No Weapon","18","01",150
+"Petty Theft","23","01",30
+"Burglary","17","01",55
+"Trespasser","11","01",130
+"Threats / Harassment","21","01",33
+"Stolen Vehicle","21","01",26
+"Assault / Battery","18","01",75
+"Assault / Battery","22","01",64
+"Traffic Stop","21","01",489
+"Assault / Battery","21","01",86
+"Drugs","12","01",59
+"Homeless Complaint","20","01",190
+"Fight No Weapon","10","01",111
+"Stolen Vehicle","11","01",70
+"Trespasser","06","01",134
+"Traf Violation Cite","16","01",18
+"Threats / Harassment","11","01",37
+"Vandalism","05","01",12
+"Auto Boost / Strip","07","01",33
+"Drugs","18","01",30
+"Assault / Battery","01","01",60
+"Veh Accident","21","01",25
+"Vandalism","04","01",15
+"Traf Violation Cite","04","01",19
+"Assault / Battery","03","01",23
+"Traf Violation Cite","01","01",32
+"Traf Violation Cite","18","01",34
+"Traf Violation Cite","14","12",238
+"Drugs","08","12",57
+"Traf Violation Cite","08","12",304
+"Auto Boost / Strip","08","12",82
+"Traffic Stop","18","12",1174
+"Homeless Complaint","14","12",425
+"Noise Nuisance","20","12",137
+"Assault / Battery","20","12",118
+"Traf Violation Cite","18","12",235
+"Assault / Battery","13","12",119
+"Audible Alarm","07","12",325
+"Petty Theft","07","12",56
+"Trespasser","07","12",298
+"Petty Theft","13","12",165
+"Trespasser","13","12",204
+"Burglary","19","12",58
+"Veh Accident","19","12",52
+"Noise Nuisance","17","12",98
+"Noise Nuisance","06","12",54
+"Trespasser","06","12",243
+"Traf Violation Cite","17","12",270
+"Traf Violation Tow","17","12",84
+"Assault / Battery","06","12",31
+"Traffic Stop","23","12",909
+"Traf Violation Cite","23","12",88
+"Fight No Weapon","23","12",247
+"Traffic Stop","04","12",171
+"Suspicious Vehicle","22","12",309
+"Assault / Battery","11","12",100
+"Trespasser","11","12",245
+"Traf Violation Tow","16","12",69
+"Suspicious Person","11","12",533
+"Mentally Disturbed","11","12",117
+"Petty Theft","11","12",174
+"Well Being Check","16","12",279
+"Suspicious Vehicle","16","12",261
+"Fraud","11","12",84
+"Trespasser","00","12",176
+"Homeless Complaint","10","12",703
+"Suspicious Person","10","12",466
+"Fight No Weapon","00","12",181
+"Suspicious Vehicle","00","12",281
+"Trespasser","15","12",234
+"Trespasser","09","12",247
+"Vandalism","09","12",57
+"Assault / Battery","16","12",137
+"Drugs","22","12",43
+"Assault / Battery","08","12",84
+"Threats / Harassment","07","12",27
+"Homeless Complaint","04","12",92
+"Suspicious Vehicle","04","12",94
+"Traf Violation Cite","03","12",37
+"Assault / Battery","10","12",89
+"Traf Violation Tow","15","12",67
+"Stolen Vehicle","17","12",86
+"Homeless Complaint","23","12",167
+"Mentally Disturbed","04","12",33
+"Burglary","04","12",29
+"Traffic Stop","03","12",185
+"Veh Accident","20","12",47
+"Fraud","09","12",42
+"Veh Accident","08","12",31
+"Petty Theft","02","12",30
+"Noise Nuisance","17","11",77
+"Traf Violation Cite","17","11",224
+"Fight No Weapon","17","11",228
+"Drugs","17","11",89
+"Suspicious Person","17","11",601
+"Traf Violation Cite","22","11",107
+"Well Being Check","17","11",301
+"Traf Violation Cite","21","11",154
+"Vandalism","21","11",71
+"Traf Violation Tow","21","11",65
+"Trespasser","20","11",209
+"Vandalism","20","11",78
+"Drugs","19","11",74
+"Suspicious Person","18","11",519
+"Traffic Stop","23","11",960
+"Noise Nuisance","23","11",437
+"Veh Accident","18","11",68
+"Veh Accident","23","11",18
+"Petty Theft","09","11",123
+"Traf Violation Cite","14","11",223
+"Suspicious Vehicle","14","11",250
+"Trespasser","14","11",201
+"Assault / Battery","14","11",136
+"Homeless Complaint","13","11",494
+"Fight No Weapon","13","11",195
+"Fraud","13","11",84
+"Traffic Stop","08","11",798
+"Suspicious Person","08","11",413
+"Traffic Stop","16","11",1808
+"Stolen Vehicle","13","11",79
+"Suspicious Person","12","11",771
+"Audible Alarm","12","11",227
+"Burglary","12","11",89
+"Veh Accident","12","11",70
+"Traf Violation Cite","12","11",238
+"Petty Theft","12","11",178
+"Fight No Weapon","06","11",74
+"Traf Violation Cite","06","11",99
+"Burglary","16","11",72
+"Trespasser","11","11",197
+"Traffic Stop","11","11",904
+"Well Being Check","06","11",114
+"Suspicious Vehicle","06","11",77
+"Trespasser","05","11",123
+"Homeless Complaint","15","11",371
+"Veh Accident","11","11",61
+"Fight No Weapon","03","11",83
+"Homeless Complaint","10","11",699
+"Threats / Harassment","02","11",17
+"Trespasser","10","11",203
+"Trespasser","02","11",116
+"Trespasser","01","11",133
+"Noise Nuisance","00","11",404
+"Well Being Check","00","11",161
+"Threats / Harassment","23","11",43
+"Burglary","06","11",48
+"Suspicious Vehicle","03","11",134
+"Burglary","14","11",80
+"Mentally Disturbed","13","11",162
+"Veh Accident","06","11",13
+"Threats / Harassment","07","11",37
+"Drugs","06","11",18
+"Mentally Disturbed","02","11",40
+"Burglary","01","11",30
+"Traf Violation Tow","00","11",35
+"Threats / Harassment","03","11",11
+"Stolen Vehicle","02","11",16
+"Audible Alarm","19","10",318
+"Traffic Stop","19","10",1020
+"Stolen Vehicle","22","10",60
+"Vandalism","22","10",85
+"Suspicious Person","21","10",384
+"Traf Violation Tow","21","10",69
+"Suspicious Vehicle","21","10",287
+"Auto Boost / Strip","20","10",224
+"Suspicious Person","20","10",449
+"Noise Nuisance","20","10",171
+"Trespasser","20","10",195
+"Traf Violation Cite","12","10",295
+"Homeless Complaint","07","10",1092
+"Suspicious Vehicle","07","10",155
+"Suspicious Person","07","10",389
+"Threats / Harassment","07","10",31
+"Audible Alarm","15","10",238
+"Well Being Check","11","10",232
+"Mentally Disturbed","11","10",189
+"Threats / Harassment","15","10",93
+"Petty Theft","21","10",108
+"Traf Violation Cite","06","10",82
+"Suspicious Person","06","10",172
+"Veh Accident","10","10",82
+"Trespasser","18","10",201
+"Traf Violation Cite","18","10",354
+"Veh Accident","18","10",86
+"Burglary","10","10",123
+"Trespasser","05","10",146
+"Homeless Complaint","04","10",116
+"Threats / Harassment","04","10",12
+"Fraud","10","10",66
+"Audible Alarm","17","10",237
+"Auto Boost / Strip","17","10",195
+"Vandalism","02","10",36
+"Veh Accident","17","10",93
+"Mentally Disturbed","13","10",200
+"Suspicious Person","01","10",255
+"Mentally Disturbed","01","10",57
+"Assault / Battery","01","10",116
+"Suspicious Vehicle","13","10",233
+"Audible Alarm","01","10",210
+"Mentally Disturbed","00","10",74
+"Fight No Weapon","08","10",134
+"Drugs","16","10",121
+"Veh Accident","16","10",103
+"Burglary","08","10",99
+"Assault / Battery","00","10",94
+"Threats / Harassment","13","10",78
+"Burglary","20","10",43
+"Veh Accident","12","10",75
+"Fight No Weapon","06","10",88
+"Traf Violation Cite","05","10",70
+"Stolen Vehicle","11","10",131
+"Traf Violation Tow","03","10",22
+"Burglary","09","10",128
+"Traf Violation Tow","02","10",23
+"Traf Violation Tow","01","10",29
+"Veh Accident","09","10",73
+"Fraud","16","10",75
+"Auto Boost / Strip","04","10",45
+"Drugs","03","10",15
+"Stolen Vehicle","03","10",18
+"Threats / Harassment","00","10",39
+"Well Being Check","01","09",146
+"Suspicious Vehicle","00","09",301
+"Trespasser","22","09",208
+"Burglary","16","09",73
+"Drugs","16","09",131
+"Homeless Complaint","11","09",625
+"Traf Violation Cite","16","09",201
+"Stolen Vehicle","10","09",95
+"Fight No Weapon","21","09",229
+"Assault / Battery","20","09",122
+"Traf Violation Cite","09","09",302
+"Well Being Check","20","09",284
+"Traffic Stop","15","09",1184
+"Petty Theft","09","09",115
+"Well Being Check","14","09",243
+"Threats / Harassment","19","09",82
+"Fight No Weapon","19","09",234
+"Audible Alarm","14","09",215
+"Suspicious Vehicle","14","09",267
+"Traffic Stop","18","09",1324
+"Traf Violation Cite","18","09",264
+"Homeless Complaint","13","09",520
+"Auto Boost / Strip","13","09",216
+"Fight No Weapon","06","09",93
+"Vandalism","18","09",70
+"Mentally Disturbed","06","09",64
+"Homeless Complaint","05","09",350
+"Suspicious Vehicle","12","09",222
+"Stolen Vehicle","05","09",14
+"Assault / Battery","23","09",105
+"Petty Theft","04","09",18
+"Traf Violation Cite","03","09",50
+"Suspicious Vehicle","03","09",114
+"Well Being Check","03","09",127
+"Fight No Weapon","02","09",222
+"Audible Alarm","22","09",241
+"Audible Alarm","17","09",267
+"Stolen Vehicle","01","09",15
+"Auto Boost / Strip","00","09",141
+"Drugs","14","09",98
+"Threats / Harassment","14","09",85
+"Homeless Complaint","14","09",432
+"Burglary","22","09",55
+"Petty Theft","08","09",85
+"Well Being Check","12","09",257
+"Audible Alarm","06","09",244
+"Traf Violation Tow","06","09",41
+"Trespasser","04","09",99
+"Stolen Vehicle","12","09",89
+"Assault / Battery","04","09",29
+"Traffic Stop","11","09",899
+"Suspicious Vehicle","02","09",146
+"Well Being Check","19","09",244
+"Mentally Disturbed","02","09",30
+"Traf Violation Tow","02","09",12
+"Homeless Complaint","19","09",318
+"Fraud","10","09",68
+"Noise Nuisance","14","09",63
+"Vandalism","17","09",67
+"Fight No Weapon","07","09",114
+"Drugs","20","09",88
+"Burglary","07","09",69
+"Fraud","20","09",27
+"Traf Violation Tow","04","09",18
+"Mentally Disturbed","04","09",41
+"Mentally Disturbed","03","09",27
+"Veh Accident","06","09",12
+"Fraud","19","09",37
+"Stolen Vehicle","09","08",125
+"Assault / Battery","09","08",102
+"Traffic Stop","14","08",1052
+"Drugs","09","08",100
+"Drugs","14","08",126
+"Fight No Weapon","14","08",221
+"Trespasser","14","08",192
+"Vandalism","08","08",62
+"Petty Theft","18","08",186
+"Suspicious Vehicle","18","08",301
+"Noise Nuisance","18","08",96
+"Threats / Harassment","14","08",87
+"Traf Violation Tow","23","08",42
+"Noise Nuisance","23","08",522
+"Auto Boost / Strip","13","08",202
+"Trespasser","23","08",173
+"Auto Boost / Strip","17","08",203
+"Traf Violation Tow","17","08",87
+"Well Being Check","22","08",242
+"Audible Alarm","12","08",220
+"Auto Boost / Strip","12","08",220
+"Assault / Battery","12","08",127
+"Assault / Battery","22","08",133
+"Homeless Complaint","22","08",180
+"Traffic Stop","12","08",1051
+"Drugs","16","08",131
+"Suspicious Vehicle","11","08",189
+"Audible Alarm","11","08",220
+"Well Being Check","16","08",297
+"Assault / Battery","11","08",106
+"Veh Accident","21","08",37
+"Noise Nuisance","20","08",188
+"Assault / Battery","10","08",102
+"Burglary","10","08",105
+"Petty Theft","20","08",144
+"Fight No Weapon","15","08",222
+"Fight No Weapon","10","08",166
+"Veh Accident","10","08",51
+"Stolen Vehicle","23","08",41
+"Stolen Vehicle","07","08",61
+"Trespasser","07","08",249
+"Petty Theft","16","08",193
+"Traf Violation Cite","05","08",89
+"Homeless Complaint","05","08",334
+"Trespasser","03","08",112
+"Mentally Disturbed","15","08",186
+"Audible Alarm","02","08",232
+"Veh Accident","01","08",12
+"Noise Nuisance","01","08",369
+"Fraud","19","08",47
+"Fight No Weapon","01","08",191
+"Veh Accident","00","08",20
+"Trespasser","00","08",178
+"Burglary","06","08",45
+"Trespasser","02","08",156
+"Vandalism","01","08",42
+"Vandalism","15","08",87
+"Fraud","12","08",98
+"Homeless Complaint","19","08",317
+"Mentally Disturbed","03","08",38
+"Threats / Harassment","03","08",33
+"Noise Nuisance","15","08",58
+"Homeless Complaint","01","08",78
+"Stolen Vehicle","02","08",19
+"Fraud","21","08",34
+"Audible Alarm","22","07",272
+"Suspicious Person","22","07",432
+"Audible Alarm","21","07",316
+"Traf Violation Cite","21","07",139
+"Suspicious Person","20","07",403
+"Fight No Weapon","20","07",241
+"Traffic Stop","20","07",578
+"Trespasser","20","07",200
+"Assault / Battery","20","07",160
+"Fight No Weapon","19","07",228
+"Audible Alarm","19","07",318
+"Suspicious Vehicle","19","07",280
+"Burglary","19","07",69
+"Trespasser","19","07",180
+"Drugs","20","07",85
+"Audible Alarm","23","07",290
+"Auto Boost / Strip","23","07",221
+"Homeless Complaint","08","07",845
+"Well Being Check","21","07",246
+"Traffic Stop","18","07",1171
+"Auto Boost / Strip","18","07",221
+"Assault / Battery","18","07",163
+"Suspicious Person","17","07",698
+"Traf Violation Cite","17","07",222
+"Traffic Stop","16","07",1440
+"Fraud","10","07",59
+"Vandalism","17","07",86
+"Drugs","17","07",132
+"Trespasser","13","07",165
+"Vandalism","08","07",52
+"Suspicious Person","18","07",647
+"Traf Violation Tow","18","07",65
+"Noise Nuisance","16","07",66
+"Trespasser","10","07",207
+"Well Being Check","12","07",233
+"Auto Boost / Strip","07","07",71
+"Vandalism","07","07",48
+"Well Being Check","07","07",134
+"Traffic Stop","00","07",671
+"Threats / Harassment","10","07",62
+"Suspicious Vehicle","10","07",195
+"Vandalism","12","07",66
+"Assault / Battery","15","07",127
+"Well Being Check","15","07",268
+"Suspicious Person","06","07",167
+"Stolen Vehicle","06","07",31
+"Assault / Battery","07","07",60
+"Homeless Complaint","15","07",303
+"Audible Alarm","16","07",247
+"Homeless Complaint","11","07",493
+"Homeless Complaint","05","07",308
+"Trespasser","14","07",183
+"Fraud","14","07",97
+"Audible Alarm","09","07",281
+"Trespasser","04","07",103
+"Trespasser","03","07",103
+"Fraud","15","07",110
+"Traf Violation Cite","04","07",35
+"Fraud","08","07",24
+"Auto Boost / Strip","01","07",103
+"Suspicious Vehicle","13","07",231
+"Stolen Vehicle","14","07",80
+"Assault / Battery","19","07",138
+"Fraud","18","07",63
+"Stolen Vehicle","09","07",93
+"Stolen Vehicle","18","07",75
+"Audible Alarm","11","07",274
+"Assault / Battery","22","07",116
+"Traf Violation Tow","01","07",30
+"Traf Violation Tow","06","07",31
+"Drugs","05","07",14
+"Petty Theft","05","07",28
+"Well Being Check","03","07",118
+"Auto Boost / Strip","09","07",134
+"Auto Boost / Strip","04","07",45
+"Threats / Harassment","17","07",75
+"Petty Theft","01","07",32
+"Mentally Disturbed","05","07",34
+"Trespasser","23","06",173
+"Traf Violation Tow","13","06",88
+"Traffic Stop","13","06",1022
+"Traffic Stop","23","06",992
+"Assault / Battery","23","06",113
+"Homeless Complaint","23","06",168
+"Audible Alarm","17","06",243
+"Traf Violation Cite","17","06",211
+"Burglary","17","06",60
+"Trespasser","12","06",187
+"Trespasser","19","06",169
+"Stolen Vehicle","12","06",79
+"Suspicious Vehicle","11","06",157
+"Audible Alarm","10","06",254
+"Assault / Battery","10","06",99
+"Suspicious Vehicle","10","06",133
+"Drugs","11","06",88
+"Stolen Vehicle","11","06",96
+"Vandalism","16","06",65
+"Vandalism","12","06",80
+"Assault / Battery","22","06",127
+"Burglary","22","06",42
+"Traf Violation Tow","22","06",60
+"Traffic Stop","22","06",1157
+"Drugs","14","06",83
+"Vandalism","14","06",62
+"Fraud","14","06",102
+"Auto Boost / Strip","14","06",200
+"Assault / Battery","14","06",124
+"Audible Alarm","14","06",248
+"Traf Violation Tow","21","06",35
+"Suspicious Vehicle","09","06",149
+"Petty Theft","09","06",116
+"Audible Alarm","06","06",254
+"Burglary","08","06",98
+"Threats / Harassment","00","06",40
+"Fraud","15","06",95
+"Vandalism","07","06",43
+"Trespasser","07","06",233
+"Audible Alarm","03","06",202
+"Stolen Vehicle","06","06",44
+"Petty Theft","02","06",31
+"Mentally Disturbed","02","06",47
+"Assault / Battery","01","06",100
+"Mentally Disturbed","05","06",46
+"Noise Nuisance","07","06",55
+"Threats / Harassment","07","06",50
+"Fight No Weapon","00","06",220
+"Suspicious Vehicle","07","06",101
+"Drugs","05","06",17
+"Assault / Battery","05","06",38
+"Threats / Harassment","05","06",20
+"Traf Violation Cite","04","06",27
+"Veh Accident","08","06",31
+"Traf Violation Tow","01","06",28
+"Stolen Vehicle","01","06",30
+"Assault / Battery","07","06",61
+"Burglary","02","06",30
+"Traf Violation Tow","03","06",11
+"Threats / Harassment","04","06",14
+"Petty Theft","03","06",23
+"Noise Nuisance","08","06",27
+"Fight No Weapon","12","05",202
+"Trespasser","11","05",168
+"Assault / Battery","22","05",120
+"Suspicious Person","22","05",442
+"Drugs","22","05",44
+"Audible Alarm","11","05",244
+"Traf Violation Cite","22","05",90
+"Traffic Stop","19","05",966
+"Stolen Vehicle","21","05",53
+"Traf Violation Cite","21","05",132
+"Auto Boost / Strip","21","05",246
+"Suspicious Person","21","05",341
+"Assault / Battery","18","05",147
+"Traf Violation Tow","16","05",73
+"Burglary","16","05",77
+"Assault / Battery","09","05",87
+"Vandalism","09","05",69
+"Assault / Battery","17","05",152
+"Petty Theft","15","05",195
+"Vandalism","15","05",78
+"Threats / Harassment","08","05",59
+"Homeless Complaint","08","05",933
+"Fight No Weapon","17","05",258
+"Threats / Harassment","20","05",80
+"Trespasser","20","05",195
+"Drugs","10","05",91
+"Audible Alarm","10","05",236
+"Trespasser","14","05",173
+"Vandalism","14","05",61
+"Petty Theft","19","05",160
+"Drugs","19","05",117
+"Petty Theft","10","05",134
+"Stolen Vehicle","10","05",98
+"Homeless Complaint","14","05",547
+"Well Being Check","13","05",241
+"Traf Violation Cite","12","05",219
+"Noise Nuisance","23","05",469
+"Petty Theft","09","05",105
+"Trespasser","04","05",103
+"Burglary","19","05",76
+"Stolen Vehicle","15","05",94
+"Vandalism","22","05",67
+"Suspicious Vehicle","18","05",315
+"Trespasser","02","05",130
+"Homeless Complaint","22","05",250
+"Suspicious Vehicle","08","05",131
+"Auto Boost / Strip","02","05",71
+"Well Being Check","02","05",152
+"Drugs","02","05",17
+"Suspicious Person","01","05",298
+"Petty Theft","21","05",88
+"Auto Boost / Strip","01","05",99
+"Suspicious Vehicle","00","05",288
+"Veh Accident","13","05",71
+"Noise Nuisance","08","05",31
+"Suspicious Vehicle","07","05",127
+"Traf Violation Tow","06","05",38
+"Audible Alarm","06","05",227
+"Homeless Complaint","06","05",874
+"Mentally Disturbed","00","05",72
+"Veh Accident","07","05",22
+"Auto Boost / Strip","15","05",242
+"Mentally Disturbed","23","05",72
+"Mentally Disturbed","07","05",114
+"Fraud","11","05",87
+"Traf Violation Tow","05","05",29
+"Trespasser","01","05",134
+"Auto Boost / Strip","10","05",147
+"Vandalism","13","05",53
+"Fight No Weapon","02","05",197
+"Mentally Disturbed","03","05",40
+"Burglary","03","05",26
+"Traffic Stop","16","04",1995
+"Suspicious Vehicle","08","04",138
+"Mentally Disturbed","20","04",111
+"Traffic Stop","20","04",669
+"Stolen Vehicle","20","04",56
+"Well Being Check","14","04",254
+"Veh Accident","14","04",82
+"Homeless Complaint","12","04",640
+"Suspicious Vehicle","12","04",188
+"Fraud","12","04",89
+"Traf Violation Cite","07","04",72
+"Auto Boost / Strip","06","04",44
+"Fight No Weapon","19","04",253
+"Traffic Stop","11","04",1014
+"Suspicious Person","11","04",616
+"Audible Alarm","04","04",195
+"Assault / Battery","19","04",133
+"Assault / Battery","13","04",126
+"Assault / Battery","11","04",119
+"Traf Violation Cite","18","04",84
+"Well Being Check","13","04",260
+"Trespasser","05","04",108
+"Noise Nuisance","04","04",119
+"Stolen Vehicle","18","04",82
+"Suspicious Person","10","04",503
+"Well Being Check","06","04",111
+"Burglary","18","04",80
+"Auto Boost / Strip","12","04",182
+"Trespasser","23","04",168
+"Vandalism","23","04",47
+"Audible Alarm","23","04",227
+"Vandalism","18","04",94
+"Fight No Weapon","16","04",210
+"Traffic Stop","09","04",1337
+"Petty Theft","23","04",63
+"Noise Nuisance","09","04",38
+"Fight No Weapon","08","04",153
+"Homeless Complaint","21","04",333
+"Vandalism","21","04",74
+"Auto Boost / Strip","17","04",186
+"Trespasser","15","04",198
+"Trespasser","10","04",186
+"Assault / Battery","10","04",106
+"Auto Boost / Strip","02","04",63
+"Traf Violation Tow","13","04",65
+"Petty Theft","10","04",139
+"Assault / Battery","09","04",99
+"Burglary","15","04",67
+"Auto Boost / Strip","13","04",174
+"Petty Theft","08","04",83
+"Auto Boost / Strip","00","04",93
+"Assault / Battery","00","04",80
+"Threats / Harassment","06","04",21
+"Traf Violation Cite","00","04",89
+"Auto Boost / Strip","03","04",51
+"Drugs","18","04",97
+"Noise Nuisance","11","04",45
+"Drugs","21","04",56
+"Veh Accident","01","04",20
+"Mentally Disturbed","04","04",33
+"Mentally Disturbed","21","03",73
+"Well Being Check","21","03",169
+"Trespasser","21","03",131
+"Suspicious Vehicle","20","03",171
+"Threats / Harassment","17","03",86
+"Audible Alarm","13","03",137
+"Burglary","13","03",41
+"Assault / Battery","12","03",80
+"Noise Nuisance","19","03",65
+"Vandalism","17","03",53
+"Threats / Harassment","13","03",67
+"Homeless Complaint","15","03",300
+"Fraud","22","03",13
+"Vandalism","15","03",56
+"Assault / Battery","15","03",95
+"Fight No Weapon","22","03",169
+"Threats / Harassment","14","03",60
+"Fight No Weapon","09","03",103
+"Audible Alarm","09","03",186
+"Burglary","00","03",25
+"Suspicious Person","10","03",361
+"Mentally Disturbed","10","03",113
+"Fraud","13","03",63
+"Noise Nuisance","09","03",17
+"Threats / Harassment","23","03",31
+"Traf Violation Tow","20","03",26
+"Well Being Check","08","03",124
+"Stolen Vehicle","17","03",50
+"Stolen Vehicle","08","03",48
+"Burglary","22","03",37
+"Stolen Vehicle","22","03",43
+"Veh Accident","17","03",62
+"Veh Accident","21","03",27
+"Auto Boost / Strip","05","03",31
+"Homeless Complaint","03","03",72
+"Stolen Vehicle","15","03",57
+"Well Being Check","10","03",167
+"Stolen Vehicle","21","03",24
+"Traf Violation Tow","13","03",25
+"Mentally Disturbed","00","03",34
+"Fraud","08","03",18
+"Noise Nuisance","23","02",243
+"Traffic Stop","11","02",677
+"Auto Boost / Strip","11","02",127
+"Stolen Vehicle","11","02",57
+"Well Being Check","03","02",65
+"Auto Boost / Strip","20","02",147
+"Homeless Complaint","15","02",262
+"Drugs","19","02",30
+"Suspicious Vehicle","16","02",157
+"Trespasser","06","02",110
+"Suspicious Person","02","02",146
+"Threats / Harassment","19","02",61
+"Noise Nuisance","19","02",59
+"Suspicious Vehicle","14","02",155
+"Traffic Stop","10","02",728
+"Audible Alarm","01","02",122
+"Suspicious Person","01","02",171
+"Assault / Battery","15","02",77
+"Mentally Disturbed","12","02",97
+"Trespasser","14","02",115
+"Suspicious Vehicle","11","02",123
+"Suspicious Vehicle","09","02",124
+"Auto Boost / Strip","22","02",122
+"Fraud","09","02",31
+"Suspicious Vehicle","21","02",153
+"Petty Theft","13","02",103
+"Vandalism","18","02",44
+"Auto Boost / Strip","14","02",118
+"Audible Alarm","14","02",164
+"Traf Violation Cite","14","02",26
+"Threats / Harassment","08","02",31
+"Homeless Complaint","08","02",659
+"Auto Boost / Strip","13","02",128
+"Vandalism","09","02",35
+"Petty Theft","09","02",56
+"Burglary","17","02",49
+"Traf Violation Cite","07","02",46
+"Suspicious Person","04","02",95
+"Traf Violation Cite","04","02",14
+"Trespasser","07","02",135
+"Veh Accident","22","02",16
+"Veh Accident","08","02",35
+"Drugs","07","02",14
+"Well Being Check","06","02",60
+"Vandalism","21","02",41
+"Stolen Vehicle","20","02",36
+"Auto Boost / Strip","16","02",111
+"Traf Violation Tow","21","02",16
+"Noise Nuisance","18","02",58
+"Threats / Harassment","20","02",49
+"Traf Violation Cite","05","02",27
+"Traf Violation Tow","20","02",30
+"Traf Violation Tow","05","02",17
+"Veh Accident","00","02",11
+"Burglary","20","02",29
+"Threats / Harassment","09","02",45
+"Fight No Weapon","05","02",37
+"Vandalism","03","02",15
+"Suspicious Person","11","01",417
+"Suspicious Person","05","01",56
+"Homeless Complaint","04","01",125
+"Traffic Stop","18","01",995
+"Audible Alarm","17","01",129
+"Suspicious Vehicle","09","01",108
+"Auto Boost / Strip","16","01",157
+"Suspicious Vehicle","16","01",199
+"Fight No Weapon","15","01",157
+"Burglary","04","01",16
+"Noise Nuisance","03","01",123
+"Veh Accident","09","01",36
+"Mentally Disturbed","03","01",32
+"Audible Alarm","03","01",125
+"Traffic Stop","02","01",221
+"Well Being Check","02","01",112
+"Fight No Weapon","14","01",127
+"Suspicious Person","14","01",494
+"Audible Alarm","14","01",128
+"Traf Violation Tow","09","01",23
+"Fraud","15","01",85
+"Homeless Complaint","02","01",49
+"Traf Violation Tow","01","01",13
+"Trespasser","08","01",142
+"Audible Alarm","08","01",219
+"Mentally Disturbed","18","01",91
+"Stolen Vehicle","14","01",67
+"Homeless Complaint","01","01",81
+"Mentally Disturbed","01","01",39
+"Vandalism","13","01",46
+"Mentally Disturbed","07","01",66
+"Auto Boost / Strip","23","01",111
+"Veh Accident","12","01",49
+"Homeless Complaint","12","01",376
+"Auto Boost / Strip","12","01",148
+"Suspicious Vehicle","12","01",145
+"Burglary","12","01",62
+"Mentally Disturbed","23","01",54
+"Suspicious Person","22","01",295
+"Mentally Disturbed","17","01",110
+"Auto Boost / Strip","13","01",165
+"Stolen Vehicle","22","01",33
+"Threats / Harassment","22","01",31
+"Audible Alarm","11","01",161
+"Suspicious Vehicle","11","01",118
+"Burglary","23","01",32
+"Fight No Weapon","21","01",140
+"Traf Violation Tow","18","01",16
+"Traf Violation Cite","21","01",11
+"Audible Alarm","16","01",132
+"Fraud","20","01",20
+"Drugs","16","01",60
+"Well Being Check","00","01",107
+"Mentally Disturbed","00","01",33
+"Vandalism","14","01",57
+"Burglary","15","01",61
+"Veh Accident","23","01",19
+"Petty Theft","22","01",44
+"Vandalism","21","01",45
+"Fraud","12","01",51
+"Noise Nuisance","13","01",30
+"Burglary","05","01",20
+"Veh Accident","20","01",37
+"Stolen Vehicle","00","01",12
+"Traf Violation Cite","00","01",54
+"Threats / Harassment","05","01",12
+"Traf Violation Tow","17","01",16
+"Traf Violation Tow","22","01",15
+"Traf Violation Cite","14","01",36
+"Trespasser","21","12",214
+"Noise Nuisance","21","12",200
+"Traffic Stop","19","12",902
+"Auto Boost / Strip","19","12",234
+"Trespasser","14","12",208
+"Homeless Complaint","08","12",862
+"Audible Alarm","08","12",385
+"Suspicious Vehicle","18","12",250
+"Fight No Weapon","14","12",225
+"Suspicious Person","20","12",387
+"Auto Boost / Strip","13","12",200
+"Suspicious Vehicle","13","12",232
+"Fight No Weapon","07","12",89
+"Trespasser","20","12",199
+"Fight No Weapon","18","12",234
+"Suspicious Person","19","12",414
+"Stolen Vehicle","19","12",54
+"Well Being Check","12","12",261
+"Traf Violation Tow","12","12",74
+"Suspicious Person","06","12",125
+"Homeless Complaint","05","12",273
+"Traf Violation Cite","05","12",53
+"Assault / Battery","23","12",103
+"Well Being Check","17","12",268
+"Drugs","17","12",71
+"Suspicious Person","03","12",174
+"Audible Alarm","11","12",257
+"Audible Alarm","02","12",220
+"Mentally Disturbed","02","12",46
+"Traffic Stop","01","12",347
+"Petty Theft","21","12",78
+"Suspicious Vehicle","10","12",181
+"Traffic Stop","10","12",912
+"Traf Violation Tow","10","12",75
+"Audible Alarm","10","12",303
+"Traffic Stop","00","12",651
+"Burglary","00","12",41
+"Vandalism","20","12",63
+"Mentally Disturbed","15","12",154
+"Stolen Vehicle","22","12",43
+"Vandalism","15","12",84
+"Audible Alarm","09","12",342
+"Petty Theft","09","12",96
+"Stolen Vehicle","15","12",97
+"Threats / Harassment","18","12",93
+"Traffic Stop","08","12",789
+"Suspicious Vehicle","08","12",152
+"Drugs","21","12",59
+"Mentally Disturbed","18","12",142
+"Threats / Harassment","06","12",24
+"Noise Nuisance","12","12",38
+"Noise Nuisance","05","12",69
+"Mentally Disturbed","03","12",31
+"Noise Nuisance","03","12",160
+"Traf Violation Tow","11","12",99
+"Veh Accident","18","12",68
+"Fraud","13","12",78
+"Vandalism","00","12",42
+"Assault / Battery","09","12",78
+"Vandalism","08","12",45
+"Veh Accident","15","12",77
+"Vandalism","01","12",36
+"Burglary","01","12",28
+"Burglary","03","12",19
+"Threats / Harassment","04","12",17
+"Stolen Vehicle","01","12",22
+"Noise Nuisance","22","11",445
+"Trespasser","17","11",201
+"Vandalism","17","11",73
+"Vandalism","22","11",69
+"Suspicious Person","21","11",410
+"Audible Alarm","21","11",195
+"Well Being Check","21","11",239
+"Petty Theft","21","11",83
+"Traffic Stop","21","11",691
+"Mentally Disturbed","21","11",105
+"Suspicious Person","20","11",371
+"Assault / Battery","20","11",102
+"Traf Violation Tow","19","11",96
+"Petty Theft","19","11",134
+"Audible Alarm","18","11",228
+"Fight No Weapon","23","11",195
+"Trespasser","23","11",161
+"Audible Alarm","23","11",230
+"Stolen Vehicle","18","11",79
+"Noise Nuisance","18","11",106
+"Traffic Stop","09","11",912
+"Burglary","08","11",107
+"Suspicious Vehicle","13","11",254
+"Traf Violation Tow","13","11",68
+"Suspicious Vehicle","08","11",165
+"Audible Alarm","16","11",191
+"Well Being Check","12","11",261
+"Fraud","12","11",69
+"Audible Alarm","07","11",339
+"Petty Theft","07","11",35
+"Fraud","16","11",76
+"Veh Accident","16","11",58
+"Traf Violation Tow","16","11",69
+"Auto Boost / Strip","11","11",190
+"Homeless Complaint","06","11",638
+"Audible Alarm","06","11",270
+"Stolen Vehicle","11","11",116
+"Traf Violation Cite","05","11",60
+"Mentally Disturbed","05","11",51
+"Traf Violation Cite","15","11",236
+"Suspicious Person","15","11",713
+"Trespasser","15","11",218
+"Traf Violation Tow","04","11",19
+"Trespasser","04","11",97
+"Traffic Stop","03","11",170
+"Trespasser","03","11",102
+"Burglary","03","11",21
+"Well Being Check","02","11",164
+"Burglary","10","11",107
+"Veh Accident","01","11",15
+"Traf Violation Cite","01","11",68
+"Traffic Stop","00","11",608
+"Audible Alarm","00","11",244
+"Homeless Complaint","18","11",311
+"Suspicious Person","00","11",323
+"Fraud","14","11",88
+"Homeless Complaint","14","11",400
+"Vandalism","00","11",51
+"Assault / Battery","00","11",89
+"Traf Violation Tow","12","11",74
+"Petty Theft","06","11",24
+"Petty Theft","11","11",165
+"Vandalism","05","11",24
+"Homeless Complaint","04","11",123
+"Burglary","09","11",120
+"Vandalism","13","11",72
+"Vandalism","06","11",26
+"Homeless Complaint","19","11",261
+"Drugs","10","11",77
+"Drugs","23","11",35
+"Traf Violation Tow","01","11",33
+"Fraud","20","11",21
+"Assault / Battery","05","11",26
+"Suspicious Vehicle","20","10",233
+"Petty Theft","19","10",139
+"Traf Violation Tow","22","10",56
+"Traf Violation Cite","22","10",175
+"Suspicious Person","22","10",480
+"Drugs","22","10",70
+"Assault / Battery","22","10",136
+"Fight No Weapon","21","10",232
+"Burglary","21","10",48
+"Stolen Vehicle","20","10",73
+"Suspicious Person","11","10",589
+"Traf Violation Cite","15","10",260
+"Well Being Check","15","10",304
+"Assault / Battery","11","10",134
+"Threats / Harassment","11","10",94
+"Traffic Stop","06","10",175
+"Veh Accident","20","10",38
+"Veh Accident","15","10",83
+"Traf Violation Cite","14","10",298
+"Auto Boost / Strip","10","10",145
+"Suspicious Person","10","10",569
+"Assault / Battery","10","10",112
+"Threats / Harassment","10","10",74
+"Audible Alarm","06","10",280
+"Stolen Vehicle","05","10",14
+"Suspicious Person","18","10",714
+"Audible Alarm","18","10",266
+"Fight No Weapon","18","10",275
+"Assault / Battery","14","10",118
+"Noise Nuisance","10","10",51
+"Traf Violation Tow","10","10",102
+"Well Being Check","04","10",101
+"Traf Violation Cite","04","10",41
+"Traf Violation Cite","02","10",69
+"Burglary","13","10",71
+"Mentally Disturbed","09","10",147
+"Suspicious Vehicle","01","10",212
+"Noise Nuisance","13","10",55
+"Drugs","01","10",24
+"Well Being Check","00","10",202
+"Homeless Complaint","08","10",1023
+"Traf Violation Cite","08","10",355
+"Stolen Vehicle","13","10",109
+"Vandalism","08","10",59
+"Homeless Complaint","16","10",428
+"Traf Violation Tow","12","10",94
+"Well Being Check","22","10",275
+"Vandalism","12","10",84
+"Auto Boost / Strip","09","10",119
+"Burglary","18","10",68
+"Vandalism","18","10",92
+"Fraud","08","10",25
+"Fraud","13","10",95
+"Noise Nuisance","08","10",35
+"Noise Nuisance","16","10",78
+"Petty Theft","10","10",168
+"Noise Nuisance","03","10",246
+"Drugs","02","10",21
+"Suspicious Vehicle","09","10",166
+"Stolen Vehicle","01","10",31
+"Homeless Complaint","19","10",263
+"Petty Theft","01","10",41
+"Fight No Weapon","00","10",163
+"Vandalism","04","10",22
+"Veh Accident","02","10",16
+"Homeless Complaint","00","10",129
+"Auto Boost / Strip","01","10",84
+"Veh Accident","23","10",39
+"Mentally Disturbed","22","09",118
+"Auto Boost / Strip","22","09",235
+"Traf Violation Tow","16","09",85
+"Homeless Complaint","10","09",757
+"Traf Violation Cite","00","09",118
+"Drugs","00","09",24
+"Fight No Weapon","23","09",211
+"Audible Alarm","21","09",226
+"Vandalism","16","09",86
+"Burglary","10","09",104
+"Traf Violation Cite","15","09",197
+"Traf Violation Tow","09","09",73
+"Homeless Complaint","09","09",858
+"Fight No Weapon","20","09",222
+"Stolen Vehicle","20","09",67
+"Threats / Harassment","20","09",78
+"Vandalism","20","09",85
+"Auto Boost / Strip","14","09",196
+"Burglary","08","09",115
+"Traf Violation Cite","07","09",196
+"Traffic Stop","07","09",723
+"Veh Accident","13","09",74
+"Vandalism","13","09",81
+"Vandalism","05","09",25
+"Homeless Complaint","04","09",126
+"Traffic Stop","17","09",1822
+"Threats / Harassment","12","09",86
+"Petty Theft","12","09",152
+"Trespasser","12","09",199
+"Noise Nuisance","04","09",112
+"Well Being Check","17","09",294
+"Audible Alarm","02","09",248
+"Traf Violation Tow","22","09",47
+"Vandalism","01","09",50
+"Burglary","00","09",34
+"Petty Theft","18","09",167
+"Homeless Complaint","22","09",208
+"Petty Theft","22","09",60
+"Threats / Harassment","13","09",75
+"Homeless Complaint","12","09",603
+"Fraud","21","09",19
+"Stolen Vehicle","00","09",17
+"Veh Accident","23","09",35
+"Stolen Vehicle","23","09",33
+"Fraud","18","09",48
+"Fraud","13","09",78
+"Homeless Complaint","02","09",67
+"Auto Boost / Strip","02","09",84
+"Veh Accident","08","09",48
+"Threats / Harassment","07","09",47
+"Traf Violation Tow","03","09",20
+"Traf Violation Tow","19","08",89
+"Drugs","19","08",117
+"Suspicious Vehicle","19","08",311
+"Suspicious Person","14","08",838
+"Audible Alarm","09","08",267
+"Traffic Stop","09","08",1162
+"Auto Boost / Strip","19","08",188
+"Suspicious Person","08","08",428
+"Audible Alarm","18","08",275
+"Traffic Stop","18","08",1376
+"Mentally Disturbed","08","08",150
+"Stolen Vehicle","18","08",84
+"Well Being Check","23","08",205
+"Traffic Stop","13","08",1028
+"Drugs","18","08",141
+"Audible Alarm","17","08",243
+"Traf Violation Cite","17","08",290
+"Assault / Battery","17","08",163
+"Suspicious Person","12","08",876
+"Mentally Disturbed","12","08",182
+"Traffic Stop","17","08",1902
+"Veh Accident","12","08",56
+"Trespasser","11","08",200
+"Fight No Weapon","11","08",185
+"Homeless Complaint","11","08",563
+"Traf Violation Tow","21","08",61
+"Veh Accident","11","08",58
+"Mentally Disturbed","11","08",188
+"Trespasser","20","08",192
+"Homeless Complaint","20","08",201
+"Fight No Weapon","20","08",214
+"Auto Boost / Strip","10","08",144
+"Petty Theft","23","08",73
+"Traf Violation Cite","07","08",216
+"Veh Accident","16","08",86
+"Burglary","11","08",89
+"Mentally Disturbed","06","08",76
+"Noise Nuisance","04","08",122
+"Noise Nuisance","03","08",189
+"Traffic Stop","03","08",198
+"Fight No Weapon","02","08",165
+"Suspicious Vehicle","01","08",201
+"Fight No Weapon","00","08",234
+"Audible Alarm","00","08",248
+"Fraud","14","08",79
+"Veh Accident","18","08",78
+"Fraud","23","08",12
+"Stolen Vehicle","22","08",39
+"Noise Nuisance","17","08",81
+"Petty Theft","21","08",103
+"Fraud","09","08",43
+"Vandalism","00","08",48
+"Auto Boost / Strip","00","08",156
+"Burglary","23","08",41
+"Burglary","00","08",22
+"Stolen Vehicle","20","08",62
+"Veh Accident","15","08",62
+"Threats / Harassment","06","08",24
+"Noise Nuisance","10","08",44
+"Threats / Harassment","05","08",26
+"Vandalism","02","08",36
+"Threats / Harassment","04","08",15
+"Traf Violation Tow","22","07",51
+"Auto Boost / Strip","21","07",267
+"Drugs","21","07",67
+"Mentally Disturbed","21","07",112
+"Vandalism","20","07",88
+"Traf Violation Tow","19","07",81
+"Threats / Harassment","19","07",71
+"Traf Violation Cite","20","07",203
+"Mentally Disturbed","22","07",103
+"Suspicious Vehicle","18","07",290
+"Fight No Weapon","16","07",264
+"Vandalism","16","07",82
+"Fraud","11","07",83
+"Fight No Weapon","11","07",191
+"Traffic Stop","11","07",825
+"Homeless Complaint","10","07",720
+"Traf Violation Cite","10","07",275
+"Auto Boost / Strip","17","07",213
+"Audible Alarm","17","07",287
+"Fight No Weapon","13","07",205
+"Homeless Complaint","07","07",928
+"Stolen Vehicle","12","07",90
+"Traf Violation Cite","12","07",245
+"Audible Alarm","07","07",326
+"Threats / Harassment","07","07",36
+"Trespasser","01","07",147
+"Auto Boost / Strip","16","07",192
+"Drugs","16","07",134
+"Trespasser","06","07",228
+"Fight No Weapon","23","07",239
+"Burglary","23","07",44
+"Petty Theft","16","07",186
+"Veh Accident","15","07",79
+"Well Being Check","09","07",204
+"Threats / Harassment","22","07",63
+"Traf Violation Tow","11","07",95
+"Suspicious Vehicle","03","07",133
+"Vandalism","11","07",80
+"Suspicious Person","02","07",203
+"Petty Theft","08","07",78
+"Drugs","11","07",101
+"Mentally Disturbed","03","07",38
+"Assault / Battery","02","07",111
+"Drugs","08","07",65
+"Traf Violation Tow","00","07",63
+"Drugs","13","07",104
+"Audible Alarm","13","07",233
+"Audible Alarm","14","07",230
+"Well Being Check","19","07",235
+"Stolen Vehicle","19","07",73
+"Veh Accident","13","07",71
+"Threats / Harassment","18","07",103
+"Drugs","14","07",100
+"Suspicious Vehicle","08","07",154
+"Well Being Check","00","07",185
+"Fight No Weapon","00","07",211
+"Petty Theft","04","07",23
+"Noise Nuisance","08","07",43
+"Threats / Harassment","02","07",33
+"Burglary","01","07",31
+"Noise Nuisance","07","07",46
+"Mentally Disturbed","00","07",52
+"Auto Boost / Strip","03","07",66
+"Petty Theft","07","07",55
+"Veh Accident","06","07",18
+"Threats / Harassment","05","07",14
+"Vandalism","06","07",32
+"Assault / Battery","21","06",134
+"Traffic Stop","20","06",496
+"Homeless Complaint","13","06",385
+"Auto Boost / Strip","23","06",229
+"Audible Alarm","20","06",282
+"Traffic Stop","17","06",1749
+"Suspicious Person","12","06",652
+"Homeless Complaint","12","06",518
+"Fight No Weapon","12","06",194
+"Suspicious Person","16","06",667
+"Stolen Vehicle","16","06",77
+"Suspicious Vehicle","16","06",237
+"Fraud","11","06",86
+"Mentally Disturbed","10","06",155
+"Stolen Vehicle","15","06",85
+"Traf Violation Cite","15","06",184
+"Vandalism","23","06",67
+"Suspicious Vehicle","15","06",193
+"Audible Alarm","15","06",237
+"Trespasser","22","06",174
+"Mentally Disturbed","22","06",105
+"Mentally Disturbed","14","06",155
+"Noise Nuisance","21","06",220
+"Burglary","14","06",60
+"Threats / Harassment","21","06",60
+"Trespasser","13","06",147
+"Burglary","10","06",104
+"Traffic Stop","08","06",1088
+"Traf Violation Tow","07","06",45
+"Mentally Disturbed","07","06",113
+"Noise Nuisance","01","06",318
+"Audible Alarm","01","06",218
+"Auto Boost / Strip","00","06",137
+"Traf Violation Cite","06","06",86
+"Traf Violation Cite","08","06",235
+"Noise Nuisance","06","06",78
+"Noise Nuisance","16","06",67
+"Drugs","23","06",47
+"Suspicious Vehicle","04","06",77
+"Auto Boost / Strip","04","06",53
+"Trespasser","03","06",117
+"Petty Theft","07","06",55
+"Audible Alarm","02","06",239
+"Trespasser","01","06",117
+"Traf Violation Cite","22","06",128
+"Noise Nuisance","00","06",384
+"Drugs","21","06",54
+"Suspicious Vehicle","00","06",233
+"Burglary","11","06",92
+"Stolen Vehicle","19","06",61
+"Petty Theft","22","06",76
+"Traf Violation Cite","02","06",44
+"Stolen Vehicle","18","06",78
+"Threats / Harassment","15","06",100
+"Threats / Harassment","23","06",49
+"Threats / Harassment","01","06",32
+"Drugs","03","06",15
+"Veh Accident","01","06",12
+"Fraud","08","06",29
+"Vandalism","12","05",63
+"Auto Boost / Strip","11","05",191
+"Petty Theft","22","05",67
+"Auto Boost / Strip","22","05",235
+"Well Being Check","11","05",250
+"Noise Nuisance","11","05",42
+"Mentally Disturbed","22","05",118
+"Traffic Stop","21","05",870
+"Trespasser","19","05",188
+"Noise Nuisance","18","05",85
+"Suspicious Person","09","05",443
+"Veh Accident","09","05",55
+"Mentally Disturbed","18","05",158
+"Burglary","15","05",73
+"Traffic Stop","08","05",1056
+"Traf Violation Cite","08","05",208
+"Traf Violation Cite","17","05",270
+"Vandalism","20","05",79
+"Noise Nuisance","10","05",54
+"Traf Violation Tow","19","05",70
+"Suspicious Vehicle","19","05",297
+"Threats / Harassment","19","05",94
+"Fight No Weapon","10","05",171
+"Mentally Disturbed","10","05",142
+"Fraud","10","05",74
+"Fraud","13","05",90
+"Homeless Complaint","12","05",569
+"Drugs","23","05",39
+"Stolen Vehicle","23","05",44
+"Stolen Vehicle","12","05",91
+"Trespasser","23","05",189
+"Trespasser","18","05",182
+"Traf Violation Cite","05","05",41
+"Traffic Stop","04","05",208
+"Noise Nuisance","04","05",106
+"Mentally Disturbed","15","05",182
+"Assault / Battery","15","05",121
+"Well Being Check","03","05",133
+"Assault / Battery","14","05",139
+"Traf Violation Tow","14","05",49
+"Suspicious Person","02","05",270
+"Well Being Check","08","05",187
+"Traf Violation Cite","07","05",160
+"Trespasser","07","05",213
+"Noise Nuisance","00","05",387
+"Traf Violation Cite","00","05",106
+"Petty Theft","08","05",80
+"Burglary","06","05",43
+"Noise Nuisance","06","05",61
+"Burglary","05","05",32
+"Vandalism","07","05",39
+"Fraud","12","05",105
+"Traf Violation Cite","06","05",57
+"Drugs","12","05",111
+"Auto Boost / Strip","06","05",59
+"Fight No Weapon","06","05",80
+"Stolen Vehicle","19","05",77
+"Vandalism","19","05",91
+"Assault / Battery","01","05",91
+"Stolen Vehicle","20","05",54
+"Vandalism","21","05",72
+"Vandalism","05","05",26
+"Auto Boost / Strip","03","05",55
+"Fraud","21","05",19
+"Traf Violation Tow","02","05",21
+"Stolen Vehicle","06","05",39
+"Threats / Harassment","04","05",11
+"Traffic Stop","21","04",785
+"Fight No Weapon","21","04",229
+"Mentally Disturbed","21","04",116
+"Well Being Check","20","04",229
+"Suspicious Person","15","04",710
+"Stolen Vehicle","16","04",76
+"Auto Boost / Strip","07","04",59
+"Suspicious Vehicle","07","04",130
+"Burglary","14","04",79
+"Homeless Complaint","06","04",846
+"Trespasser","06","04",158
+"Suspicious Person","19","04",564
+"Mentally Disturbed","14","04",149
+"Vandalism","14","04",85
+"Petty Theft","11","04",152
+"Homeless Complaint","11","04",687
+"Suspicious Vehicle","03","04",147
+"Threats / Harassment","13","04",82
+"Traffic Stop","13","04",1091
+"Burglary","11","04",85
+"Threats / Harassment","01","04",26
+"Traffic Stop","01","04",430
+"Noise Nuisance","02","04",323
+"Suspicious Vehicle","02","04",170
+"Homeless Complaint","18","04",384
+"Traf Violation Tow","18","04",78
+"Suspicious Vehicle","18","04",286
+"Homeless Complaint","04","04",146
+"Fight No Weapon","18","04",253
+"Threats / Harassment","10","04",69
+"Stolen Vehicle","12","04",82
+"Traffic Stop","23","04",1196
+"Suspicious Person","23","04",475
+"Homeless Complaint","23","04",258
+"Well Being Check","23","04",233
+"Suspicious Vehicle","16","04",280
+"Suspicious Person","09","04",468
+"Drugs","23","04",31
+"Traf Violation Cite","23","04",37
+"Threats / Harassment","23","04",55
+"Noise Nuisance","23","04",476
+"Vandalism","16","04",79
+"Mentally Disturbed","09","04",164
+"Mentally Disturbed","22","04",95
+"Vandalism","22","04",65
+"Vandalism","15","04",86
+"Traf Violation Cite","11","04",85
+"Vandalism","03","04",27
+"Traf Violation Tow","02","04",19
+"Drugs","19","04",77
+"Vandalism","19","04",70
+"Threats / Harassment","21","04",59
+"Threats / Harassment","02","04",31
+"Drugs","16","04",83
+"Fraud","13","04",90
+"Well Being Check","10","04",214
+"Traf Violation Tow","00","04",53
+"Threats / Harassment","09","04",70
+"Vandalism","12","04",59
+"Mentally Disturbed","08","04",127
+"Audible Alarm","00","04",212
+"Noise Nuisance","08","04",32
+"Audible Alarm","17","04",254
+"Well Being Check","03","04",119
+"Assault / Battery","03","04",47
+"Mentally Disturbed","06","04",43
+"Fraud","20","04",23
+"Stolen Vehicle","19","04",67
+"Drugs","10","04",82
+"Veh Accident","07","04",31
+"Suspicious Vehicle","06","04",74
+"Burglary","03","04",23
+"Petty Theft","03","04",28
+"Mentally Disturbed","01","04",45
+"Petty Theft","02","04",30
+"Drugs","01","04",17
+"Threats / Harassment","03","04",17
+"Threats / Harassment","04","04",14
+"Well Being Check","22","03",135
+"Suspicious Person","15","03",448
+"Traffic Stop","14","03",798
+"Suspicious Person","14","03",456
+"Suspicious Person","18","03",396
+"Stolen Vehicle","18","03",47
+"Fight No Weapon","17","03",172
+"Traffic Stop","13","03",806
+"Mentally Disturbed","20","03",87
+"Traffic Stop","17","03",1383
+"Homeless Complaint","12","03",504
+"Stolen Vehicle","12","03",69
+"Mentally Disturbed","17","03",111
+"Mentally Disturbed","18","03",87
+"Auto Boost / Strip","16","03",164
+"Mentally Disturbed","16","03",100
+"Petty Theft","23","03",29
+"Fight No Weapon","15","03",177
+"Petty Theft","15","03",100
+"Noise Nuisance","22","03",285
+"Homeless Complaint","22","03",214
+"Mentally Disturbed","19","03",101
+"Fight No Weapon","14","03",137
+"Traffic Stop","09","03",802
+"Well Being Check","09","03",151
+"Trespasser","00","03",105
+"Well Being Check","01","03",95
+"Mentally Disturbed","12","03",126
+"Assault / Battery","13","03",98
+"Drugs","00","03",12
+"Traffic Stop","10","03",864
+"Traf Violation Cite","00","03",54
+"Drugs","09","03",44
+"Threats / Harassment","09","03",51
+"Stolen Vehicle","20","03",55
+"Veh Accident","18","03",42
+"Auto Boost / Strip","08","03",49
+"Auto Boost / Strip","17","03",121
+"Threats / Harassment","20","03",42
+"Mentally Disturbed","08","03",81
+"Fraud","17","03",52
+"Traffic Stop","06","03",157
+"Petty Theft","06","03",14
+"Audible Alarm","05","03",173
+"Traffic Stop","05","03",136
+"Trespasser","05","03",96
+"Suspicious Person","04","03",112
+"Burglary","03","03",22
+"Trespasser","10","03",176
+"Traf Violation Cite","01","03",38
+"Threats / Harassment","10","03",49
+"Auto Boost / Strip","01","03",52
+"Threats / Harassment","08","03",41
+"Threats / Harassment","07","03",25
+"Petty Theft","07","03",31
+"Traf Violation Tow","07","03",20
+"Veh Accident","20","03",25
+"Traf Violation Cite","02","03",26
+"Petty Theft","00","03",27
+"Vandalism","09","03",54
+"Stolen Vehicle","00","03",24
+"Assault / Battery","23","03",78
+"Drugs","03","03",12
+"Vandalism","13","03",45
+"Fraud","21","03",18
+"Traf Violation Tow","16","03",13
+"Audible Alarm","23","02",148
+"Homeless Complaint","23","02",150
+"Assault / Battery","11","02",52
+"Fraud","11","02",53
+"Noise Nuisance","11","02",35
+"Homeless Complaint","07","02",686
+"Fight No Weapon","00","02",126
+"Burglary","03","02",12
+"Trespasser","20","02",124
+"Traf Violation Cite","19","02",26
+"Suspicious Vehicle","15","02",141
+"Suspicious Person","16","02",435
+"Mentally Disturbed","11","02",89
+"Petty Theft","06","02",22
+"Noise Nuisance","06","02",40
+"Assault / Battery","14","02",82
+"Stolen Vehicle","15","02",49
+"Well Being Check","12","02",152
+"Traffic Stop","12","02",849
+"Petty Theft","12","02",91
+"Fraud","14","02",49
+"Audible Alarm","22","02",153
+"Traffic Stop","18","02",934
+"Homeless Complaint","18","02",225
+"Suspicious Vehicle","18","02",155
+"Traf Violation Cite","18","02",18
+"Trespasser","21","02",157
+"Noise Nuisance","21","02",141
+"Threats / Harassment","13","02",60
+"Burglary","13","02",48
+"Well Being Check","09","02",113
+"Fight No Weapon","21","02",144
+"Well Being Check","18","02",164
+"Veh Accident","13","02",44
+"Traffic Stop","17","02",1335
+"Threats / Harassment","17","02",72
+"Fraud","13","02",46
+"Assault / Battery","13","02",73
+"Fight No Weapon","08","02",87
+"Suspicious Person","17","02",380
+"Drugs","08","02",39
+"Stolen Vehicle","08","02",58
+"Veh Accident","17","02",51
+"Traffic Stop","05","02",120
+"Audible Alarm","05","02",158
+"Stolen Vehicle","12","02",62
+"Trespasser","04","02",50
+"Mentally Disturbed","07","02",57
+"Fight No Weapon","07","02",63
+"Assault / Battery","02","02",58
+"Traf Violation Cite","21","02",21
+"Assault / Battery","16","02",73
+"Burglary","06","02",28
+"Vandalism","07","02",22
+"Fraud","08","02",13
+"Veh Accident","23","02",17
+"Vandalism","19","02",37
+"Vandalism","01","02",28
+"Burglary","11","02",55
+"Traf Violation Tow","00","02",32
+"Auto Boost / Strip","12","02",122
+"Well Being Check","08","02",93
+"Veh Accident","09","02",31
+"Audible Alarm","10","01",188
+"Audible Alarm","05","01",161
+"Suspicious Person","19","01",318
+"Fight No Weapon","19","01",128
+"Stolen Vehicle","09","01",72
+"Traffic Stop","20","01",443
+"Burglary","10","01",71
+"Suspicious Vehicle","03","01",104
+"Suspicious Person","18","01",353
+"Vandalism","19","01",36
+"Fight No Weapon","03","01",60
+"Suspicious Vehicle","14","01",167
+"Fight No Weapon","02","01",134
+"Veh Accident","19","01",34
+"Fight No Weapon","01","01",143
+"Traffic Stop","01","01",282
+"Audible Alarm","00","01",181
+"Traffic Stop","00","01",491
+"Audible Alarm","07","01",216
+"Auto Boost / Strip","09","01",59
+"Fight No Weapon","00","01",136
+"Stolen Vehicle","16","01",57
+"Vandalism","16","01",49
+"Well Being Check","14","01",164
+"Veh Accident","08","01",26
+"Suspicious Person","08","01",269
+"Assault / Battery","23","01",65
+"Fight No Weapon","07","01",80
+"Auto Boost / Strip","22","01",157
+"Suspicious Vehicle","22","01",217
+"Threats / Harassment","12","01",38
+"Suspicious Person","23","01",280
+"Mentally Disturbed","13","01",96
+"Trespasser","22","01",131
+"Noise Nuisance","22","01",268
+"Petty Theft","17","01",117
+"Drugs","21","01",35
+"Suspicious Vehicle","21","01",159
+"Traffic Stop","11","01",751
+"Mentally Disturbed","11","01",87
+"Assault / Battery","07","01",34
+"Vandalism","12","01",48
+"Audible Alarm","06","01",166
+"Fight No Weapon","06","01",59
+"Suspicious Vehicle","00","01",163
+"Vandalism","10","01",46
+"Threats / Harassment","00","01",32
+"Vandalism","22","01",24
+"Traf Violation Cite","20","01",17
+"Traffic Stop","05","01",113
+"Traf Violation Cite","11","01",30
+"Suspicious Vehicle","08","01",102
+"Drugs","10","01",32
+"Trespasser","01","01",94
+"Traf Violation Cite","13","01",33
+"Petty Theft","05","01",15
+"Traf Violation Tow","03","01",17
+"Threats / Harassment","08","01",23
+"Threats / Harassment","01","01",23
+"Petty Theft","00","01",25
+"Mentally Disturbed","21","12",105
+"Suspicious Person","21","12",353
+"Burglary","08","12",94
+"Traf Violation Tow","08","12",56
+"Traf Violation Tow","20","12",82
+"Noise Nuisance","18","12",97
+"Traf Violation Tow","07","12",57
+"Burglary","07","12",67
+"Suspicious Person","18","12",491
+"Traf Violation Cite","06","12",83
+"Mentally Disturbed","06","12",50
+"Auto Boost / Strip","17","12",209
+"Suspicious Vehicle","17","12",217
+"Burglary","17","12",65
+"Auto Boost / Strip","12","12",237
+"Suspicious Vehicle","12","12",242
+"Traffic Stop","12","12",950
+"Auto Boost / Strip","05","12",37
+"Assault / Battery","05","12",34
+"Auto Boost / Strip","04","12",50
+"Traffic Stop","22","12",1046
+"Audible Alarm","22","12",262
+"Burglary","11","12",101
+"Auto Boost / Strip","03","12",41
+"Fight No Weapon","03","12",103
+"Well Being Check","22","12",242
+"Traf Violation Tow","22","12",69
+"Petty Theft","22","12",63
+"Homeless Complaint","11","12",674
+"Noise Nuisance","02","12",284
+"Fight No Weapon","01","12",177
+"Audible Alarm","00","12",235
+"Mentally Disturbed","16","12",160
+"Well Being Check","10","12",223
+"Drugs","23","12",37
+"Suspicious Person","09","12",458
+"Traffic Stop","09","12",912
+"Fight No Weapon","15","12",223
+"Mentally Disturbed","09","12",122
+"Threats / Harassment","22","12",57
+"Auto Boost / Strip","09","12",119
+"Traf Violation Tow","14","12",67
+"Burglary","09","12",108
+"Stolen Vehicle","21","12",55
+"Traf Violation Cite","04","12",51
+"Assault / Battery","17","12",130
+"Veh Accident","11","12",74
+"Noise Nuisance","11","12",55
+"Petty Theft","15","12",184
+"Vandalism","17","12",71
+"Drugs","10","12",75
+"Veh Accident","09","12",50
+"Fraud","08","12",24
+"Threats / Harassment","23","12",58
+"Threats / Harassment","05","12",19
+"Traf Violation Tow","03","12",14
+"Vandalism","04","12",16
+"Burglary","02","12",23
+"Traffic Stop","17","11",1598
+"Petty Theft","23","11",42
+"Traf Violation Cite","20","11",166
+"Drugs","20","11",61
+"Suspicious Person","19","11",431
+"Burglary","19","11",56
+"Traf Violation Tow","18","11",85
+"Fight No Weapon","09","11",155
+"Traf Violation Cite","09","11",267
+"Vandalism","09","11",71
+"Mentally Disturbed","14","11",143
+"Drugs","13","11",105
+"Threats / Harassment","13","11",85
+"Threats / Harassment","08","11",49
+"Vandalism","16","11",81
+"Traf Violation Cite","16","11",205
+"Suspicious Person","16","11",722
+"Drugs","07","11",32
+"Drugs","16","11",100
+"Traf Violation Tow","07","11",68
+"Assault / Battery","07","11",61
+"Drugs","21","11",56
+"Auto Boost / Strip","12","11",184
+"Trespasser","06","11",205
+"Traffic Stop","05","11",174
+"Stolen Vehicle","05","11",17
+"Noise Nuisance","03","11",175
+"Fraud","15","11",85
+"Traf Violation Cite","10","11",225
+"Noise Nuisance","02","11",291
+"Fight No Weapon","02","11",160
+"Trespasser","19","11",180
+"Auto Boost / Strip","10","11",158
+"Suspicious Vehicle","10","11",197
+"Suspicious Person","01","11",256
+"Noise Nuisance","01","11",307
+"Suspicious Vehicle","01","11",203
+"Fraud","18","11",27
+"Assault / Battery","10","11",99
+"Threats / Harassment","01","11",25
+"Traf Violation Cite","02","11",32
+"Drugs","01","11",22
+"Mentally Disturbed","00","11",55
+"Noise Nuisance","16","11",71
+"Fight No Weapon","05","11",85
+"Homeless Complaint","03","11",103
+"Fraud","08","11",27
+"Vandalism","15","11",85
+"Suspicious Vehicle","04","11",104
+"Burglary","17","11",60
+"Petty Theft","03","11",19
+"Noise Nuisance","08","11",40
+"Homeless Complaint","21","11",201
+"Vandalism","02","11",32
+"Vandalism","04","11",32
+"Petty Theft","20","10",113
+"Vandalism","19","10",74
+"Suspicious Vehicle","19","10",267
+"Auto Boost / Strip","23","10",228
+"Vandalism","23","10",69
+"Threats / Harassment","23","10",48
+"Suspicious Vehicle","22","10",356
+"Auto Boost / Strip","22","10",286
+"Traf Violation Cite","21","10",161
+"Traf Violation Cite","20","10",215
+"Vandalism","11","10",66
+"Traf Violation Cite","07","10",236
+"Noise Nuisance","07","10",62
+"Drugs","21","10",67
+"Fraud","11","10",83
+"Vandalism","06","10",27
+"Homeless Complaint","10","10",700
+"Traf Violation Cite","10","10",267
+"Assault / Battery","06","10",43
+"Threats / Harassment","06","10",33
+"Traffic Stop","14","10",905
+"Trespasser","10","10",214
+"Well Being Check","02","10",155
+"Suspicious Vehicle","02","10",172
+"Traf Violation Cite","17","10",288
+"Trespasser","17","10",257
+"Suspicious Person","13","10",738
+"Fight No Weapon","02","10",238
+"Trespasser","13","10",208
+"Audible Alarm","13","10",241
+"Suspicious Vehicle","00","10",278
+"Suspicious Person","00","10",395
+"Noise Nuisance","00","10",540
+"Suspicious Vehicle","08","10",149
+"Traffic Stop","00","10",736
+"Traffic Stop","12","10",800
+"Well Being Check","12","10",255
+"Petty Theft","12","10",188
+"Fraud","12","10",74
+"Traf Violation Tow","16","10",105
+"Threats / Harassment","17","10",78
+"Homeless Complaint","17","10",395
+"Stolen Vehicle","09","10",134
+"Trespasser","16","10",193
+"Assault / Battery","16","10",153
+"Burglary","19","10",59
+"Auto Boost / Strip","12","10",229
+"Homeless Complaint","15","10",388
+"Petty Theft","18","10",175
+"Assault / Battery","04","10",28
+"Suspicious Vehicle","04","10",90
+"Drugs","05","10",12
+"Stolen Vehicle","04","10",14
+"Burglary","03","10",35
+"Mentally Disturbed","23","10",82
+"Well Being Check","06","10",123
+"Stolen Vehicle","06","10",26
+"Petty Theft","05","10",26
+"Noise Nuisance","12","10",42
+"Threats / Harassment","03","10",15
+"Audible Alarm","00","09",244
+"Assault / Battery","00","09",95
+"Well Being Check","00","09",189
+"Traf Violation Cite","22","09",124
+"Traffic Stop","16","09",1836
+"Suspicious Person","16","09",802
+"Audible Alarm","16","09",257
+"Assault / Battery","10","09",100
+"Audible Alarm","10","09",250
+"Auto Boost / Strip","21","09",233
+"Traffic Stop","21","09",758
+"Fight No Weapon","16","09",213
+"Stolen Vehicle","21","09",52
+"Assault / Battery","15","09",163
+"Suspicious Person","09","09",471
+"Audible Alarm","09","09",290
+"Petty Theft","15","09",219
+"Veh Accident","15","09",80
+"Suspicious Vehicle","09","09",177
+"Traf Violation Tow","20","09",71
+"Homeless Complaint","20","09",269
+"Fight No Weapon","14","09",218
+"Suspicious Person","14","09",753
+"Auto Boost / Strip","09","09",126
+"Stolen Vehicle","14","09",81
+"Mentally Disturbed","14","09",187
+"Mentally Disturbed","08","09",155
+"Traf Violation Cite","08","09",288
+"Stolen Vehicle","19","09",63
+"Traf Violation Tow","08","09",72
+"Suspicious Person","18","09",674
+"Trespasser","18","09",220
+"Mentally Disturbed","18","09",184
+"Suspicious Person","13","09",811
+"Traffic Stop","13","09",956
+"Suspicious Person","06","09",181
+"Stolen Vehicle","18","09",83
+"Traffic Stop","12","09",1052
+"Assault / Battery","06","09",37
+"Burglary","06","09",43
+"Noise Nuisance","05","09",96
+"Noise Nuisance","12","09",54
+"Trespasser","05","09",120
+"Suspicious Vehicle","04","09",94
+"Trespasser","23","09",175
+"Traf Violation Cite","17","09",282
+"Traf Violation Tow","17","09",68
+"Burglary","04","09",23
+"Noise Nuisance","03","09",220
+"Traffic Stop","03","09",146
+"Auto Boost / Strip","23","09",209
+"Trespasser","11","09",196
+"Auto Boost / Strip","11","09",193
+"Suspicious Vehicle","11","09",189
+"Stolen Vehicle","11","09",102
+"Well Being Check","15","09",299
+"Drugs","01","09",17
+"Mentally Disturbed","19","09",136
+"Fraud","14","09",108
+"Vandalism","21","09",65
+"Petty Theft","05","09",20
+"Traf Violation Cite","04","09",48
+"Fraud","16","09",70
+"Trespasser","02","09",115
+"Veh Accident","02","09",11
+"Burglary","01","09",31
+"Burglary","02","09",28
+"Drugs","10","09",96
+"Threats / Harassment","18","09",93
+"Veh Accident","09","09",55
+"Threats / Harassment","08","09",54
+"Homeless Complaint","21","09",254
+"Burglary","05","09",34
+"Traf Violation Cite","02","09",56
+"Vandalism","09","09",74
+"Assault / Battery","07","09",61
+"Homeless Complaint","03","09",69
+"Burglary","17","09",61
+"Suspicious Person","19","08",649
+"Trespasser","15","08",232
+"Threats / Harassment","15","08",110
+"Assault / Battery","15","08",144
+"Trespasser","09","08",244
+"Well Being Check","09","08",216
+"Suspicious Vehicle","09","08",179
+"Homeless Complaint","14","08",422
+"Noise Nuisance","14","08",62
+"Traf Violation Cite","14","08",192
+"Audible Alarm","08","08",318
+"Trespasser","18","08",199
+"Auto Boost / Strip","18","08",193
+"Mentally Disturbed","18","08",168
+"Veh Accident","08","08",50
+"Suspicious Person","13","08",919
+"Suspicious Vehicle","23","08",341
+"Drugs","13","08",111
+"Petty Theft","17","08",185
+"Assault / Battery","13","08",113
+"Mentally Disturbed","17","08",190
+"Fight No Weapon","12","08",188
+"Noise Nuisance","22","08",417
+"Fraud","16","08",85
+"Traf Violation Cite","16","08",248
+"Fight No Weapon","16","08",221
+"Vandalism","11","08",64
+"Suspicious Person","21","08",363
+"Traffic Stop","16","08",1960
+"Auto Boost / Strip","16","08",190
+"Noise Nuisance","16","08",62
+"Traf Violation Tow","11","08",78
+"Vandalism","23","08",58
+"Assault / Battery","07","08",56
+"Auto Boost / Strip","07","08",76
+"Suspicious Vehicle","17","08",311
+"Noise Nuisance","11","08",46
+"Drugs","21","08",67
+"Assault / Battery","20","08",127
+"Fraud","20","08",44
+"Traffic Stop","06","08",199
+"Traf Violation Tow","06","08",34
+"Suspicious Person","05","08",109
+"Auto Boost / Strip","05","08",43
+"Suspicious Person","03","08",169
+"Suspicious Person","02","08",205
+"Traffic Stop","01","08",399
+"Traf Violation Tow","18","08",111
+"Burglary","14","08",71
+"Noise Nuisance","13","08",52
+"Audible Alarm","06","08",238
+"Traffic Stop","05","08",182
+"Traffic Stop","04","08",229
+"Drugs","04","08",11
+"Assault / Battery","01","08",94
+"Fight No Weapon","07","08",100
+"Homeless Complaint","21","08",183
+"Vandalism","03","08",40
+"Petty Theft","00","08",42
+"Traf Violation Tow","01","08",37
+"Traf Violation Cite","02","08",59
+"Homeless Complaint","02","08",64
+"Drugs","02","08",17
+"Homeless Complaint","00","08",115
+"Vandalism","06","08",28
+"Veh Accident","23","08",27
+"Suspicious Vehicle","21","07",221
+"Trespasser","21","07",206
+"Petty Theft","23","07",57
+"Well Being Check","23","07",231
+"Well Being Check","08","07",199
+"Audible Alarm","08","07",343
+"Suspicious Person","08","07",405
+"Assault / Battery","21","07",132
+"Well Being Check","18","07",265
+"Trespasser","17","07",200
+"Suspicious Person","16","07",671
+"Burglary","11","07",98
+"Trespasser","11","07",193
+"Traffic Stop","10","07",889
+"Assault / Battery","17","07",163
+"Traffic Stop","13","07",937
+"Vandalism","18","07",96
+"Drugs","18","07",137
+"Well Being Check","10","07",212
+"Drugs","12","07",105
+"Vandalism","00","07",58
+"Auto Boost / Strip","12","07",227
+"Drugs","07","07",53
+"Traf Violation Tow","07","07",49
+"Mentally Disturbed","23","07",77
+"Assault / Battery","23","07",119
+"Assault / Battery","12","07",118
+"Traffic Stop","06","07",155
+"Traf Violation Tow","15","07",59
+"Trespasser","09","07",199
+"Burglary","09","07",118
+"Burglary","05","07",38
+"Assault / Battery","09","07",93
+"Fight No Weapon","05","07",71
+"Suspicious Vehicle","05","07",63
+"Vandalism","04","07",31
+"Well Being Check","05","07",79
+"Suspicious Person","14","07",651
+"Auto Boost / Strip","14","07",212
+"Suspicious Vehicle","14","07",197
+"Traf Violation Cite","03","07",47
+"Mentally Disturbed","11","07",174
+"Audible Alarm","10","07",276
+"Trespasser","18","07",194
+"Fight No Weapon","09","07",176
+"Stolen Vehicle","13","07",84
+"Vandalism","14","07",68
+"Veh Accident","19","07",56
+"Drugs","06","07",18
+"Fraud","20","07",41
+"Mentally Disturbed","02","07",35
+"Stolen Vehicle","23","07",42
+"Drugs","02","07",20
+"Threats / Harassment","20","07",77
+"Veh Accident","00","07",20
+"Fraud","09","07",38
+"Noise Nuisance","23","06",475
+"Stolen Vehicle","23","06",47
+"Drugs","20","06",85
+"Suspicious Person","20","06",371
+"Petty Theft","13","06",171
+"Suspicious Person","23","06",404
+"Mentally Disturbed","13","06",187
+"Veh Accident","20","06",47
+"Traffic Stop","19","06",813
+"Drugs","19","06",93
+"Audible Alarm","12","06",214
+"Well Being Check","19","06",262
+"Traf Violation Tow","17","06",76
+"Noise Nuisance","18","06",81
+"Suspicious Vehicle","18","06",285
+"Drugs","10","06",75
+"Stolen Vehicle","10","06",91
+"Auto Boost / Strip","18","06",203
+"Petty Theft","16","06",183
+"Mentally Disturbed","11","06",161
+"Petty Theft","18","06",148
+"Suspicious Person","18","06",509
+"Traf Violation Tow","18","06",83
+"Noise Nuisance","12","06",35
+"Fraud","12","06",89
+"Mentally Disturbed","12","06",186
+"Audible Alarm","22","06",281
+"Traffic Stop","14","06",1039
+"Well Being Check","14","06",245
+"Suspicious Vehicle","14","06",234
+"Threats / Harassment","14","06",86
+"Traf Violation Cite","14","06",162
+"Traffic Stop","21","06",698
+"Homeless Complaint","14","06",402
+"Veh Accident","21","06",45
+"Suspicious Vehicle","01","06",161
+"Vandalism","01","06",43
+"Traffic Stop","00","06",763
+"Homeless Complaint","07","06",877
+"Burglary","06","06",44
+"Trespasser","06","06",233
+"Suspicious Vehicle","06","06",60
+"Stolen Vehicle","07","06",65
+"Stolen Vehicle","08","06",78
+"Petty Theft","00","06",47
+"Well Being Check","05","06",101
+"Audible Alarm","05","06",218
+"Burglary","15","06",68
+"Burglary","05","06",30
+"Traffic Stop","03","06",161
+"Well Being Check","03","06",119
+"Well Being Check","15","06",285
+"Burglary","13","06",78
+"Petty Theft","17","06",168
+"Traf Violation Cite","03","06",36
+"Noise Nuisance","03","06",188
+"Burglary","03","06",30
+"Petty Theft","12","06",161
+"Traf Violation Tow","06","06",38
+"Auto Boost / Strip","22","06",270
+"Assault / Battery","02","06",86
+"Well Being Check","02","06",154
+"Auto Boost / Strip","12","06",205
+"Homeless Complaint","22","06",162
+"Fight No Weapon","01","06",204
+"Traf Violation Cite","01","06",72
+"Petty Theft","21","06",95
+"Mentally Disturbed","09","06",152
+"Traf Violation Cite","09","06",249
+"Fraud","09","06",51
+"Vandalism","05","06",16
+"Stolen Vehicle","04","06",11
+"Drugs","22","06",63
+"Burglary","04","06",15
+"Burglary","07","06",57
+"Traf Violation Tow","00","06",52
+"Assault / Battery","08","06",82
+"Threats / Harassment","09","06",66
+"Stolen Vehicle","05","06",18
+"Traf Violation Tow","11","05",91
+"Burglary","22","05",52
+"Fight No Weapon","19","05",235
+"Auto Boost / Strip","18","05",221
+"Traffic Stop","16","05",2336
+"Traf Violation Cite","16","05",198
+"Assault / Battery","21","05",120
+"Traf Violation Cite","18","05",243
+"Auto Boost / Strip","09","05",139
+"Homeless Complaint","09","05",887
+"Traf Violation Cite","09","05",206
+"Assault / Battery","16","05",135
+"Fraud","16","05",91
+"Traffic Stop","20","05",643
+"Trespasser","17","05",191
+"Auto Boost / Strip","17","05",215
+"Traffic Stop","17","05",2112
+"Veh Accident","15","05",79
+"Suspicious Person","20","05",377
+"Fraud","20","05",39
+"Traf Violation Cite","20","05",168
+"Vandalism","17","05",69
+"Threats / Harassment","17","05",80
+"Suspicious Vehicle","17","05",327
+"Audible Alarm","19","05",288
+"Burglary","10","05",109
+"Mentally Disturbed","16","05",149
+"Traf Violation Cite","14","05",210
+"Well Being Check","14","05",253
+"Homeless Complaint","13","05",544
+"Suspicious Person","13","05",797
+"Traf Violation Tow","13","05",87
+"Burglary","13","05",84
+"Stolen Vehicle","13","05",94
+"Petty Theft","12","05",196
+"Traf Violation Tow","12","05",100
+"Audible Alarm","23","05",242
+"Vandalism","23","05",42
+"Threats / Harassment","09","05",92
+"Assault / Battery","04","05",32
+"Audible Alarm","04","05",222
+"Auto Boost / Strip","04","05",43
+"Audible Alarm","03","05",215
+"Suspicious Vehicle","03","05",139
+"Threats / Harassment","22","05",55
+"Vandalism","08","05",59
+"Mentally Disturbed","02","05",45
+"Suspicious Vehicle","01","05",185
+"Suspicious Person","06","05",183
+"Burglary","00","05",39
+"Trespasser","06","05",229
+"Stolen Vehicle","05","05",16
+"Threats / Harassment","15","05",91
+"Veh Accident","12","05",80
+"Drugs","17","05",143
+"Drugs","20","05",90
+"Assault / Battery","19","05",133
+"Fight No Weapon","05","05",77
+"Threats / Harassment","02","05",25
+"Petty Theft","23","05",65
+"Auto Boost / Strip","00","05",114
+"Auto Boost / Strip","23","05",187
+"Threats / Harassment","23","05",49
+"Stolen Vehicle","14","05",97
+"Fraud","08","05",19
+"Mentally Disturbed","04","05",30
+"Stolen Vehicle","03","05",13
+"Trespasser","21","04",171
+"Trespasser","07","04",210
+"Well Being Check","07","04",164
+"Traf Violation Tow","20","04",51
+"Trespasser","20","04",203
+"Suspicious Person","20","04",342
+"Homeless Complaint","14","04",500
+"Drugs","14","04",79
+"Auto Boost / Strip","14","04",182
+"Traf Violation Cite","12","04",88
+"Homeless Complaint","05","04",368
+"Audible Alarm","19","04",291
+"Audible Alarm","02","04",199
+"Well Being Check","19","04",249
+"Stolen Vehicle","13","04",83
+"Homeless Complaint","00","04",213
+"Well Being Check","00","04",184
+"Threats / Harassment","19","04",98
+"Petty Theft","18","04",176
+"Fraud","11","04",97
+"Well Being Check","04","04",77
+"Suspicious Person","18","04",644
+"Mentally Disturbed","10","04",146
+"Traffic Stop","06","04",173
+"Traf Violation Tow","23","04",35
+"Suspicious Vehicle","23","04",321
+"Assault / Battery","18","04",131
+"Suspicious Vehicle","22","04",340
+"Suspicious Vehicle","17","04",312
+"Assault / Battery","17","04",125
+"Veh Accident","16","04",83
+"Burglary","08","04",131
+"Stolen Vehicle","17","04",90
+"Audible Alarm","11","04",233
+"Traf Violation Tow","11","04",68
+"Suspicious Person","02","04",247
+"Auto Boost / Strip","21","04",208
+"Assault / Battery","20","04",104
+"Traf Violation Cite","16","04",46
+"Audible Alarm","12","04",252
+"Traffic Stop","00","04",823
+"Drugs","09","04",59
+"Traf Violation Tow","19","04",54
+"Auto Boost / Strip","08","04",76
+"Threats / Harassment","17","04",89
+"Vandalism","00","04",47
+"Suspicious Vehicle","05","04",62
+"Traf Violation Tow","17","04",67
+"Traf Violation Cite","05","04",22
+"Veh Accident","11","04",64
+"Fight No Weapon","03","04",91
+"Fraud","22","04",20
+"Threats / Harassment","08","04",40
+"Veh Accident","08","04",45
+"Noise Nuisance","06","04",60
+"Fight No Weapon","05","04",53
+"Traf Violation Tow","14","04",45
+"Fraud","07","04",11
+"Assault / Battery","21","03",91
+"Homeless Complaint","21","03",215
+"Assault / Battery","20","03",78
+"Homeless Complaint","13","03",394
+"Trespasser","19","03",147
+"Suspicious Vehicle","17","03",227
+"Homeless Complaint","19","03",257
+"Auto Boost / Strip","19","03",115
+"Noise Nuisance","12","03",32
+"Suspicious Person","12","03",503
+"Threats / Harassment","19","03",59
+"Burglary","18","03",39
+"Homeless Complaint","18","03",288
+"Suspicious Person","16","03",530
+"Audible Alarm","18","03",173
+"Petty Theft","16","03",109
+"Fight No Weapon","16","03",151
+"Threats / Harassment","15","03",77
+"Fight No Weapon","23","03",155
+"Suspicious Vehicle","22","03",276
+"Trespasser","22","03",149
+"Suspicious Person","09","03",280
+"Noise Nuisance","00","03",284
+"Fight No Weapon","00","03",150
+"Noise Nuisance","01","03",226
+"Homeless Complaint","11","03",538
+"Veh Accident","19","03",37
+"Traf Violation Cite","08","03",47
+"Auto Boost / Strip","22","03",164
+"Drugs","19","03",39
+"Vandalism","07","03",32
+"Veh Accident","07","03",14
+"Vandalism","21","03",39
+"Burglary","07","03",59
+"Noise Nuisance","17","03",47
+"Burglary","06","03",31
+"Assault / Battery","16","03",98
+"Threats / Harassment","06","03",14
+"Homeless Complaint","05","03",242
+"Burglary","16","03",51
+"Suspicious Vehicle","06","03",63
+"Traf Violation Tow","05","03",23
+"Vandalism","20","03",47
+"Vandalism","16","03",55
+"Audible Alarm","04","03",159
+"Mentally Disturbed","04","03",21
+"Petty Theft","03","03",15
+"Mentally Disturbed","03","03",23
+"Auto Boost / Strip","03","03",30
+"Traf Violation Cite","10","03",36
+"Noise Nuisance","03","03",111
+"Homeless Complaint","02","03",80
+"Burglary","02","03",22
+"Suspicious Person","02","03",132
+"Fight No Weapon","02","03",145
+"Burglary","20","03",45
+"Veh Accident","09","03",41
+"Trespasser","02","03",77
+"Fraud","10","03",45
+"Stolen Vehicle","19","03",39
+"Veh Accident","14","03",50
+"Stolen Vehicle","23","03",21
+"Assault / Battery","09","03",60
+"Mentally Disturbed","22","03",74
+"Traf Violation Tow","21","03",14
+"Trespasser","23","02",83
+"Mentally Disturbed","23","02",39
+"Suspicious Person","07","02",176
+"Mentally Disturbed","06","02",32
+"Suspicious Vehicle","04","02",57
+"Suspicious Vehicle","03","02",83
+"Well Being Check","02","02",84
+"Suspicious Person","15","02",412
+"Well Being Check","19","02",174
+"Suspicious Vehicle","19","02",148
+"Auto Boost / Strip","19","02",105
+"Mentally Disturbed","15","02",99
+"Audible Alarm","02","02",168
+"Traffic Stop","02","02",144
+"Suspicious Vehicle","02","02",101
+"Stolen Vehicle","19","02",40
+"Audible Alarm","19","02",187
+"Suspicious Person","12","02",437
+"Traffic Stop","01","02",228
+"Traf Violation Tow","19","02",41
+"Trespasser","22","02",131
+"Fight No Weapon","18","02",133
+"Traf Violation Cite","11","02",44
+"Auto Boost / Strip","09","02",63
+"Traf Violation Cite","22","02",17
+"Trespasser","18","02",134
+"Mentally Disturbed","14","02",77
+"Veh Accident","10","02",31
+"Suspicious Person","09","02",270
+"Assault / Battery","09","02",54
+"Mentally Disturbed","21","02",87
+"Threats / Harassment","18","02",63
+"Traffic Stop","13","02",799
+"Auto Boost / Strip","10","02",93
+"Fight No Weapon","09","02",112
+"Fraud","21","02",17
+"Fight No Weapon","14","02",126
+"Auto Boost / Strip","17","02",101
+"Assault / Battery","17","02",92
+"Burglary","12","02",48
+"Fraud","17","02",33
+"Noise Nuisance","04","02",77
+"Well Being Check","16","02",144
+"Trespasser","03","02",63
+"Fight No Weapon","03","02",87
+"Fight No Weapon","06","02",41
+"Vandalism","16","02",50
+"Mentally Disturbed","01","02",31
+"Homeless Complaint","01","02",99
+"Vandalism","15","02",60
+"Assault / Battery","00","02",54
+"Vandalism","05","02",19
+"Traf Violation Cite","20","02",20
+"Petty Theft","05","02",12
+"Burglary","04","02",12
+"Drugs","23","02",19
+"Stolen Vehicle","13","02",48
+"Traf Violation Tow","15","02",20
+"Fight No Weapon","11","01",119
+"Auto Boost / Strip","10","01",109
+"Homeless Complaint","19","01",238
+"Suspicious Person","17","01",389
+"Homeless Complaint","09","01",676
+"Trespasser","09","01",142
+"Fight No Weapon","20","01",155
+"Traf Violation Cite","15","01",18
+"Traffic Stop","10","01",898
+"Trespasser","04","01",73
+"Well Being Check","03","01",66
+"Traffic Stop","03","01",146
+"Fraud","18","01",39
+"Traffic Stop","16","01",1564
+"Trespasser","19","01",146
+"Suspicious Vehicle","02","01",102
+"Assault / Battery","16","01",88
+"Noise Nuisance","02","01",184
+"Suspicious Vehicle","13","01",167
+"Burglary","00","01",27
+"Drugs","07","01",14
+"Assault / Battery","00","01",57
+"Suspicious Vehicle","07","01",75
+"Well Being Check","23","01",109
+"Homeless Complaint","23","01",165
+"Fight No Weapon","23","01",128
+"Audible Alarm","12","01",138
+"Assault / Battery","12","01",77
+"Trespasser","12","01",111
+"Noise Nuisance","08","01",18
+"Drugs","14","01",51
+"Auto Boost / Strip","17","01",154
+"Threats / Harassment","07","01",31
+"Mentally Disturbed","21","01",68
+"Drugs","17","01",40
+"Fraud","17","01",63
+"Suspicious Vehicle","17","01",172
+"Veh Accident","22","01",23
+"Suspicious Person","06","01",89
+"Well Being Check","06","01",90
+"Suspicious Vehicle","10","01",106
+"Audible Alarm","01","01",152
+"Suspicious Vehicle","01","01",130
+"Traffic Stop","06","01",110
+"Noise Nuisance","04","01",75
+"Threats / Harassment","02","01",21
+"Threats / Harassment","09","01",41
+"Petty Theft","08","01",48
+"Stolen Vehicle","02","01",13
+"Burglary","03","01",15
+"Mentally Disturbed","02","01",22
+"Stolen Vehicle","15","01",58
+"Mentally Disturbed","05","01",22
+"Traf Violation Cite","02","01",27
+"Fraud","07","01",11
+"Fraud","21","01",19
+"Fraud","19","12",42
+"Traffic Stop","14","12",986
+"Auto Boost / Strip","14","12",217
+"Mentally Disturbed","08","12",102
+"Audible Alarm","21","12",251
+"Audible Alarm","18","12",244
+"Noise Nuisance","14","12",57
+"Suspicious Vehicle","20","12",187
+"Well Being Check","13","12",278
+"Well Being Check","07","12",147
+"Suspicious Person","07","12",307
+"Fight No Weapon","19","12",210
+"Stolen Vehicle","13","12",91
+"Noise Nuisance","19","12",123
+"Fight No Weapon","06","12",66
+"Auto Boost / Strip","23","12",174
+"Suspicious Vehicle","23","12",298
+"Suspicious Person","23","12",439
+"Noise Nuisance","23","12",474
+"Audible Alarm","17","12",203
+"Drugs","12","12",95
+"Stolen Vehicle","12","12",90
+"Trespasser","05","12",134
+"Audible Alarm","04","12",222
+"Traffic Stop","16","12",1631
+"Auto Boost / Strip","11","12",188
+"Traffic Stop","02","12",240
+"Mentally Disturbed","10","12",131
+"Petty Theft","10","12",145
+"Traf Violation Cite","15","12",198
+"Suspicious Vehicle","15","12",253
+"Threats / Harassment","00","12",33
+"Well Being Check","23","12",213
+"Trespasser","23","12",167
+"Homeless Complaint","20","12",236
+"Traffic Stop","15","12",1144
+"Drugs","09","12",64
+"Suspicious Person","14","12",664
+"Threats / Harassment","09","12",57
+"Mentally Disturbed","14","12",143
+"Traf Violation Tow","21","12",64
+"Auto Boost / Strip","18","12",166
+"Drugs","14","12",87
+"Noise Nuisance","13","12",66
+"Mentally Disturbed","17","12",146
+"Mentally Disturbed","19","12",126
+"Traf Violation Cite","02","12",71
+"Petty Theft","00","12",41
+"Noise Nuisance","10","12",40
+"Noise Nuisance","09","12",26
+"Vandalism","02","12",43
+"Auto Boost / Strip","02","12",56
+"Drugs","01","12",19
+"Threats / Harassment","11","12",75
+"Vandalism","07","12",35
+"Traf Violation Tow","01","12",32
+"Burglary","22","12",31
+"Fraud","22","12",13
+"Veh Accident","07","12",21
+"Stolen Vehicle","18","12",53
+"Veh Accident","17","11",76
+"Suspicious Vehicle","23","11",311
+"Suspicious Person","22","11",404
+"Suspicious Vehicle","22","11",324
+"Stolen Vehicle","17","11",83
+"Fight No Weapon","21","11",229
+"Veh Accident","20","11",40
+"Stolen Vehicle","20","11",44
+"Traf Violation Cite","19","11",205
+"Assault / Battery","23","11",111
+"Suspicious Vehicle","18","11",266
+"Traf Violation Tow","23","11",29
+"Burglary","23","11",35
+"Audible Alarm","09","11",291
+"Suspicious Vehicle","09","11",201
+"Suspicious Person","14","11",735
+"Homeless Complaint","08","11",829
+"Trespasser","13","11",191
+"Trespasser","16","11",219
+"Trespasser","07","11",246
+"Veh Accident","21","11",34
+"Drugs","12","11",123
+"Mentally Disturbed","07","11",114
+"Traffic Stop","06","11",164
+"Mentally Disturbed","11","11",177
+"Homeless Complaint","05","11",275
+"Traffic Stop","15","11",1202
+"Drugs","11","11",83
+"Fight No Weapon","04","11",59
+"Burglary","04","11",30
+"Fight No Weapon","15","11",229
+"Fraud","10","11",67
+"Assault / Battery","02","11",81
+"Traffic Stop","10","11",915
+"Mentally Disturbed","10","11",147
+"Mentally Disturbed","16","11",157
+"Stolen Vehicle","06","11",25
+"Threats / Harassment","05","11",26
+"Traf Violation Tow","05","11",26
+"Auto Boost / Strip","02","11",57
+"Assault / Battery","01","11",102
+"Suspicious Vehicle","07","11",127
+"Veh Accident","07","11",32
+"Stolen Vehicle","14","11",71
+"Mentally Disturbed","23","11",78
+"Auto Boost / Strip","22","11",230
+"Petty Theft","04","11",23
+"Veh Accident","02","11",20
+"Drugs","05","11",13
+"Drugs","19","10",73
+"Threats / Harassment","19","10",71
+"Trespasser","19","10",171
+"Traffic Stop","23","10",1050
+"Fight No Weapon","23","10",214
+"Audible Alarm","23","10",237
+"Veh Accident","22","10",39
+"Burglary","22","10",51
+"Veh Accident","21","10",33
+"Drugs","11","10",106
+"Traf Violation Cite","11","10",288
+"Traffic Stop","11","10",669
+"Audible Alarm","16","10",214
+"Mentally Disturbed","07","10",117
+"Petty Theft","07","10",52
+"Assault / Battery","15","10",147
+"Fight No Weapon","15","10",261
+"Mentally Disturbed","15","10",177
+"Mentally Disturbed","14","10",195
+"Homeless Complaint","14","10",462
+"Stolen Vehicle","10","10",122
+"Vandalism","10","10",89
+"Vandalism","05","10",25
+"Fight No Weapon","05","10",64
+"Suspicious Vehicle","14","10",218
+"Petty Theft","14","10",187
+"Audible Alarm","05","10",226
+"Drugs","18","10",138
+"Well Being Check","03","10",135
+"Suspicious Person","17","10",836
+"Traffic Stop","17","10",1708
+"Suspicious Person","02","10",252
+"Traf Violation Tow","17","10",87
+"Fight No Weapon","17","10",267
+"Assault / Battery","13","10",140
+"Petty Theft","13","10",190
+"Drugs","13","10",127
+"Fight No Weapon","01","10",230
+"Burglary","01","10",35
+"Auto Boost / Strip","13","10",217
+"Trespasser","12","10",191
+"Trespasser","00","10",159
+"Assault / Battery","23","10",131
+"Vandalism","16","10",77
+"Mentally Disturbed","12","10",166
+"Suspicious Vehicle","12","10",251
+"Auto Boost / Strip","08","10",106
+"Stolen Vehicle","12","10",131
+"Drugs","00","10",34
+"Veh Accident","13","10",91
+"Fraud","20","10",29
+"Traf Violation Tow","19","10",102
+"Threats / Harassment","08","10",57
+"Auto Boost / Strip","16","10",192
+"Burglary","06","10",35
+"Burglary","05","10",35
+"Homeless Complaint","18","10",351
+"Noise Nuisance","15","10",57
+"Threats / Harassment","01","10",31
+"Threats / Harassment","21","10",64
+"Threats / Harassment","20","10",68
+"Auto Boost / Strip","07","10",71
+"Petty Theft","06","10",35
+"Vandalism","15","10",90
+"Veh Accident","00","10",17
+"Threats / Harassment","22","10",62
+"Auto Boost / Strip","06","10",53
+"Burglary","00","10",29
+"Veh Accident","01","10",11
+"Homeless Complaint","02","10",66
+"Auto Boost / Strip","01","09",101
+"Traf Violation Cite","01","09",83
+"Petty Theft","00","09",41
+"Noise Nuisance","22","09",469
+"Suspicious Vehicle","16","09",309
+"Traf Violation Tow","10","09",82
+"Well Being Check","10","09",201
+"Noise Nuisance","23","09",580
+"Suspicious Person","21","09",378
+"Mentally Disturbed","21","09",116
+"Drugs","21","09",62
+"Veh Accident","16","09",68
+"Traffic Stop","20","09",649
+"Auto Boost / Strip","20","09",210
+"Suspicious Vehicle","20","09",235
+"Traffic Stop","19","09",1007
+"Threats / Harassment","09","09",78
+"Traffic Stop","14","09",1045
+"Traf Violation Tow","14","09",75
+"Noise Nuisance","19","09",114
+"Well Being Check","08","09",203
+"Assault / Battery","13","09",130
+"Mentally Disturbed","07","09",113
+"Homeless Complaint","07","09",1194
+"Well Being Check","07","09",156
+"Assault / Battery","18","09",152
+"Burglary","13","09",88
+"Noise Nuisance","13","09",45
+"Well Being Check","05","09",93
+"Mentally Disturbed","12","09",192
+"Fight No Weapon","05","09",76
+"Fight No Weapon","17","09",250
+"Traffic Stop","04","09",208
+"Burglary","03","09",37
+"Auto Boost / Strip","17","09",178
+"Homeless Complaint","17","09",393
+"Fraud","17","09",81
+"Traf Violation Tow","11","09",90
+"Well Being Check","11","09",230
+"Assault / Battery","03","09",68
+"Suspicious Vehicle","23","09",352
+"Well Being Check","22","09",204
+"Assault / Battery","11","09",116
+"Stolen Vehicle","15","09",81
+"Vandalism","10","09",55
+"Stolen Vehicle","09","09",101
+"Petty Theft","13","09",151
+"Petty Theft","17","09",164
+"Trespasser","06","09",205
+"Traf Violation Cite","05","09",44
+"Assault / Battery","21","09",145
+"Veh Accident","21","09",36
+"Traffic Stop","05","09",213
+"Vandalism","03","09",35
+"Threats / Harassment","03","09",16
+"Petty Theft","20","09",145
+"Homeless Complaint","15","09",362
+"Suspicious Vehicle","05","09",68
+"Assault / Battery","05","09",34
+"Threats / Harassment","10","09",91
+"Threats / Harassment","22","09",57
+"Veh Accident","07","09",21
+"Trespasser","19","08",200
+"Audible Alarm","15","08",223
+"Homeless Complaint","09","08",793
+"Suspicious Person","09","08",427
+"Traf Violation Tow","09","08",84
+"Traf Violation Cite","15","08",190
+"Auto Boost / Strip","09","08",103
+"Traf Violation Cite","08","08",281
+"Burglary","08","08",121
+"Fight No Weapon","18","08",233
+"Well Being Check","14","08",304
+"Vandalism","14","08",61
+"Well Being Check","08","08",219
+"Mentally Disturbed","23","08",77
+"Fight No Weapon","23","08",260
+"Traffic Stop","23","08",1217
+"Traf Violation Tow","13","08",81
+"Audible Alarm","23","08",242
+"Fight No Weapon","17","08",229
+"Veh Accident","13","08",69
+"Suspicious Vehicle","13","08",268
+"Threats / Harassment","22","08",66
+"Threats / Harassment","12","08",84
+"Suspicious Vehicle","12","08",243
+"Traffic Stop","22","08",1356
+"Vandalism","22","08",69
+"Suspicious Person","11","08",615
+"Trespasser","21","08",211
+"Auto Boost / Strip","21","08",216
+"Auto Boost / Strip","11","08",205
+"Petty Theft","11","08",167
+"Suspicious Vehicle","20","08",196
+"Traffic Stop","20","08",677
+"Suspicious Person","20","08",419
+"Trespasser","16","08",183
+"Homeless Complaint","10","08",694
+"Well Being Check","10","08",235
+"Mentally Disturbed","20","08",125
+"Well Being Check","06","08",90
+"Suspicious Person","06","08",153
+"Assault / Battery","06","08",47
+"Drugs","20","08",66
+"Trespasser","10","08",196
+"Noise Nuisance","05","08",76
+"Petty Theft","10","08",150
+"Traffic Stop","02","08",265
+"Well Being Check","01","08",178
+"Trespasser","01","08",148
+"Petty Theft","01","08",29
+"Assault / Battery","00","08",84
+"Vandalism","18","08",90
+"Assault / Battery","08","08",81
+"Auto Boost / Strip","06","08",47
+"Homeless Complaint","16","08",307
+"Homeless Complaint","04","08",77
+"Well Being Check","03","08",117
+"Fraud","10","08",70
+"Burglary","18","08",71
+"Petty Theft","08","08",94
+"Burglary","02","08",37
+"Drugs","06","08",15
+"Vandalism","07","08",35
+"Burglary","03","08",30
+"Suspicious Person","21","07",361
+"Noise Nuisance","21","07",314
+"Fight No Weapon","21","07",226
+"Traf Violation Tow","21","07",38
+"Suspicious Person","19","07",545
+"Veh Accident","20","07",41
+"Suspicious Person","23","07",469
+"Traf Violation Cite","23","07",91
+"Well Being Check","22","07",239
+"Trespasser","08","07",249
+"Traf Violation Cite","16","07",184
+"Mentally Disturbed","13","07",165
+"Trespasser","07","07",229
+"Well Being Check","20","07",262
+"Well Being Check","16","07",277
+"Burglary","10","07",120
+"Fraud","17","07",70
+"Suspicious Person","12","07",688
+"Traffic Stop","12","07",939
+"Trespasser","12","07",174
+"Suspicious Vehicle","07","07",131
+"Threats / Harassment","08","07",55
+"Veh Accident","07","07",19
+"Suspicious Vehicle","00","07",260
+"Noise Nuisance","00","07",509
+"Drugs","00","07",30
+"Mentally Disturbed","12","07",191
+"Audible Alarm","06","07",270
+"Traf Violation Tow","09","07",81
+"Threats / Harassment","09","07",69
+"Traffic Stop","05","07",105
+"Auto Boost / Strip","05","07",39
+"Homeless Complaint","14","07",350
+"Veh Accident","14","07",80
+"Traffic Stop","02","07",245
+"Auto Boost / Strip","02","07",73
+"Noise Nuisance","04","07",116
+"Burglary","04","07",33
+"Traffic Stop","03","07",166
+"Suspicious Vehicle","01","07",163
+"Well Being Check","01","07",154
+"Traffic Stop","01","07",351
+"Drugs","01","07",17
+"Assault / Battery","00","07",118
+"Threats / Harassment","01","07",41
+"Homeless Complaint","13","07",430
+"Burglary","14","07",82
+"Assault / Battery","13","07",137
+"Fight No Weapon","01","07",209
+"Vandalism","01","07",53
+"Burglary","00","07",28
+"Vandalism","09","07",62
+"Traf Violation Tow","05","07",25
+"Homeless Complaint","02","07",66
+"Veh Accident","02","07",14
+"Stolen Vehicle","00","07",26
+"Threats / Harassment","00","07",57
+"Homeless Complaint","03","07",54
+"Traf Violation Cite","20","06",180
+"Petty Theft","20","06",124
+"Vandalism","20","06",85
+"Traf Violation Tow","20","06",77
+"Threats / Harassment","13","06",76
+"Fraud","20","06",30
+"Burglary","20","06",54
+"Mentally Disturbed","20","06",146
+"Fight No Weapon","19","06",243
+"Mentally Disturbed","17","06",177
+"Suspicious Vehicle","17","06",283
+"Suspicious Person","11","06",511
+"Audible Alarm","18","06",312
+"Assault / Battery","17","06",155
+"Trespasser","17","06",194
+"Homeless Complaint","10","06",613
+"Well Being Check","16","06",309
+"Audible Alarm","16","06",257
+"Traffic Stop","16","06",1673
+"Veh Accident","16","06",74
+"Fight No Weapon","18","06",278
+"Auto Boost / Strip","16","06",211
+"Trespasser","16","06",196
+"Stolen Vehicle","22","06",45
+"Vandalism","15","06",82
+"Suspicious Person","14","06",639
+"Assault / Battery","16","06",148
+"Suspicious Person","08","06",352
+"Homeless Complaint","08","06",872
+"Fight No Weapon","07","06",91
+"Drugs","09","06",82
+"Veh Accident","18","06",82
+"Suspicious Person","06","06",153
+"Well Being Check","06","06",115
+"Vandalism","21","06",84
+"Homeless Complaint","05","06",335
+"Fight No Weapon","13","06",209
+"Threats / Harassment","08","06",50
+"Traf Violation Cite","05","06",45
+"Trespasser","04","06",102
+"Auto Boost / Strip","15","06",266
+"Veh Accident","23","06",30
+"Suspicious Person","03","06",162
+"Trespasser","02","06",132
+"Veh Accident","22","06",30
+"Threats / Harassment","19","06",83
+"Auto Boost / Strip","19","06",188
+"Well Being Check","12","06",267
+"Well Being Check","01","06",168
+"Vandalism","11","06",71
+"Burglary","00","06",28
+"Fight No Weapon","06","06",60
+"Veh Accident","11","06",77
+"Suspicious Vehicle","08","06",148
+"Fraud","22","06",13
+"Traf Violation Tow","23","06",31
+"Traffic Stop","04","06",157
+"Auto Boost / Strip","05","06",38
+"Mentally Disturbed","11","05",180
+"Traf Violation Cite","11","05",198
+"Suspicious Vehicle","22","05",349
+"Veh Accident","22","05",36
+"Audible Alarm","22","05",249
+"Vandalism","11","05",48
+"Suspicious Vehicle","21","05",200
+"Drugs","21","05",57
+"Drugs","16","05",84
+"Auto Boost / Strip","16","05",223
+"Burglary","21","05",48
+"Fight No Weapon","18","05",246
+"Burglary","09","05",138
+"Trespasser","16","05",184
+"Audible Alarm","09","05",297
+"Fight No Weapon","20","05",221
+"Drugs","15","05",97
+"Trespasser","08","05",205
+"Burglary","08","05",97
+"Suspicious Person","08","05",405
+"Petty Theft","20","05",125
+"Assault / Battery","20","05",113
+"Well Being Check","17","05",262
+"Homeless Complaint","10","05",719
+"Well Being Check","10","05",229
+"Mentally Disturbed","19","05",139
+"Burglary","17","05",67
+"Threats / Harassment","14","05",94
+"Fight No Weapon","14","05",238
+"Assault / Battery","13","05",132
+"Noise Nuisance","12","05",54
+"Auto Boost / Strip","12","05",247
+"Traffic Stop","23","05",1323
+"Suspicious Vehicle","23","05",344
+"Fight No Weapon","23","05",221
+"Threats / Harassment","16","05",76
+"Audible Alarm","05","05",239
+"Suspicious Vehicle","04","05",109
+"Stolen Vehicle","09","05",87
+"Noise Nuisance","13","05",64
+"Noise Nuisance","02","05",287
+"Traf Violation Cite","02","05",43
+"Homeless Complaint","18","05",342
+"Noise Nuisance","15","05",69
+"Auto Boost / Strip","13","05",214
+"Traffic Stop","07","05",730
+"Well Being Check","07","05",143
+"Petty Theft","00","05",41
+"Threats / Harassment","21","05",67
+"Mentally Disturbed","06","05",67
+"Well Being Check","00","05",175
+"Auto Boost / Strip","07","05",74
+"Threats / Harassment","12","05",87
+"Stolen Vehicle","07","05",71
+"Well Being Check","06","05",112
+"Stolen Vehicle","11","05",111
+"Assault / Battery","08","05",100
+"Noise Nuisance","07","05",45
+"Drugs","11","05",97
+"Vandalism","01","05",37
+"Petty Theft","01","05",45
+"Assault / Battery","00","05",88
+"Vandalism","16","05",54
+"Audible Alarm","02","05",209
+"Traf Violation Tow","01","05",31
+"Vandalism","02","05",42
+"Drugs","04","05",11
+"Assault / Battery","05","05",22
+"Stolen Vehicle","00","05",26
+"Threats / Harassment","03","05",13
+"Audible Alarm","21","04",244
+"Burglary","20","04",62
+"Traffic Stop","15","04",1294
+"Burglary","07","04",76
+"Traf Violation Tow","07","04",45
+"Suspicious Vehicle","20","04",186
+"Mentally Disturbed","15","04",151
+"Fight No Weapon","14","04",237
+"Audible Alarm","14","04",245
+"Noise Nuisance","07","04",45
+"Veh Accident","20","04",39
+"Traf Violation Cite","14","04",69
+"Suspicious Person","06","04",198
+"Petty Theft","05","04",21
+"Assault / Battery","05","04",25
+"Assault / Battery","14","04",136
+"Suspicious Vehicle","04","04",101
+"Trespasser","03","04",74
+"Fraud","19","04",59
+"Suspicious Person","13","04",764
+"Assault / Battery","02","04",87
+"Vandalism","02","04",37
+"Well Being Check","02","04",163
+"Fight No Weapon","04","04",70
+"Fight No Weapon","10","04",176
+"Fight No Weapon","12","04",207
+"Traf Violation Cite","10","04",93
+"Drugs","17","04",96
+"Homeless Complaint","17","04",445
+"Suspicious Person","17","04",720
+"Audible Alarm","09","04",265
+"Auto Boost / Strip","09","04",111
+"Traf Violation Cite","09","04",71
+"Homeless Complaint","22","04",298
+"Traf Violation Cite","22","04",53
+"Suspicious Vehicle","09","04",157
+"Traffic Stop","08","04",1221
+"Trespasser","08","04",215
+"Fraud","08","04",34
+"Drugs","08","04",48
+"Suspicious Vehicle","11","04",185
+"Mentally Disturbed","02","04",48
+"Threats / Harassment","16","04",92
+"Burglary","01","04",18
+"Noise Nuisance","18","04",96
+"Assault / Battery","23","04",93
+"Fraud","14","04",104
+"Fight No Weapon","00","04",217
+"Threats / Harassment","22","04",57
+"Stolen Vehicle","22","04",43
+"Burglary","05","04",36
+"Assault / Battery","04","04",31
+"Vandalism","20","04",75
+"Veh Accident","18","04",63
+"Traf Violation Tow","03","04",12
+"Stolen Vehicle","02","04",28
+"Vandalism","07","04",39
+"Vandalism","04","04",18
+"Veh Accident","00","04",20
+"Fight No Weapon","20","03",133
+"Petty Theft","20","03",77
+"Suspicious Person","20","03",230
+"Auto Boost / Strip","18","03",135
+"Assault / Battery","18","03",121
+"Suspicious Vehicle","14","03",153
+"Assault / Battery","14","03",79
+"Suspicious Person","13","03",474
+"Petty Theft","13","03",109
+"Petty Theft","12","03",99
+"Auto Boost / Strip","12","03",140
+"Audible Alarm","12","03",142
+"Fight No Weapon","19","03",131
+"Traffic Stop","16","03",1316
+"Veh Accident","16","03",58
+"Trespasser","23","03",125
+"Well Being Check","23","03",158
+"Drugs","16","03",61
+"Traf Violation Cite","23","03",26
+"Vandalism","23","03",47
+"Mentally Disturbed","15","03",116
+"Audible Alarm","23","03",165
+"Audible Alarm","15","03",157
+"Fraud","19","03",31
+"Vandalism","14","03",43
+"Traffic Stop","00","03",501
+"Fraud","14","03",60
+"Threats / Harassment","11","03",52
+"Suspicious Person","11","03",396
+"Stolen Vehicle","13","03",54
+"Suspicious Vehicle","09","03",120
+"Mentally Disturbed","09","03",102
+"Suspicious Person","08","03",274
+"Audible Alarm","08","03",221
+"Burglary","11","03",72
+"Vandalism","11","03",51
+"Auto Boost / Strip","11","03",121
+"Trespasser","11","03",136
+"Vandalism","08","03",34
+"Petty Theft","08","03",41
+"Fraud","11","03",59
+"Audible Alarm","06","03",199
+"Traf Violation Cite","12","03",28
+"Homeless Complaint","04","03",168
+"Mentally Disturbed","05","03",27
+"Suspicious Person","05","03",65
+"Noise Nuisance","11","03",32
+"Traf Violation Cite","15","03",25
+"Fight No Weapon","04","03",59
+"Trespasser","03","03",84
+"Threats / Harassment","03","03",14
+"Fight No Weapon","03","03",70
+"Assault / Battery","10","03",69
+"Noise Nuisance","02","03",181
+"Petty Theft","01","03",24
+"Stolen Vehicle","01","03",19
+"Mentally Disturbed","01","03",42
+"Traf Violation Cite","11","03",45
+"Drugs","07","03",23
+"Veh Accident","06","03",11
+"Traf Violation Cite","05","03",52
+"Burglary","05","03",23
+"Traf Violation Tow","04","03",14
+"Veh Accident","10","03",39
+"Traf Violation Cite","09","03",40
+"Trespasser","04","03",57
+"Fraud","09","03",32
+"Mentally Disturbed","06","03",31
+"Veh Accident","15","03",52
+"Stolen Vehicle","02","03",12
+"Traf Violation Tow","18","03",31
+"Veh Accident","08","03",31
+"Vandalism","03","03",11
+"Stolen Vehicle","06","03",15
+"Well Being Check","23","02",111
+"Homeless Complaint","11","02",393
+"Petty Theft","11","02",97
+"Vandalism","04","02",17
+"Traffic Stop","19","02",646
+"Trespasser","19","02",124
+"Traffic Stop","15","02",850
+"Drugs","15","02",44
+"Trespasser","15","02",124
+"Assault / Battery","19","02",80
+"Threats / Harassment","15","02",68
+"Fraud","19","02",26
+"Fight No Weapon","10","02",90
+"Fraud","10","02",36
+"Suspicious Vehicle","01","02",136
+"Drugs","14","02",54
+"Noise Nuisance","12","02",39
+"Well Being Check","22","02",141
+"Mentally Disturbed","22","02",44
+"Drugs","09","02",29
+"Well Being Check","14","02",142
+"Audible Alarm","10","02",155
+"Trespasser","09","02",123
+"Suspicious Vehicle","13","02",138
+"Drugs","13","02",60
+"Trespasser","13","02",109
+"Audible Alarm","11","02",143
+"Suspicious Person","08","02",236
+"Auto Boost / Strip","08","02",65
+"Fight No Weapon","17","02",145
+"Traffic Stop","00","02",484
+"Trespasser","00","02",73
+"Drugs","12","02",49
+"Stolen Vehicle","09","02",71
+"Assault / Battery","22","02",57
+"Traf Violation Tow","17","02",21
+"Fraud","12","02",45
+"Audible Alarm","21","02",172
+"Noise Nuisance","16","02",44
+"Threats / Harassment","16","02",52
+"Traf Violation Cite","16","02",30
+"Traf Violation Cite","06","02",18
+"Fight No Weapon","20","02",115
+"Burglary","16","02",37
+"Threats / Harassment","10","02",51
+"Traf Violation Cite","17","02",27
+"Threats / Harassment","07","02",30
+"Mentally Disturbed","03","02",18
+"Threats / Harassment","14","02",57
+"Auto Boost / Strip","07","02",31
+"Well Being Check","00","02",99
+"Fight No Weapon","04","02",44
+"Traf Violation Tow","12","02",29
+"Fraud","18","02",36
+"Traf Violation Tow","01","02",16
+"Traf Violation Tow","09","02",21
+"Traf Violation Tow","23","02",11
+"Traf Violation Tow","07","02",17
+"Petty Theft","10","01",95
+"Stolen Vehicle","10","01",81
+"Suspicious Vehicle","05","01",39
+"Well Being Check","04","01",90
+"Suspicious Person","04","01",108
+"Auto Boost / Strip","19","01",159
+"Homeless Complaint","17","01",283
+"Suspicious Person","15","01",419
+"Trespasser","15","01",155
+"Suspicious Vehicle","18","01",170
+"Noise Nuisance","16","01",36
+"Mentally Disturbed","16","01",114
+"Vandalism","15","01",53
+"Noise Nuisance","15","01",55
+"Veh Accident","10","01",34
+"Well Being Check","09","01",134
+"Burglary","08","01",72
+"Suspicious Vehicle","15","01",199
+"Drugs","13","01",39
+"Stolen Vehicle","08","01",67
+"Petty Theft","01","01",25
+"Noise Nuisance","00","01",225
+"Assault / Battery","13","01",97
+"Well Being Check","07","01",81
+"Well Being Check","18","01",186
+"Auto Boost / Strip","14","01",156
+"Audible Alarm","23","01",161
+"Noise Nuisance","23","01",270
+"Traffic Stop","23","01",781
+"Trespasser","23","01",110
+"Suspicious Person","12","01",514
+"Stolen Vehicle","12","01",63
+"Traf Violation Cite","08","01",39
+"Well Being Check","08","01",123
+"Traf Violation Tow","23","01",11
+"Auto Boost / Strip","08","01",58
+"Traffic Stop","22","01",886
+"Well Being Check","22","01",138
+"Trespasser","17","01",142
+"Auto Boost / Strip","21","01",186
+"Traf Violation Tow","13","01",26
+"Trespasser","07","01",132
+"Mentally Disturbed","20","01",77
+"Trespasser","20","01",138
+"Stolen Vehicle","20","01",34
+"Vandalism","17","01",51
+"Veh Accident","17","01",57
+"Assault / Battery","11","01",67
+"Veh Accident","11","01",52
+"Trespasser","03","01",75
+"Noise Nuisance","11","01",33
+"Fraud","09","01",32
+"Drugs","19","01",40
+"Traf Violation Tow","05","01",14
+"Assault / Battery","04","01",24
+"Vandalism","18","01",42
+"Burglary","02","01",13
+"Traf Violation Tow","14","01",11
+"Noise Nuisance","14","01",24
+"Traf Violation Cite","12","01",27
+"Traf Violation Cite","22","01",16
+"Traf Violation Cite","23","01",31
+"Stolen Vehicle","03","01",15
+"Burglary","04","05",17
