@@ -393,7 +393,7 @@ LINE-HEIGHT:16px;
    <body class="fp-viewing-firstPage" style="overflow: hidden; height: 100%;">
       <div id="fullpage" class="fullpage-wrapper" style="height: 100%; position: relative; touch-action: none; transform: translate3d(0px, 0px, 0px); transition: all 700ms ease;">
          <div class="section active fp-section" id="section1" data-fp-styles="null" data-anchor="firstPage" style="height: 100%; background-color: white;background:url('bckImage1.png');background-repeat: no-repeat;background-position: center;background-attachment: fixed; background-size:cover; ">
-               <div class="intro" align="center"style="height: 40%;" onclick="window.location='./CS498-Project.html#secondPage'">
+               <div class="intro" align="center"style="height: 40%;" onclick="window.location='./CS498-Project.php#secondPage'">
                   <h1>San Francisco Police Calls and Incidents</h1>
 					<h2>A Big Data Solution to analyze and explore data</h2>
 
